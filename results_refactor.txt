@@ -1,0 +1,7027 @@
+
+> gildedtros@1.0.0 prestart
+> npm run build
+
+
+> gildedtros@1.0.0 build
+> tsc
+
+
+> gildedtros@1.0.0 start
+> node dist/test/text-test-fixture.js 500
+
+AXXES CODE KATA - GILDED TROS
+-------- day 0 --------
+name, sellIn, quality
+Ring of Cleansening Code, 10, 20
+Good Wine, 2, 0
+Elixir of the SOLID, 5, 7
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 15, 20
+Backstage passes for Re:Factor, 10, 49
+Backstage passes for HAXX, 5, 49
+Duplicate Code, 3, 6
+Long Methods, 3, 6
+Ugly Variable Names, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
+Ring of Cleansening Code, 9, 19
+Good Wine, 1, 1
+Elixir of the SOLID, 4, 6
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 14, 21
+Backstage passes for Re:Factor, 9, 50
+Backstage passes for HAXX, 4, 50
+Duplicate Code, 2, 4
+Long Methods, 2, 4
+Ugly Variable Names, 2, 4
+
+-------- day 2 --------
+name, sellIn, quality
+Ring of Cleansening Code, 8, 18
+Good Wine, 0, 2
+Elixir of the SOLID, 3, 5
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 13, 22
+Backstage passes for Re:Factor, 8, 50
+Backstage passes for HAXX, 3, 50
+Duplicate Code, 1, 2
+Long Methods, 1, 2
+Ugly Variable Names, 1, 2
+
+-------- day 3 --------
+name, sellIn, quality
+Ring of Cleansening Code, 7, 17
+Good Wine, -1, 4
+Elixir of the SOLID, 2, 4
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 12, 23
+Backstage passes for Re:Factor, 7, 50
+Backstage passes for HAXX, 2, 50
+Duplicate Code, 0, 0
+Long Methods, 0, 0
+Ugly Variable Names, 0, 0
+
+-------- day 4 --------
+name, sellIn, quality
+Ring of Cleansening Code, 6, 16
+Good Wine, -2, 6
+Elixir of the SOLID, 1, 3
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 11, 24
+Backstage passes for Re:Factor, 6, 50
+Backstage passes for HAXX, 1, 50
+Duplicate Code, -1, 0
+Long Methods, -1, 0
+Ugly Variable Names, -1, 0
+
+-------- day 5 --------
+name, sellIn, quality
+Ring of Cleansening Code, 5, 15
+Good Wine, -3, 8
+Elixir of the SOLID, 0, 2
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 10, 25
+Backstage passes for Re:Factor, 5, 50
+Backstage passes for HAXX, 0, 50
+Duplicate Code, -2, 0
+Long Methods, -2, 0
+Ugly Variable Names, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
+Ring of Cleansening Code, 4, 14
+Good Wine, -4, 10
+Elixir of the SOLID, -1, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 9, 27
+Backstage passes for Re:Factor, 4, 50
+Backstage passes for HAXX, -1, 0
+Duplicate Code, -3, 0
+Long Methods, -3, 0
+Ugly Variable Names, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Ring of Cleansening Code, 3, 13
+Good Wine, -5, 12
+Elixir of the SOLID, -2, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 8, 29
+Backstage passes for Re:Factor, 3, 50
+Backstage passes for HAXX, -2, 0
+Duplicate Code, -4, 0
+Long Methods, -4, 0
+Ugly Variable Names, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Ring of Cleansening Code, 2, 12
+Good Wine, -6, 14
+Elixir of the SOLID, -3, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 7, 31
+Backstage passes for Re:Factor, 2, 50
+Backstage passes for HAXX, -3, 0
+Duplicate Code, -5, 0
+Long Methods, -5, 0
+Ugly Variable Names, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Ring of Cleansening Code, 1, 11
+Good Wine, -7, 16
+Elixir of the SOLID, -4, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 6, 33
+Backstage passes for Re:Factor, 1, 50
+Backstage passes for HAXX, -4, 0
+Duplicate Code, -6, 0
+Long Methods, -6, 0
+Ugly Variable Names, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Ring of Cleansening Code, 0, 10
+Good Wine, -8, 18
+Elixir of the SOLID, -5, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 5, 35
+Backstage passes for Re:Factor, 0, 50
+Backstage passes for HAXX, -5, 0
+Duplicate Code, -7, 0
+Long Methods, -7, 0
+Ugly Variable Names, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
+Ring of Cleansening Code, -1, 8
+Good Wine, -9, 20
+Elixir of the SOLID, -6, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 4, 38
+Backstage passes for Re:Factor, -1, 0
+Backstage passes for HAXX, -6, 0
+Duplicate Code, -8, 0
+Long Methods, -8, 0
+Ugly Variable Names, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
+Ring of Cleansening Code, -2, 6
+Good Wine, -10, 22
+Elixir of the SOLID, -7, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 3, 41
+Backstage passes for Re:Factor, -2, 0
+Backstage passes for HAXX, -7, 0
+Duplicate Code, -9, 0
+Long Methods, -9, 0
+Ugly Variable Names, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
+Ring of Cleansening Code, -3, 4
+Good Wine, -11, 24
+Elixir of the SOLID, -8, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 2, 44
+Backstage passes for Re:Factor, -3, 0
+Backstage passes for HAXX, -8, 0
+Duplicate Code, -10, 0
+Long Methods, -10, 0
+Ugly Variable Names, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
+Ring of Cleansening Code, -4, 2
+Good Wine, -12, 26
+Elixir of the SOLID, -9, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 1, 47
+Backstage passes for Re:Factor, -4, 0
+Backstage passes for HAXX, -9, 0
+Duplicate Code, -11, 0
+Long Methods, -11, 0
+Ugly Variable Names, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
+Ring of Cleansening Code, -5, 0
+Good Wine, -13, 28
+Elixir of the SOLID, -10, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, 0, 50
+Backstage passes for Re:Factor, -5, 0
+Backstage passes for HAXX, -10, 0
+Duplicate Code, -12, 0
+Long Methods, -12, 0
+Ugly Variable Names, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
+Ring of Cleansening Code, -6, 0
+Good Wine, -14, 30
+Elixir of the SOLID, -11, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -1, 0
+Backstage passes for Re:Factor, -6, 0
+Backstage passes for HAXX, -11, 0
+Duplicate Code, -13, 0
+Long Methods, -13, 0
+Ugly Variable Names, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
+Ring of Cleansening Code, -7, 0
+Good Wine, -15, 32
+Elixir of the SOLID, -12, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -2, 0
+Backstage passes for Re:Factor, -7, 0
+Backstage passes for HAXX, -12, 0
+Duplicate Code, -14, 0
+Long Methods, -14, 0
+Ugly Variable Names, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
+Ring of Cleansening Code, -8, 0
+Good Wine, -16, 34
+Elixir of the SOLID, -13, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -3, 0
+Backstage passes for Re:Factor, -8, 0
+Backstage passes for HAXX, -13, 0
+Duplicate Code, -15, 0
+Long Methods, -15, 0
+Ugly Variable Names, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
+Ring of Cleansening Code, -9, 0
+Good Wine, -17, 36
+Elixir of the SOLID, -14, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -4, 0
+Backstage passes for Re:Factor, -9, 0
+Backstage passes for HAXX, -14, 0
+Duplicate Code, -16, 0
+Long Methods, -16, 0
+Ugly Variable Names, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
+Ring of Cleansening Code, -10, 0
+Good Wine, -18, 38
+Elixir of the SOLID, -15, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -5, 0
+Backstage passes for Re:Factor, -10, 0
+Backstage passes for HAXX, -15, 0
+Duplicate Code, -17, 0
+Long Methods, -17, 0
+Ugly Variable Names, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
+Ring of Cleansening Code, -11, 0
+Good Wine, -19, 40
+Elixir of the SOLID, -16, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -6, 0
+Backstage passes for Re:Factor, -11, 0
+Backstage passes for HAXX, -16, 0
+Duplicate Code, -18, 0
+Long Methods, -18, 0
+Ugly Variable Names, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
+Ring of Cleansening Code, -12, 0
+Good Wine, -20, 42
+Elixir of the SOLID, -17, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -7, 0
+Backstage passes for Re:Factor, -12, 0
+Backstage passes for HAXX, -17, 0
+Duplicate Code, -19, 0
+Long Methods, -19, 0
+Ugly Variable Names, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
+Ring of Cleansening Code, -13, 0
+Good Wine, -21, 44
+Elixir of the SOLID, -18, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -8, 0
+Backstage passes for Re:Factor, -13, 0
+Backstage passes for HAXX, -18, 0
+Duplicate Code, -20, 0
+Long Methods, -20, 0
+Ugly Variable Names, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
+Ring of Cleansening Code, -14, 0
+Good Wine, -22, 46
+Elixir of the SOLID, -19, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -9, 0
+Backstage passes for Re:Factor, -14, 0
+Backstage passes for HAXX, -19, 0
+Duplicate Code, -21, 0
+Long Methods, -21, 0
+Ugly Variable Names, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
+Ring of Cleansening Code, -15, 0
+Good Wine, -23, 48
+Elixir of the SOLID, -20, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -10, 0
+Backstage passes for Re:Factor, -15, 0
+Backstage passes for HAXX, -20, 0
+Duplicate Code, -22, 0
+Long Methods, -22, 0
+Ugly Variable Names, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
+Ring of Cleansening Code, -16, 0
+Good Wine, -24, 50
+Elixir of the SOLID, -21, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -11, 0
+Backstage passes for Re:Factor, -16, 0
+Backstage passes for HAXX, -21, 0
+Duplicate Code, -23, 0
+Long Methods, -23, 0
+Ugly Variable Names, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
+Ring of Cleansening Code, -17, 0
+Good Wine, -25, 50
+Elixir of the SOLID, -22, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -12, 0
+Backstage passes for Re:Factor, -17, 0
+Backstage passes for HAXX, -22, 0
+Duplicate Code, -24, 0
+Long Methods, -24, 0
+Ugly Variable Names, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
+Ring of Cleansening Code, -18, 0
+Good Wine, -26, 50
+Elixir of the SOLID, -23, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -13, 0
+Backstage passes for Re:Factor, -18, 0
+Backstage passes for HAXX, -23, 0
+Duplicate Code, -25, 0
+Long Methods, -25, 0
+Ugly Variable Names, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
+Ring of Cleansening Code, -19, 0
+Good Wine, -27, 50
+Elixir of the SOLID, -24, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -14, 0
+Backstage passes for Re:Factor, -19, 0
+Backstage passes for HAXX, -24, 0
+Duplicate Code, -26, 0
+Long Methods, -26, 0
+Ugly Variable Names, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
+Ring of Cleansening Code, -20, 0
+Good Wine, -28, 50
+Elixir of the SOLID, -25, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -15, 0
+Backstage passes for Re:Factor, -20, 0
+Backstage passes for HAXX, -25, 0
+Duplicate Code, -27, 0
+Long Methods, -27, 0
+Ugly Variable Names, -27, 0
+
+-------- day 31 --------
+name, sellIn, quality
+Ring of Cleansening Code, -21, 0
+Good Wine, -29, 50
+Elixir of the SOLID, -26, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -16, 0
+Backstage passes for Re:Factor, -21, 0
+Backstage passes for HAXX, -26, 0
+Duplicate Code, -28, 0
+Long Methods, -28, 0
+Ugly Variable Names, -28, 0
+
+-------- day 32 --------
+name, sellIn, quality
+Ring of Cleansening Code, -22, 0
+Good Wine, -30, 50
+Elixir of the SOLID, -27, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -17, 0
+Backstage passes for Re:Factor, -22, 0
+Backstage passes for HAXX, -27, 0
+Duplicate Code, -29, 0
+Long Methods, -29, 0
+Ugly Variable Names, -29, 0
+
+-------- day 33 --------
+name, sellIn, quality
+Ring of Cleansening Code, -23, 0
+Good Wine, -31, 50
+Elixir of the SOLID, -28, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -18, 0
+Backstage passes for Re:Factor, -23, 0
+Backstage passes for HAXX, -28, 0
+Duplicate Code, -30, 0
+Long Methods, -30, 0
+Ugly Variable Names, -30, 0
+
+-------- day 34 --------
+name, sellIn, quality
+Ring of Cleansening Code, -24, 0
+Good Wine, -32, 50
+Elixir of the SOLID, -29, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -19, 0
+Backstage passes for Re:Factor, -24, 0
+Backstage passes for HAXX, -29, 0
+Duplicate Code, -31, 0
+Long Methods, -31, 0
+Ugly Variable Names, -31, 0
+
+-------- day 35 --------
+name, sellIn, quality
+Ring of Cleansening Code, -25, 0
+Good Wine, -33, 50
+Elixir of the SOLID, -30, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -20, 0
+Backstage passes for Re:Factor, -25, 0
+Backstage passes for HAXX, -30, 0
+Duplicate Code, -32, 0
+Long Methods, -32, 0
+Ugly Variable Names, -32, 0
+
+-------- day 36 --------
+name, sellIn, quality
+Ring of Cleansening Code, -26, 0
+Good Wine, -34, 50
+Elixir of the SOLID, -31, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -21, 0
+Backstage passes for Re:Factor, -26, 0
+Backstage passes for HAXX, -31, 0
+Duplicate Code, -33, 0
+Long Methods, -33, 0
+Ugly Variable Names, -33, 0
+
+-------- day 37 --------
+name, sellIn, quality
+Ring of Cleansening Code, -27, 0
+Good Wine, -35, 50
+Elixir of the SOLID, -32, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -22, 0
+Backstage passes for Re:Factor, -27, 0
+Backstage passes for HAXX, -32, 0
+Duplicate Code, -34, 0
+Long Methods, -34, 0
+Ugly Variable Names, -34, 0
+
+-------- day 38 --------
+name, sellIn, quality
+Ring of Cleansening Code, -28, 0
+Good Wine, -36, 50
+Elixir of the SOLID, -33, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -23, 0
+Backstage passes for Re:Factor, -28, 0
+Backstage passes for HAXX, -33, 0
+Duplicate Code, -35, 0
+Long Methods, -35, 0
+Ugly Variable Names, -35, 0
+
+-------- day 39 --------
+name, sellIn, quality
+Ring of Cleansening Code, -29, 0
+Good Wine, -37, 50
+Elixir of the SOLID, -34, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -24, 0
+Backstage passes for Re:Factor, -29, 0
+Backstage passes for HAXX, -34, 0
+Duplicate Code, -36, 0
+Long Methods, -36, 0
+Ugly Variable Names, -36, 0
+
+-------- day 40 --------
+name, sellIn, quality
+Ring of Cleansening Code, -30, 0
+Good Wine, -38, 50
+Elixir of the SOLID, -35, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -25, 0
+Backstage passes for Re:Factor, -30, 0
+Backstage passes for HAXX, -35, 0
+Duplicate Code, -37, 0
+Long Methods, -37, 0
+Ugly Variable Names, -37, 0
+
+-------- day 41 --------
+name, sellIn, quality
+Ring of Cleansening Code, -31, 0
+Good Wine, -39, 50
+Elixir of the SOLID, -36, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -26, 0
+Backstage passes for Re:Factor, -31, 0
+Backstage passes for HAXX, -36, 0
+Duplicate Code, -38, 0
+Long Methods, -38, 0
+Ugly Variable Names, -38, 0
+
+-------- day 42 --------
+name, sellIn, quality
+Ring of Cleansening Code, -32, 0
+Good Wine, -40, 50
+Elixir of the SOLID, -37, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -27, 0
+Backstage passes for Re:Factor, -32, 0
+Backstage passes for HAXX, -37, 0
+Duplicate Code, -39, 0
+Long Methods, -39, 0
+Ugly Variable Names, -39, 0
+
+-------- day 43 --------
+name, sellIn, quality
+Ring of Cleansening Code, -33, 0
+Good Wine, -41, 50
+Elixir of the SOLID, -38, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -28, 0
+Backstage passes for Re:Factor, -33, 0
+Backstage passes for HAXX, -38, 0
+Duplicate Code, -40, 0
+Long Methods, -40, 0
+Ugly Variable Names, -40, 0
+
+-------- day 44 --------
+name, sellIn, quality
+Ring of Cleansening Code, -34, 0
+Good Wine, -42, 50
+Elixir of the SOLID, -39, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -29, 0
+Backstage passes for Re:Factor, -34, 0
+Backstage passes for HAXX, -39, 0
+Duplicate Code, -41, 0
+Long Methods, -41, 0
+Ugly Variable Names, -41, 0
+
+-------- day 45 --------
+name, sellIn, quality
+Ring of Cleansening Code, -35, 0
+Good Wine, -43, 50
+Elixir of the SOLID, -40, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -30, 0
+Backstage passes for Re:Factor, -35, 0
+Backstage passes for HAXX, -40, 0
+Duplicate Code, -42, 0
+Long Methods, -42, 0
+Ugly Variable Names, -42, 0
+
+-------- day 46 --------
+name, sellIn, quality
+Ring of Cleansening Code, -36, 0
+Good Wine, -44, 50
+Elixir of the SOLID, -41, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -31, 0
+Backstage passes for Re:Factor, -36, 0
+Backstage passes for HAXX, -41, 0
+Duplicate Code, -43, 0
+Long Methods, -43, 0
+Ugly Variable Names, -43, 0
+
+-------- day 47 --------
+name, sellIn, quality
+Ring of Cleansening Code, -37, 0
+Good Wine, -45, 50
+Elixir of the SOLID, -42, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -32, 0
+Backstage passes for Re:Factor, -37, 0
+Backstage passes for HAXX, -42, 0
+Duplicate Code, -44, 0
+Long Methods, -44, 0
+Ugly Variable Names, -44, 0
+
+-------- day 48 --------
+name, sellIn, quality
+Ring of Cleansening Code, -38, 0
+Good Wine, -46, 50
+Elixir of the SOLID, -43, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -33, 0
+Backstage passes for Re:Factor, -38, 0
+Backstage passes for HAXX, -43, 0
+Duplicate Code, -45, 0
+Long Methods, -45, 0
+Ugly Variable Names, -45, 0
+
+-------- day 49 --------
+name, sellIn, quality
+Ring of Cleansening Code, -39, 0
+Good Wine, -47, 50
+Elixir of the SOLID, -44, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -34, 0
+Backstage passes for Re:Factor, -39, 0
+Backstage passes for HAXX, -44, 0
+Duplicate Code, -46, 0
+Long Methods, -46, 0
+Ugly Variable Names, -46, 0
+
+-------- day 50 --------
+name, sellIn, quality
+Ring of Cleansening Code, -40, 0
+Good Wine, -48, 50
+Elixir of the SOLID, -45, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -35, 0
+Backstage passes for Re:Factor, -40, 0
+Backstage passes for HAXX, -45, 0
+Duplicate Code, -47, 0
+Long Methods, -47, 0
+Ugly Variable Names, -47, 0
+
+-------- day 51 --------
+name, sellIn, quality
+Ring of Cleansening Code, -41, 0
+Good Wine, -49, 50
+Elixir of the SOLID, -46, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -36, 0
+Backstage passes for Re:Factor, -41, 0
+Backstage passes for HAXX, -46, 0
+Duplicate Code, -48, 0
+Long Methods, -48, 0
+Ugly Variable Names, -48, 0
+
+-------- day 52 --------
+name, sellIn, quality
+Ring of Cleansening Code, -42, 0
+Good Wine, -50, 50
+Elixir of the SOLID, -47, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -37, 0
+Backstage passes for Re:Factor, -42, 0
+Backstage passes for HAXX, -47, 0
+Duplicate Code, -49, 0
+Long Methods, -49, 0
+Ugly Variable Names, -49, 0
+
+-------- day 53 --------
+name, sellIn, quality
+Ring of Cleansening Code, -43, 0
+Good Wine, -51, 50
+Elixir of the SOLID, -48, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -38, 0
+Backstage passes for Re:Factor, -43, 0
+Backstage passes for HAXX, -48, 0
+Duplicate Code, -50, 0
+Long Methods, -50, 0
+Ugly Variable Names, -50, 0
+
+-------- day 54 --------
+name, sellIn, quality
+Ring of Cleansening Code, -44, 0
+Good Wine, -52, 50
+Elixir of the SOLID, -49, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -39, 0
+Backstage passes for Re:Factor, -44, 0
+Backstage passes for HAXX, -49, 0
+Duplicate Code, -51, 0
+Long Methods, -51, 0
+Ugly Variable Names, -51, 0
+
+-------- day 55 --------
+name, sellIn, quality
+Ring of Cleansening Code, -45, 0
+Good Wine, -53, 50
+Elixir of the SOLID, -50, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -40, 0
+Backstage passes for Re:Factor, -45, 0
+Backstage passes for HAXX, -50, 0
+Duplicate Code, -52, 0
+Long Methods, -52, 0
+Ugly Variable Names, -52, 0
+
+-------- day 56 --------
+name, sellIn, quality
+Ring of Cleansening Code, -46, 0
+Good Wine, -54, 50
+Elixir of the SOLID, -51, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -41, 0
+Backstage passes for Re:Factor, -46, 0
+Backstage passes for HAXX, -51, 0
+Duplicate Code, -53, 0
+Long Methods, -53, 0
+Ugly Variable Names, -53, 0
+
+-------- day 57 --------
+name, sellIn, quality
+Ring of Cleansening Code, -47, 0
+Good Wine, -55, 50
+Elixir of the SOLID, -52, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -42, 0
+Backstage passes for Re:Factor, -47, 0
+Backstage passes for HAXX, -52, 0
+Duplicate Code, -54, 0
+Long Methods, -54, 0
+Ugly Variable Names, -54, 0
+
+-------- day 58 --------
+name, sellIn, quality
+Ring of Cleansening Code, -48, 0
+Good Wine, -56, 50
+Elixir of the SOLID, -53, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -43, 0
+Backstage passes for Re:Factor, -48, 0
+Backstage passes for HAXX, -53, 0
+Duplicate Code, -55, 0
+Long Methods, -55, 0
+Ugly Variable Names, -55, 0
+
+-------- day 59 --------
+name, sellIn, quality
+Ring of Cleansening Code, -49, 0
+Good Wine, -57, 50
+Elixir of the SOLID, -54, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -44, 0
+Backstage passes for Re:Factor, -49, 0
+Backstage passes for HAXX, -54, 0
+Duplicate Code, -56, 0
+Long Methods, -56, 0
+Ugly Variable Names, -56, 0
+
+-------- day 60 --------
+name, sellIn, quality
+Ring of Cleansening Code, -50, 0
+Good Wine, -58, 50
+Elixir of the SOLID, -55, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -45, 0
+Backstage passes for Re:Factor, -50, 0
+Backstage passes for HAXX, -55, 0
+Duplicate Code, -57, 0
+Long Methods, -57, 0
+Ugly Variable Names, -57, 0
+
+-------- day 61 --------
+name, sellIn, quality
+Ring of Cleansening Code, -51, 0
+Good Wine, -59, 50
+Elixir of the SOLID, -56, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -46, 0
+Backstage passes for Re:Factor, -51, 0
+Backstage passes for HAXX, -56, 0
+Duplicate Code, -58, 0
+Long Methods, -58, 0
+Ugly Variable Names, -58, 0
+
+-------- day 62 --------
+name, sellIn, quality
+Ring of Cleansening Code, -52, 0
+Good Wine, -60, 50
+Elixir of the SOLID, -57, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -47, 0
+Backstage passes for Re:Factor, -52, 0
+Backstage passes for HAXX, -57, 0
+Duplicate Code, -59, 0
+Long Methods, -59, 0
+Ugly Variable Names, -59, 0
+
+-------- day 63 --------
+name, sellIn, quality
+Ring of Cleansening Code, -53, 0
+Good Wine, -61, 50
+Elixir of the SOLID, -58, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -48, 0
+Backstage passes for Re:Factor, -53, 0
+Backstage passes for HAXX, -58, 0
+Duplicate Code, -60, 0
+Long Methods, -60, 0
+Ugly Variable Names, -60, 0
+
+-------- day 64 --------
+name, sellIn, quality
+Ring of Cleansening Code, -54, 0
+Good Wine, -62, 50
+Elixir of the SOLID, -59, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -49, 0
+Backstage passes for Re:Factor, -54, 0
+Backstage passes for HAXX, -59, 0
+Duplicate Code, -61, 0
+Long Methods, -61, 0
+Ugly Variable Names, -61, 0
+
+-------- day 65 --------
+name, sellIn, quality
+Ring of Cleansening Code, -55, 0
+Good Wine, -63, 50
+Elixir of the SOLID, -60, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -50, 0
+Backstage passes for Re:Factor, -55, 0
+Backstage passes for HAXX, -60, 0
+Duplicate Code, -62, 0
+Long Methods, -62, 0
+Ugly Variable Names, -62, 0
+
+-------- day 66 --------
+name, sellIn, quality
+Ring of Cleansening Code, -56, 0
+Good Wine, -64, 50
+Elixir of the SOLID, -61, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -51, 0
+Backstage passes for Re:Factor, -56, 0
+Backstage passes for HAXX, -61, 0
+Duplicate Code, -63, 0
+Long Methods, -63, 0
+Ugly Variable Names, -63, 0
+
+-------- day 67 --------
+name, sellIn, quality
+Ring of Cleansening Code, -57, 0
+Good Wine, -65, 50
+Elixir of the SOLID, -62, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -52, 0
+Backstage passes for Re:Factor, -57, 0
+Backstage passes for HAXX, -62, 0
+Duplicate Code, -64, 0
+Long Methods, -64, 0
+Ugly Variable Names, -64, 0
+
+-------- day 68 --------
+name, sellIn, quality
+Ring of Cleansening Code, -58, 0
+Good Wine, -66, 50
+Elixir of the SOLID, -63, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -53, 0
+Backstage passes for Re:Factor, -58, 0
+Backstage passes for HAXX, -63, 0
+Duplicate Code, -65, 0
+Long Methods, -65, 0
+Ugly Variable Names, -65, 0
+
+-------- day 69 --------
+name, sellIn, quality
+Ring of Cleansening Code, -59, 0
+Good Wine, -67, 50
+Elixir of the SOLID, -64, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -54, 0
+Backstage passes for Re:Factor, -59, 0
+Backstage passes for HAXX, -64, 0
+Duplicate Code, -66, 0
+Long Methods, -66, 0
+Ugly Variable Names, -66, 0
+
+-------- day 70 --------
+name, sellIn, quality
+Ring of Cleansening Code, -60, 0
+Good Wine, -68, 50
+Elixir of the SOLID, -65, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -55, 0
+Backstage passes for Re:Factor, -60, 0
+Backstage passes for HAXX, -65, 0
+Duplicate Code, -67, 0
+Long Methods, -67, 0
+Ugly Variable Names, -67, 0
+
+-------- day 71 --------
+name, sellIn, quality
+Ring of Cleansening Code, -61, 0
+Good Wine, -69, 50
+Elixir of the SOLID, -66, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -56, 0
+Backstage passes for Re:Factor, -61, 0
+Backstage passes for HAXX, -66, 0
+Duplicate Code, -68, 0
+Long Methods, -68, 0
+Ugly Variable Names, -68, 0
+
+-------- day 72 --------
+name, sellIn, quality
+Ring of Cleansening Code, -62, 0
+Good Wine, -70, 50
+Elixir of the SOLID, -67, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -57, 0
+Backstage passes for Re:Factor, -62, 0
+Backstage passes for HAXX, -67, 0
+Duplicate Code, -69, 0
+Long Methods, -69, 0
+Ugly Variable Names, -69, 0
+
+-------- day 73 --------
+name, sellIn, quality
+Ring of Cleansening Code, -63, 0
+Good Wine, -71, 50
+Elixir of the SOLID, -68, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -58, 0
+Backstage passes for Re:Factor, -63, 0
+Backstage passes for HAXX, -68, 0
+Duplicate Code, -70, 0
+Long Methods, -70, 0
+Ugly Variable Names, -70, 0
+
+-------- day 74 --------
+name, sellIn, quality
+Ring of Cleansening Code, -64, 0
+Good Wine, -72, 50
+Elixir of the SOLID, -69, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -59, 0
+Backstage passes for Re:Factor, -64, 0
+Backstage passes for HAXX, -69, 0
+Duplicate Code, -71, 0
+Long Methods, -71, 0
+Ugly Variable Names, -71, 0
+
+-------- day 75 --------
+name, sellIn, quality
+Ring of Cleansening Code, -65, 0
+Good Wine, -73, 50
+Elixir of the SOLID, -70, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -60, 0
+Backstage passes for Re:Factor, -65, 0
+Backstage passes for HAXX, -70, 0
+Duplicate Code, -72, 0
+Long Methods, -72, 0
+Ugly Variable Names, -72, 0
+
+-------- day 76 --------
+name, sellIn, quality
+Ring of Cleansening Code, -66, 0
+Good Wine, -74, 50
+Elixir of the SOLID, -71, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -61, 0
+Backstage passes for Re:Factor, -66, 0
+Backstage passes for HAXX, -71, 0
+Duplicate Code, -73, 0
+Long Methods, -73, 0
+Ugly Variable Names, -73, 0
+
+-------- day 77 --------
+name, sellIn, quality
+Ring of Cleansening Code, -67, 0
+Good Wine, -75, 50
+Elixir of the SOLID, -72, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -62, 0
+Backstage passes for Re:Factor, -67, 0
+Backstage passes for HAXX, -72, 0
+Duplicate Code, -74, 0
+Long Methods, -74, 0
+Ugly Variable Names, -74, 0
+
+-------- day 78 --------
+name, sellIn, quality
+Ring of Cleansening Code, -68, 0
+Good Wine, -76, 50
+Elixir of the SOLID, -73, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -63, 0
+Backstage passes for Re:Factor, -68, 0
+Backstage passes for HAXX, -73, 0
+Duplicate Code, -75, 0
+Long Methods, -75, 0
+Ugly Variable Names, -75, 0
+
+-------- day 79 --------
+name, sellIn, quality
+Ring of Cleansening Code, -69, 0
+Good Wine, -77, 50
+Elixir of the SOLID, -74, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -64, 0
+Backstage passes for Re:Factor, -69, 0
+Backstage passes for HAXX, -74, 0
+Duplicate Code, -76, 0
+Long Methods, -76, 0
+Ugly Variable Names, -76, 0
+
+-------- day 80 --------
+name, sellIn, quality
+Ring of Cleansening Code, -70, 0
+Good Wine, -78, 50
+Elixir of the SOLID, -75, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -65, 0
+Backstage passes for Re:Factor, -70, 0
+Backstage passes for HAXX, -75, 0
+Duplicate Code, -77, 0
+Long Methods, -77, 0
+Ugly Variable Names, -77, 0
+
+-------- day 81 --------
+name, sellIn, quality
+Ring of Cleansening Code, -71, 0
+Good Wine, -79, 50
+Elixir of the SOLID, -76, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -66, 0
+Backstage passes for Re:Factor, -71, 0
+Backstage passes for HAXX, -76, 0
+Duplicate Code, -78, 0
+Long Methods, -78, 0
+Ugly Variable Names, -78, 0
+
+-------- day 82 --------
+name, sellIn, quality
+Ring of Cleansening Code, -72, 0
+Good Wine, -80, 50
+Elixir of the SOLID, -77, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -67, 0
+Backstage passes for Re:Factor, -72, 0
+Backstage passes for HAXX, -77, 0
+Duplicate Code, -79, 0
+Long Methods, -79, 0
+Ugly Variable Names, -79, 0
+
+-------- day 83 --------
+name, sellIn, quality
+Ring of Cleansening Code, -73, 0
+Good Wine, -81, 50
+Elixir of the SOLID, -78, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -68, 0
+Backstage passes for Re:Factor, -73, 0
+Backstage passes for HAXX, -78, 0
+Duplicate Code, -80, 0
+Long Methods, -80, 0
+Ugly Variable Names, -80, 0
+
+-------- day 84 --------
+name, sellIn, quality
+Ring of Cleansening Code, -74, 0
+Good Wine, -82, 50
+Elixir of the SOLID, -79, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -69, 0
+Backstage passes for Re:Factor, -74, 0
+Backstage passes for HAXX, -79, 0
+Duplicate Code, -81, 0
+Long Methods, -81, 0
+Ugly Variable Names, -81, 0
+
+-------- day 85 --------
+name, sellIn, quality
+Ring of Cleansening Code, -75, 0
+Good Wine, -83, 50
+Elixir of the SOLID, -80, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -70, 0
+Backstage passes for Re:Factor, -75, 0
+Backstage passes for HAXX, -80, 0
+Duplicate Code, -82, 0
+Long Methods, -82, 0
+Ugly Variable Names, -82, 0
+
+-------- day 86 --------
+name, sellIn, quality
+Ring of Cleansening Code, -76, 0
+Good Wine, -84, 50
+Elixir of the SOLID, -81, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -71, 0
+Backstage passes for Re:Factor, -76, 0
+Backstage passes for HAXX, -81, 0
+Duplicate Code, -83, 0
+Long Methods, -83, 0
+Ugly Variable Names, -83, 0
+
+-------- day 87 --------
+name, sellIn, quality
+Ring of Cleansening Code, -77, 0
+Good Wine, -85, 50
+Elixir of the SOLID, -82, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -72, 0
+Backstage passes for Re:Factor, -77, 0
+Backstage passes for HAXX, -82, 0
+Duplicate Code, -84, 0
+Long Methods, -84, 0
+Ugly Variable Names, -84, 0
+
+-------- day 88 --------
+name, sellIn, quality
+Ring of Cleansening Code, -78, 0
+Good Wine, -86, 50
+Elixir of the SOLID, -83, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -73, 0
+Backstage passes for Re:Factor, -78, 0
+Backstage passes for HAXX, -83, 0
+Duplicate Code, -85, 0
+Long Methods, -85, 0
+Ugly Variable Names, -85, 0
+
+-------- day 89 --------
+name, sellIn, quality
+Ring of Cleansening Code, -79, 0
+Good Wine, -87, 50
+Elixir of the SOLID, -84, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -74, 0
+Backstage passes for Re:Factor, -79, 0
+Backstage passes for HAXX, -84, 0
+Duplicate Code, -86, 0
+Long Methods, -86, 0
+Ugly Variable Names, -86, 0
+
+-------- day 90 --------
+name, sellIn, quality
+Ring of Cleansening Code, -80, 0
+Good Wine, -88, 50
+Elixir of the SOLID, -85, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -75, 0
+Backstage passes for Re:Factor, -80, 0
+Backstage passes for HAXX, -85, 0
+Duplicate Code, -87, 0
+Long Methods, -87, 0
+Ugly Variable Names, -87, 0
+
+-------- day 91 --------
+name, sellIn, quality
+Ring of Cleansening Code, -81, 0
+Good Wine, -89, 50
+Elixir of the SOLID, -86, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -76, 0
+Backstage passes for Re:Factor, -81, 0
+Backstage passes for HAXX, -86, 0
+Duplicate Code, -88, 0
+Long Methods, -88, 0
+Ugly Variable Names, -88, 0
+
+-------- day 92 --------
+name, sellIn, quality
+Ring of Cleansening Code, -82, 0
+Good Wine, -90, 50
+Elixir of the SOLID, -87, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -77, 0
+Backstage passes for Re:Factor, -82, 0
+Backstage passes for HAXX, -87, 0
+Duplicate Code, -89, 0
+Long Methods, -89, 0
+Ugly Variable Names, -89, 0
+
+-------- day 93 --------
+name, sellIn, quality
+Ring of Cleansening Code, -83, 0
+Good Wine, -91, 50
+Elixir of the SOLID, -88, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -78, 0
+Backstage passes for Re:Factor, -83, 0
+Backstage passes for HAXX, -88, 0
+Duplicate Code, -90, 0
+Long Methods, -90, 0
+Ugly Variable Names, -90, 0
+
+-------- day 94 --------
+name, sellIn, quality
+Ring of Cleansening Code, -84, 0
+Good Wine, -92, 50
+Elixir of the SOLID, -89, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -79, 0
+Backstage passes for Re:Factor, -84, 0
+Backstage passes for HAXX, -89, 0
+Duplicate Code, -91, 0
+Long Methods, -91, 0
+Ugly Variable Names, -91, 0
+
+-------- day 95 --------
+name, sellIn, quality
+Ring of Cleansening Code, -85, 0
+Good Wine, -93, 50
+Elixir of the SOLID, -90, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -80, 0
+Backstage passes for Re:Factor, -85, 0
+Backstage passes for HAXX, -90, 0
+Duplicate Code, -92, 0
+Long Methods, -92, 0
+Ugly Variable Names, -92, 0
+
+-------- day 96 --------
+name, sellIn, quality
+Ring of Cleansening Code, -86, 0
+Good Wine, -94, 50
+Elixir of the SOLID, -91, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -81, 0
+Backstage passes for Re:Factor, -86, 0
+Backstage passes for HAXX, -91, 0
+Duplicate Code, -93, 0
+Long Methods, -93, 0
+Ugly Variable Names, -93, 0
+
+-------- day 97 --------
+name, sellIn, quality
+Ring of Cleansening Code, -87, 0
+Good Wine, -95, 50
+Elixir of the SOLID, -92, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -82, 0
+Backstage passes for Re:Factor, -87, 0
+Backstage passes for HAXX, -92, 0
+Duplicate Code, -94, 0
+Long Methods, -94, 0
+Ugly Variable Names, -94, 0
+
+-------- day 98 --------
+name, sellIn, quality
+Ring of Cleansening Code, -88, 0
+Good Wine, -96, 50
+Elixir of the SOLID, -93, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -83, 0
+Backstage passes for Re:Factor, -88, 0
+Backstage passes for HAXX, -93, 0
+Duplicate Code, -95, 0
+Long Methods, -95, 0
+Ugly Variable Names, -95, 0
+
+-------- day 99 --------
+name, sellIn, quality
+Ring of Cleansening Code, -89, 0
+Good Wine, -97, 50
+Elixir of the SOLID, -94, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -84, 0
+Backstage passes for Re:Factor, -89, 0
+Backstage passes for HAXX, -94, 0
+Duplicate Code, -96, 0
+Long Methods, -96, 0
+Ugly Variable Names, -96, 0
+
+-------- day 100 --------
+name, sellIn, quality
+Ring of Cleansening Code, -90, 0
+Good Wine, -98, 50
+Elixir of the SOLID, -95, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -85, 0
+Backstage passes for Re:Factor, -90, 0
+Backstage passes for HAXX, -95, 0
+Duplicate Code, -97, 0
+Long Methods, -97, 0
+Ugly Variable Names, -97, 0
+
+-------- day 101 --------
+name, sellIn, quality
+Ring of Cleansening Code, -91, 0
+Good Wine, -99, 50
+Elixir of the SOLID, -96, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -86, 0
+Backstage passes for Re:Factor, -91, 0
+Backstage passes for HAXX, -96, 0
+Duplicate Code, -98, 0
+Long Methods, -98, 0
+Ugly Variable Names, -98, 0
+
+-------- day 102 --------
+name, sellIn, quality
+Ring of Cleansening Code, -92, 0
+Good Wine, -100, 50
+Elixir of the SOLID, -97, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -87, 0
+Backstage passes for Re:Factor, -92, 0
+Backstage passes for HAXX, -97, 0
+Duplicate Code, -99, 0
+Long Methods, -99, 0
+Ugly Variable Names, -99, 0
+
+-------- day 103 --------
+name, sellIn, quality
+Ring of Cleansening Code, -93, 0
+Good Wine, -101, 50
+Elixir of the SOLID, -98, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -88, 0
+Backstage passes for Re:Factor, -93, 0
+Backstage passes for HAXX, -98, 0
+Duplicate Code, -100, 0
+Long Methods, -100, 0
+Ugly Variable Names, -100, 0
+
+-------- day 104 --------
+name, sellIn, quality
+Ring of Cleansening Code, -94, 0
+Good Wine, -102, 50
+Elixir of the SOLID, -99, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -89, 0
+Backstage passes for Re:Factor, -94, 0
+Backstage passes for HAXX, -99, 0
+Duplicate Code, -101, 0
+Long Methods, -101, 0
+Ugly Variable Names, -101, 0
+
+-------- day 105 --------
+name, sellIn, quality
+Ring of Cleansening Code, -95, 0
+Good Wine, -103, 50
+Elixir of the SOLID, -100, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -90, 0
+Backstage passes for Re:Factor, -95, 0
+Backstage passes for HAXX, -100, 0
+Duplicate Code, -102, 0
+Long Methods, -102, 0
+Ugly Variable Names, -102, 0
+
+-------- day 106 --------
+name, sellIn, quality
+Ring of Cleansening Code, -96, 0
+Good Wine, -104, 50
+Elixir of the SOLID, -101, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -91, 0
+Backstage passes for Re:Factor, -96, 0
+Backstage passes for HAXX, -101, 0
+Duplicate Code, -103, 0
+Long Methods, -103, 0
+Ugly Variable Names, -103, 0
+
+-------- day 107 --------
+name, sellIn, quality
+Ring of Cleansening Code, -97, 0
+Good Wine, -105, 50
+Elixir of the SOLID, -102, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -92, 0
+Backstage passes for Re:Factor, -97, 0
+Backstage passes for HAXX, -102, 0
+Duplicate Code, -104, 0
+Long Methods, -104, 0
+Ugly Variable Names, -104, 0
+
+-------- day 108 --------
+name, sellIn, quality
+Ring of Cleansening Code, -98, 0
+Good Wine, -106, 50
+Elixir of the SOLID, -103, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -93, 0
+Backstage passes for Re:Factor, -98, 0
+Backstage passes for HAXX, -103, 0
+Duplicate Code, -105, 0
+Long Methods, -105, 0
+Ugly Variable Names, -105, 0
+
+-------- day 109 --------
+name, sellIn, quality
+Ring of Cleansening Code, -99, 0
+Good Wine, -107, 50
+Elixir of the SOLID, -104, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -94, 0
+Backstage passes for Re:Factor, -99, 0
+Backstage passes for HAXX, -104, 0
+Duplicate Code, -106, 0
+Long Methods, -106, 0
+Ugly Variable Names, -106, 0
+
+-------- day 110 --------
+name, sellIn, quality
+Ring of Cleansening Code, -100, 0
+Good Wine, -108, 50
+Elixir of the SOLID, -105, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -95, 0
+Backstage passes for Re:Factor, -100, 0
+Backstage passes for HAXX, -105, 0
+Duplicate Code, -107, 0
+Long Methods, -107, 0
+Ugly Variable Names, -107, 0
+
+-------- day 111 --------
+name, sellIn, quality
+Ring of Cleansening Code, -101, 0
+Good Wine, -109, 50
+Elixir of the SOLID, -106, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -96, 0
+Backstage passes for Re:Factor, -101, 0
+Backstage passes for HAXX, -106, 0
+Duplicate Code, -108, 0
+Long Methods, -108, 0
+Ugly Variable Names, -108, 0
+
+-------- day 112 --------
+name, sellIn, quality
+Ring of Cleansening Code, -102, 0
+Good Wine, -110, 50
+Elixir of the SOLID, -107, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -97, 0
+Backstage passes for Re:Factor, -102, 0
+Backstage passes for HAXX, -107, 0
+Duplicate Code, -109, 0
+Long Methods, -109, 0
+Ugly Variable Names, -109, 0
+
+-------- day 113 --------
+name, sellIn, quality
+Ring of Cleansening Code, -103, 0
+Good Wine, -111, 50
+Elixir of the SOLID, -108, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -98, 0
+Backstage passes for Re:Factor, -103, 0
+Backstage passes for HAXX, -108, 0
+Duplicate Code, -110, 0
+Long Methods, -110, 0
+Ugly Variable Names, -110, 0
+
+-------- day 114 --------
+name, sellIn, quality
+Ring of Cleansening Code, -104, 0
+Good Wine, -112, 50
+Elixir of the SOLID, -109, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -99, 0
+Backstage passes for Re:Factor, -104, 0
+Backstage passes for HAXX, -109, 0
+Duplicate Code, -111, 0
+Long Methods, -111, 0
+Ugly Variable Names, -111, 0
+
+-------- day 115 --------
+name, sellIn, quality
+Ring of Cleansening Code, -105, 0
+Good Wine, -113, 50
+Elixir of the SOLID, -110, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -100, 0
+Backstage passes for Re:Factor, -105, 0
+Backstage passes for HAXX, -110, 0
+Duplicate Code, -112, 0
+Long Methods, -112, 0
+Ugly Variable Names, -112, 0
+
+-------- day 116 --------
+name, sellIn, quality
+Ring of Cleansening Code, -106, 0
+Good Wine, -114, 50
+Elixir of the SOLID, -111, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -101, 0
+Backstage passes for Re:Factor, -106, 0
+Backstage passes for HAXX, -111, 0
+Duplicate Code, -113, 0
+Long Methods, -113, 0
+Ugly Variable Names, -113, 0
+
+-------- day 117 --------
+name, sellIn, quality
+Ring of Cleansening Code, -107, 0
+Good Wine, -115, 50
+Elixir of the SOLID, -112, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -102, 0
+Backstage passes for Re:Factor, -107, 0
+Backstage passes for HAXX, -112, 0
+Duplicate Code, -114, 0
+Long Methods, -114, 0
+Ugly Variable Names, -114, 0
+
+-------- day 118 --------
+name, sellIn, quality
+Ring of Cleansening Code, -108, 0
+Good Wine, -116, 50
+Elixir of the SOLID, -113, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -103, 0
+Backstage passes for Re:Factor, -108, 0
+Backstage passes for HAXX, -113, 0
+Duplicate Code, -115, 0
+Long Methods, -115, 0
+Ugly Variable Names, -115, 0
+
+-------- day 119 --------
+name, sellIn, quality
+Ring of Cleansening Code, -109, 0
+Good Wine, -117, 50
+Elixir of the SOLID, -114, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -104, 0
+Backstage passes for Re:Factor, -109, 0
+Backstage passes for HAXX, -114, 0
+Duplicate Code, -116, 0
+Long Methods, -116, 0
+Ugly Variable Names, -116, 0
+
+-------- day 120 --------
+name, sellIn, quality
+Ring of Cleansening Code, -110, 0
+Good Wine, -118, 50
+Elixir of the SOLID, -115, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -105, 0
+Backstage passes for Re:Factor, -110, 0
+Backstage passes for HAXX, -115, 0
+Duplicate Code, -117, 0
+Long Methods, -117, 0
+Ugly Variable Names, -117, 0
+
+-------- day 121 --------
+name, sellIn, quality
+Ring of Cleansening Code, -111, 0
+Good Wine, -119, 50
+Elixir of the SOLID, -116, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -106, 0
+Backstage passes for Re:Factor, -111, 0
+Backstage passes for HAXX, -116, 0
+Duplicate Code, -118, 0
+Long Methods, -118, 0
+Ugly Variable Names, -118, 0
+
+-------- day 122 --------
+name, sellIn, quality
+Ring of Cleansening Code, -112, 0
+Good Wine, -120, 50
+Elixir of the SOLID, -117, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -107, 0
+Backstage passes for Re:Factor, -112, 0
+Backstage passes for HAXX, -117, 0
+Duplicate Code, -119, 0
+Long Methods, -119, 0
+Ugly Variable Names, -119, 0
+
+-------- day 123 --------
+name, sellIn, quality
+Ring of Cleansening Code, -113, 0
+Good Wine, -121, 50
+Elixir of the SOLID, -118, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -108, 0
+Backstage passes for Re:Factor, -113, 0
+Backstage passes for HAXX, -118, 0
+Duplicate Code, -120, 0
+Long Methods, -120, 0
+Ugly Variable Names, -120, 0
+
+-------- day 124 --------
+name, sellIn, quality
+Ring of Cleansening Code, -114, 0
+Good Wine, -122, 50
+Elixir of the SOLID, -119, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -109, 0
+Backstage passes for Re:Factor, -114, 0
+Backstage passes for HAXX, -119, 0
+Duplicate Code, -121, 0
+Long Methods, -121, 0
+Ugly Variable Names, -121, 0
+
+-------- day 125 --------
+name, sellIn, quality
+Ring of Cleansening Code, -115, 0
+Good Wine, -123, 50
+Elixir of the SOLID, -120, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -110, 0
+Backstage passes for Re:Factor, -115, 0
+Backstage passes for HAXX, -120, 0
+Duplicate Code, -122, 0
+Long Methods, -122, 0
+Ugly Variable Names, -122, 0
+
+-------- day 126 --------
+name, sellIn, quality
+Ring of Cleansening Code, -116, 0
+Good Wine, -124, 50
+Elixir of the SOLID, -121, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -111, 0
+Backstage passes for Re:Factor, -116, 0
+Backstage passes for HAXX, -121, 0
+Duplicate Code, -123, 0
+Long Methods, -123, 0
+Ugly Variable Names, -123, 0
+
+-------- day 127 --------
+name, sellIn, quality
+Ring of Cleansening Code, -117, 0
+Good Wine, -125, 50
+Elixir of the SOLID, -122, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -112, 0
+Backstage passes for Re:Factor, -117, 0
+Backstage passes for HAXX, -122, 0
+Duplicate Code, -124, 0
+Long Methods, -124, 0
+Ugly Variable Names, -124, 0
+
+-------- day 128 --------
+name, sellIn, quality
+Ring of Cleansening Code, -118, 0
+Good Wine, -126, 50
+Elixir of the SOLID, -123, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -113, 0
+Backstage passes for Re:Factor, -118, 0
+Backstage passes for HAXX, -123, 0
+Duplicate Code, -125, 0
+Long Methods, -125, 0
+Ugly Variable Names, -125, 0
+
+-------- day 129 --------
+name, sellIn, quality
+Ring of Cleansening Code, -119, 0
+Good Wine, -127, 50
+Elixir of the SOLID, -124, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -114, 0
+Backstage passes for Re:Factor, -119, 0
+Backstage passes for HAXX, -124, 0
+Duplicate Code, -126, 0
+Long Methods, -126, 0
+Ugly Variable Names, -126, 0
+
+-------- day 130 --------
+name, sellIn, quality
+Ring of Cleansening Code, -120, 0
+Good Wine, -128, 50
+Elixir of the SOLID, -125, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -115, 0
+Backstage passes for Re:Factor, -120, 0
+Backstage passes for HAXX, -125, 0
+Duplicate Code, -127, 0
+Long Methods, -127, 0
+Ugly Variable Names, -127, 0
+
+-------- day 131 --------
+name, sellIn, quality
+Ring of Cleansening Code, -121, 0
+Good Wine, -129, 50
+Elixir of the SOLID, -126, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -116, 0
+Backstage passes for Re:Factor, -121, 0
+Backstage passes for HAXX, -126, 0
+Duplicate Code, -128, 0
+Long Methods, -128, 0
+Ugly Variable Names, -128, 0
+
+-------- day 132 --------
+name, sellIn, quality
+Ring of Cleansening Code, -122, 0
+Good Wine, -130, 50
+Elixir of the SOLID, -127, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -117, 0
+Backstage passes for Re:Factor, -122, 0
+Backstage passes for HAXX, -127, 0
+Duplicate Code, -129, 0
+Long Methods, -129, 0
+Ugly Variable Names, -129, 0
+
+-------- day 133 --------
+name, sellIn, quality
+Ring of Cleansening Code, -123, 0
+Good Wine, -131, 50
+Elixir of the SOLID, -128, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -118, 0
+Backstage passes for Re:Factor, -123, 0
+Backstage passes for HAXX, -128, 0
+Duplicate Code, -130, 0
+Long Methods, -130, 0
+Ugly Variable Names, -130, 0
+
+-------- day 134 --------
+name, sellIn, quality
+Ring of Cleansening Code, -124, 0
+Good Wine, -132, 50
+Elixir of the SOLID, -129, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -119, 0
+Backstage passes for Re:Factor, -124, 0
+Backstage passes for HAXX, -129, 0
+Duplicate Code, -131, 0
+Long Methods, -131, 0
+Ugly Variable Names, -131, 0
+
+-------- day 135 --------
+name, sellIn, quality
+Ring of Cleansening Code, -125, 0
+Good Wine, -133, 50
+Elixir of the SOLID, -130, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -120, 0
+Backstage passes for Re:Factor, -125, 0
+Backstage passes for HAXX, -130, 0
+Duplicate Code, -132, 0
+Long Methods, -132, 0
+Ugly Variable Names, -132, 0
+
+-------- day 136 --------
+name, sellIn, quality
+Ring of Cleansening Code, -126, 0
+Good Wine, -134, 50
+Elixir of the SOLID, -131, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -121, 0
+Backstage passes for Re:Factor, -126, 0
+Backstage passes for HAXX, -131, 0
+Duplicate Code, -133, 0
+Long Methods, -133, 0
+Ugly Variable Names, -133, 0
+
+-------- day 137 --------
+name, sellIn, quality
+Ring of Cleansening Code, -127, 0
+Good Wine, -135, 50
+Elixir of the SOLID, -132, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -122, 0
+Backstage passes for Re:Factor, -127, 0
+Backstage passes for HAXX, -132, 0
+Duplicate Code, -134, 0
+Long Methods, -134, 0
+Ugly Variable Names, -134, 0
+
+-------- day 138 --------
+name, sellIn, quality
+Ring of Cleansening Code, -128, 0
+Good Wine, -136, 50
+Elixir of the SOLID, -133, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -123, 0
+Backstage passes for Re:Factor, -128, 0
+Backstage passes for HAXX, -133, 0
+Duplicate Code, -135, 0
+Long Methods, -135, 0
+Ugly Variable Names, -135, 0
+
+-------- day 139 --------
+name, sellIn, quality
+Ring of Cleansening Code, -129, 0
+Good Wine, -137, 50
+Elixir of the SOLID, -134, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -124, 0
+Backstage passes for Re:Factor, -129, 0
+Backstage passes for HAXX, -134, 0
+Duplicate Code, -136, 0
+Long Methods, -136, 0
+Ugly Variable Names, -136, 0
+
+-------- day 140 --------
+name, sellIn, quality
+Ring of Cleansening Code, -130, 0
+Good Wine, -138, 50
+Elixir of the SOLID, -135, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -125, 0
+Backstage passes for Re:Factor, -130, 0
+Backstage passes for HAXX, -135, 0
+Duplicate Code, -137, 0
+Long Methods, -137, 0
+Ugly Variable Names, -137, 0
+
+-------- day 141 --------
+name, sellIn, quality
+Ring of Cleansening Code, -131, 0
+Good Wine, -139, 50
+Elixir of the SOLID, -136, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -126, 0
+Backstage passes for Re:Factor, -131, 0
+Backstage passes for HAXX, -136, 0
+Duplicate Code, -138, 0
+Long Methods, -138, 0
+Ugly Variable Names, -138, 0
+
+-------- day 142 --------
+name, sellIn, quality
+Ring of Cleansening Code, -132, 0
+Good Wine, -140, 50
+Elixir of the SOLID, -137, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -127, 0
+Backstage passes for Re:Factor, -132, 0
+Backstage passes for HAXX, -137, 0
+Duplicate Code, -139, 0
+Long Methods, -139, 0
+Ugly Variable Names, -139, 0
+
+-------- day 143 --------
+name, sellIn, quality
+Ring of Cleansening Code, -133, 0
+Good Wine, -141, 50
+Elixir of the SOLID, -138, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -128, 0
+Backstage passes for Re:Factor, -133, 0
+Backstage passes for HAXX, -138, 0
+Duplicate Code, -140, 0
+Long Methods, -140, 0
+Ugly Variable Names, -140, 0
+
+-------- day 144 --------
+name, sellIn, quality
+Ring of Cleansening Code, -134, 0
+Good Wine, -142, 50
+Elixir of the SOLID, -139, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -129, 0
+Backstage passes for Re:Factor, -134, 0
+Backstage passes for HAXX, -139, 0
+Duplicate Code, -141, 0
+Long Methods, -141, 0
+Ugly Variable Names, -141, 0
+
+-------- day 145 --------
+name, sellIn, quality
+Ring of Cleansening Code, -135, 0
+Good Wine, -143, 50
+Elixir of the SOLID, -140, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -130, 0
+Backstage passes for Re:Factor, -135, 0
+Backstage passes for HAXX, -140, 0
+Duplicate Code, -142, 0
+Long Methods, -142, 0
+Ugly Variable Names, -142, 0
+
+-------- day 146 --------
+name, sellIn, quality
+Ring of Cleansening Code, -136, 0
+Good Wine, -144, 50
+Elixir of the SOLID, -141, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -131, 0
+Backstage passes for Re:Factor, -136, 0
+Backstage passes for HAXX, -141, 0
+Duplicate Code, -143, 0
+Long Methods, -143, 0
+Ugly Variable Names, -143, 0
+
+-------- day 147 --------
+name, sellIn, quality
+Ring of Cleansening Code, -137, 0
+Good Wine, -145, 50
+Elixir of the SOLID, -142, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -132, 0
+Backstage passes for Re:Factor, -137, 0
+Backstage passes for HAXX, -142, 0
+Duplicate Code, -144, 0
+Long Methods, -144, 0
+Ugly Variable Names, -144, 0
+
+-------- day 148 --------
+name, sellIn, quality
+Ring of Cleansening Code, -138, 0
+Good Wine, -146, 50
+Elixir of the SOLID, -143, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -133, 0
+Backstage passes for Re:Factor, -138, 0
+Backstage passes for HAXX, -143, 0
+Duplicate Code, -145, 0
+Long Methods, -145, 0
+Ugly Variable Names, -145, 0
+
+-------- day 149 --------
+name, sellIn, quality
+Ring of Cleansening Code, -139, 0
+Good Wine, -147, 50
+Elixir of the SOLID, -144, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -134, 0
+Backstage passes for Re:Factor, -139, 0
+Backstage passes for HAXX, -144, 0
+Duplicate Code, -146, 0
+Long Methods, -146, 0
+Ugly Variable Names, -146, 0
+
+-------- day 150 --------
+name, sellIn, quality
+Ring of Cleansening Code, -140, 0
+Good Wine, -148, 50
+Elixir of the SOLID, -145, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -135, 0
+Backstage passes for Re:Factor, -140, 0
+Backstage passes for HAXX, -145, 0
+Duplicate Code, -147, 0
+Long Methods, -147, 0
+Ugly Variable Names, -147, 0
+
+-------- day 151 --------
+name, sellIn, quality
+Ring of Cleansening Code, -141, 0
+Good Wine, -149, 50
+Elixir of the SOLID, -146, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -136, 0
+Backstage passes for Re:Factor, -141, 0
+Backstage passes for HAXX, -146, 0
+Duplicate Code, -148, 0
+Long Methods, -148, 0
+Ugly Variable Names, -148, 0
+
+-------- day 152 --------
+name, sellIn, quality
+Ring of Cleansening Code, -142, 0
+Good Wine, -150, 50
+Elixir of the SOLID, -147, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -137, 0
+Backstage passes for Re:Factor, -142, 0
+Backstage passes for HAXX, -147, 0
+Duplicate Code, -149, 0
+Long Methods, -149, 0
+Ugly Variable Names, -149, 0
+
+-------- day 153 --------
+name, sellIn, quality
+Ring of Cleansening Code, -143, 0
+Good Wine, -151, 50
+Elixir of the SOLID, -148, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -138, 0
+Backstage passes for Re:Factor, -143, 0
+Backstage passes for HAXX, -148, 0
+Duplicate Code, -150, 0
+Long Methods, -150, 0
+Ugly Variable Names, -150, 0
+
+-------- day 154 --------
+name, sellIn, quality
+Ring of Cleansening Code, -144, 0
+Good Wine, -152, 50
+Elixir of the SOLID, -149, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -139, 0
+Backstage passes for Re:Factor, -144, 0
+Backstage passes for HAXX, -149, 0
+Duplicate Code, -151, 0
+Long Methods, -151, 0
+Ugly Variable Names, -151, 0
+
+-------- day 155 --------
+name, sellIn, quality
+Ring of Cleansening Code, -145, 0
+Good Wine, -153, 50
+Elixir of the SOLID, -150, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -140, 0
+Backstage passes for Re:Factor, -145, 0
+Backstage passes for HAXX, -150, 0
+Duplicate Code, -152, 0
+Long Methods, -152, 0
+Ugly Variable Names, -152, 0
+
+-------- day 156 --------
+name, sellIn, quality
+Ring of Cleansening Code, -146, 0
+Good Wine, -154, 50
+Elixir of the SOLID, -151, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -141, 0
+Backstage passes for Re:Factor, -146, 0
+Backstage passes for HAXX, -151, 0
+Duplicate Code, -153, 0
+Long Methods, -153, 0
+Ugly Variable Names, -153, 0
+
+-------- day 157 --------
+name, sellIn, quality
+Ring of Cleansening Code, -147, 0
+Good Wine, -155, 50
+Elixir of the SOLID, -152, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -142, 0
+Backstage passes for Re:Factor, -147, 0
+Backstage passes for HAXX, -152, 0
+Duplicate Code, -154, 0
+Long Methods, -154, 0
+Ugly Variable Names, -154, 0
+
+-------- day 158 --------
+name, sellIn, quality
+Ring of Cleansening Code, -148, 0
+Good Wine, -156, 50
+Elixir of the SOLID, -153, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -143, 0
+Backstage passes for Re:Factor, -148, 0
+Backstage passes for HAXX, -153, 0
+Duplicate Code, -155, 0
+Long Methods, -155, 0
+Ugly Variable Names, -155, 0
+
+-------- day 159 --------
+name, sellIn, quality
+Ring of Cleansening Code, -149, 0
+Good Wine, -157, 50
+Elixir of the SOLID, -154, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -144, 0
+Backstage passes for Re:Factor, -149, 0
+Backstage passes for HAXX, -154, 0
+Duplicate Code, -156, 0
+Long Methods, -156, 0
+Ugly Variable Names, -156, 0
+
+-------- day 160 --------
+name, sellIn, quality
+Ring of Cleansening Code, -150, 0
+Good Wine, -158, 50
+Elixir of the SOLID, -155, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -145, 0
+Backstage passes for Re:Factor, -150, 0
+Backstage passes for HAXX, -155, 0
+Duplicate Code, -157, 0
+Long Methods, -157, 0
+Ugly Variable Names, -157, 0
+
+-------- day 161 --------
+name, sellIn, quality
+Ring of Cleansening Code, -151, 0
+Good Wine, -159, 50
+Elixir of the SOLID, -156, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -146, 0
+Backstage passes for Re:Factor, -151, 0
+Backstage passes for HAXX, -156, 0
+Duplicate Code, -158, 0
+Long Methods, -158, 0
+Ugly Variable Names, -158, 0
+
+-------- day 162 --------
+name, sellIn, quality
+Ring of Cleansening Code, -152, 0
+Good Wine, -160, 50
+Elixir of the SOLID, -157, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -147, 0
+Backstage passes for Re:Factor, -152, 0
+Backstage passes for HAXX, -157, 0
+Duplicate Code, -159, 0
+Long Methods, -159, 0
+Ugly Variable Names, -159, 0
+
+-------- day 163 --------
+name, sellIn, quality
+Ring of Cleansening Code, -153, 0
+Good Wine, -161, 50
+Elixir of the SOLID, -158, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -148, 0
+Backstage passes for Re:Factor, -153, 0
+Backstage passes for HAXX, -158, 0
+Duplicate Code, -160, 0
+Long Methods, -160, 0
+Ugly Variable Names, -160, 0
+
+-------- day 164 --------
+name, sellIn, quality
+Ring of Cleansening Code, -154, 0
+Good Wine, -162, 50
+Elixir of the SOLID, -159, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -149, 0
+Backstage passes for Re:Factor, -154, 0
+Backstage passes for HAXX, -159, 0
+Duplicate Code, -161, 0
+Long Methods, -161, 0
+Ugly Variable Names, -161, 0
+
+-------- day 165 --------
+name, sellIn, quality
+Ring of Cleansening Code, -155, 0
+Good Wine, -163, 50
+Elixir of the SOLID, -160, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -150, 0
+Backstage passes for Re:Factor, -155, 0
+Backstage passes for HAXX, -160, 0
+Duplicate Code, -162, 0
+Long Methods, -162, 0
+Ugly Variable Names, -162, 0
+
+-------- day 166 --------
+name, sellIn, quality
+Ring of Cleansening Code, -156, 0
+Good Wine, -164, 50
+Elixir of the SOLID, -161, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -151, 0
+Backstage passes for Re:Factor, -156, 0
+Backstage passes for HAXX, -161, 0
+Duplicate Code, -163, 0
+Long Methods, -163, 0
+Ugly Variable Names, -163, 0
+
+-------- day 167 --------
+name, sellIn, quality
+Ring of Cleansening Code, -157, 0
+Good Wine, -165, 50
+Elixir of the SOLID, -162, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -152, 0
+Backstage passes for Re:Factor, -157, 0
+Backstage passes for HAXX, -162, 0
+Duplicate Code, -164, 0
+Long Methods, -164, 0
+Ugly Variable Names, -164, 0
+
+-------- day 168 --------
+name, sellIn, quality
+Ring of Cleansening Code, -158, 0
+Good Wine, -166, 50
+Elixir of the SOLID, -163, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -153, 0
+Backstage passes for Re:Factor, -158, 0
+Backstage passes for HAXX, -163, 0
+Duplicate Code, -165, 0
+Long Methods, -165, 0
+Ugly Variable Names, -165, 0
+
+-------- day 169 --------
+name, sellIn, quality
+Ring of Cleansening Code, -159, 0
+Good Wine, -167, 50
+Elixir of the SOLID, -164, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -154, 0
+Backstage passes for Re:Factor, -159, 0
+Backstage passes for HAXX, -164, 0
+Duplicate Code, -166, 0
+Long Methods, -166, 0
+Ugly Variable Names, -166, 0
+
+-------- day 170 --------
+name, sellIn, quality
+Ring of Cleansening Code, -160, 0
+Good Wine, -168, 50
+Elixir of the SOLID, -165, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -155, 0
+Backstage passes for Re:Factor, -160, 0
+Backstage passes for HAXX, -165, 0
+Duplicate Code, -167, 0
+Long Methods, -167, 0
+Ugly Variable Names, -167, 0
+
+-------- day 171 --------
+name, sellIn, quality
+Ring of Cleansening Code, -161, 0
+Good Wine, -169, 50
+Elixir of the SOLID, -166, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -156, 0
+Backstage passes for Re:Factor, -161, 0
+Backstage passes for HAXX, -166, 0
+Duplicate Code, -168, 0
+Long Methods, -168, 0
+Ugly Variable Names, -168, 0
+
+-------- day 172 --------
+name, sellIn, quality
+Ring of Cleansening Code, -162, 0
+Good Wine, -170, 50
+Elixir of the SOLID, -167, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -157, 0
+Backstage passes for Re:Factor, -162, 0
+Backstage passes for HAXX, -167, 0
+Duplicate Code, -169, 0
+Long Methods, -169, 0
+Ugly Variable Names, -169, 0
+
+-------- day 173 --------
+name, sellIn, quality
+Ring of Cleansening Code, -163, 0
+Good Wine, -171, 50
+Elixir of the SOLID, -168, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -158, 0
+Backstage passes for Re:Factor, -163, 0
+Backstage passes for HAXX, -168, 0
+Duplicate Code, -170, 0
+Long Methods, -170, 0
+Ugly Variable Names, -170, 0
+
+-------- day 174 --------
+name, sellIn, quality
+Ring of Cleansening Code, -164, 0
+Good Wine, -172, 50
+Elixir of the SOLID, -169, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -159, 0
+Backstage passes for Re:Factor, -164, 0
+Backstage passes for HAXX, -169, 0
+Duplicate Code, -171, 0
+Long Methods, -171, 0
+Ugly Variable Names, -171, 0
+
+-------- day 175 --------
+name, sellIn, quality
+Ring of Cleansening Code, -165, 0
+Good Wine, -173, 50
+Elixir of the SOLID, -170, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -160, 0
+Backstage passes for Re:Factor, -165, 0
+Backstage passes for HAXX, -170, 0
+Duplicate Code, -172, 0
+Long Methods, -172, 0
+Ugly Variable Names, -172, 0
+
+-------- day 176 --------
+name, sellIn, quality
+Ring of Cleansening Code, -166, 0
+Good Wine, -174, 50
+Elixir of the SOLID, -171, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -161, 0
+Backstage passes for Re:Factor, -166, 0
+Backstage passes for HAXX, -171, 0
+Duplicate Code, -173, 0
+Long Methods, -173, 0
+Ugly Variable Names, -173, 0
+
+-------- day 177 --------
+name, sellIn, quality
+Ring of Cleansening Code, -167, 0
+Good Wine, -175, 50
+Elixir of the SOLID, -172, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -162, 0
+Backstage passes for Re:Factor, -167, 0
+Backstage passes for HAXX, -172, 0
+Duplicate Code, -174, 0
+Long Methods, -174, 0
+Ugly Variable Names, -174, 0
+
+-------- day 178 --------
+name, sellIn, quality
+Ring of Cleansening Code, -168, 0
+Good Wine, -176, 50
+Elixir of the SOLID, -173, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -163, 0
+Backstage passes for Re:Factor, -168, 0
+Backstage passes for HAXX, -173, 0
+Duplicate Code, -175, 0
+Long Methods, -175, 0
+Ugly Variable Names, -175, 0
+
+-------- day 179 --------
+name, sellIn, quality
+Ring of Cleansening Code, -169, 0
+Good Wine, -177, 50
+Elixir of the SOLID, -174, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -164, 0
+Backstage passes for Re:Factor, -169, 0
+Backstage passes for HAXX, -174, 0
+Duplicate Code, -176, 0
+Long Methods, -176, 0
+Ugly Variable Names, -176, 0
+
+-------- day 180 --------
+name, sellIn, quality
+Ring of Cleansening Code, -170, 0
+Good Wine, -178, 50
+Elixir of the SOLID, -175, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -165, 0
+Backstage passes for Re:Factor, -170, 0
+Backstage passes for HAXX, -175, 0
+Duplicate Code, -177, 0
+Long Methods, -177, 0
+Ugly Variable Names, -177, 0
+
+-------- day 181 --------
+name, sellIn, quality
+Ring of Cleansening Code, -171, 0
+Good Wine, -179, 50
+Elixir of the SOLID, -176, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -166, 0
+Backstage passes for Re:Factor, -171, 0
+Backstage passes for HAXX, -176, 0
+Duplicate Code, -178, 0
+Long Methods, -178, 0
+Ugly Variable Names, -178, 0
+
+-------- day 182 --------
+name, sellIn, quality
+Ring of Cleansening Code, -172, 0
+Good Wine, -180, 50
+Elixir of the SOLID, -177, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -167, 0
+Backstage passes for Re:Factor, -172, 0
+Backstage passes for HAXX, -177, 0
+Duplicate Code, -179, 0
+Long Methods, -179, 0
+Ugly Variable Names, -179, 0
+
+-------- day 183 --------
+name, sellIn, quality
+Ring of Cleansening Code, -173, 0
+Good Wine, -181, 50
+Elixir of the SOLID, -178, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -168, 0
+Backstage passes for Re:Factor, -173, 0
+Backstage passes for HAXX, -178, 0
+Duplicate Code, -180, 0
+Long Methods, -180, 0
+Ugly Variable Names, -180, 0
+
+-------- day 184 --------
+name, sellIn, quality
+Ring of Cleansening Code, -174, 0
+Good Wine, -182, 50
+Elixir of the SOLID, -179, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -169, 0
+Backstage passes for Re:Factor, -174, 0
+Backstage passes for HAXX, -179, 0
+Duplicate Code, -181, 0
+Long Methods, -181, 0
+Ugly Variable Names, -181, 0
+
+-------- day 185 --------
+name, sellIn, quality
+Ring of Cleansening Code, -175, 0
+Good Wine, -183, 50
+Elixir of the SOLID, -180, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -170, 0
+Backstage passes for Re:Factor, -175, 0
+Backstage passes for HAXX, -180, 0
+Duplicate Code, -182, 0
+Long Methods, -182, 0
+Ugly Variable Names, -182, 0
+
+-------- day 186 --------
+name, sellIn, quality
+Ring of Cleansening Code, -176, 0
+Good Wine, -184, 50
+Elixir of the SOLID, -181, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -171, 0
+Backstage passes for Re:Factor, -176, 0
+Backstage passes for HAXX, -181, 0
+Duplicate Code, -183, 0
+Long Methods, -183, 0
+Ugly Variable Names, -183, 0
+
+-------- day 187 --------
+name, sellIn, quality
+Ring of Cleansening Code, -177, 0
+Good Wine, -185, 50
+Elixir of the SOLID, -182, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -172, 0
+Backstage passes for Re:Factor, -177, 0
+Backstage passes for HAXX, -182, 0
+Duplicate Code, -184, 0
+Long Methods, -184, 0
+Ugly Variable Names, -184, 0
+
+-------- day 188 --------
+name, sellIn, quality
+Ring of Cleansening Code, -178, 0
+Good Wine, -186, 50
+Elixir of the SOLID, -183, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -173, 0
+Backstage passes for Re:Factor, -178, 0
+Backstage passes for HAXX, -183, 0
+Duplicate Code, -185, 0
+Long Methods, -185, 0
+Ugly Variable Names, -185, 0
+
+-------- day 189 --------
+name, sellIn, quality
+Ring of Cleansening Code, -179, 0
+Good Wine, -187, 50
+Elixir of the SOLID, -184, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -174, 0
+Backstage passes for Re:Factor, -179, 0
+Backstage passes for HAXX, -184, 0
+Duplicate Code, -186, 0
+Long Methods, -186, 0
+Ugly Variable Names, -186, 0
+
+-------- day 190 --------
+name, sellIn, quality
+Ring of Cleansening Code, -180, 0
+Good Wine, -188, 50
+Elixir of the SOLID, -185, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -175, 0
+Backstage passes for Re:Factor, -180, 0
+Backstage passes for HAXX, -185, 0
+Duplicate Code, -187, 0
+Long Methods, -187, 0
+Ugly Variable Names, -187, 0
+
+-------- day 191 --------
+name, sellIn, quality
+Ring of Cleansening Code, -181, 0
+Good Wine, -189, 50
+Elixir of the SOLID, -186, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -176, 0
+Backstage passes for Re:Factor, -181, 0
+Backstage passes for HAXX, -186, 0
+Duplicate Code, -188, 0
+Long Methods, -188, 0
+Ugly Variable Names, -188, 0
+
+-------- day 192 --------
+name, sellIn, quality
+Ring of Cleansening Code, -182, 0
+Good Wine, -190, 50
+Elixir of the SOLID, -187, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -177, 0
+Backstage passes for Re:Factor, -182, 0
+Backstage passes for HAXX, -187, 0
+Duplicate Code, -189, 0
+Long Methods, -189, 0
+Ugly Variable Names, -189, 0
+
+-------- day 193 --------
+name, sellIn, quality
+Ring of Cleansening Code, -183, 0
+Good Wine, -191, 50
+Elixir of the SOLID, -188, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -178, 0
+Backstage passes for Re:Factor, -183, 0
+Backstage passes for HAXX, -188, 0
+Duplicate Code, -190, 0
+Long Methods, -190, 0
+Ugly Variable Names, -190, 0
+
+-------- day 194 --------
+name, sellIn, quality
+Ring of Cleansening Code, -184, 0
+Good Wine, -192, 50
+Elixir of the SOLID, -189, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -179, 0
+Backstage passes for Re:Factor, -184, 0
+Backstage passes for HAXX, -189, 0
+Duplicate Code, -191, 0
+Long Methods, -191, 0
+Ugly Variable Names, -191, 0
+
+-------- day 195 --------
+name, sellIn, quality
+Ring of Cleansening Code, -185, 0
+Good Wine, -193, 50
+Elixir of the SOLID, -190, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -180, 0
+Backstage passes for Re:Factor, -185, 0
+Backstage passes for HAXX, -190, 0
+Duplicate Code, -192, 0
+Long Methods, -192, 0
+Ugly Variable Names, -192, 0
+
+-------- day 196 --------
+name, sellIn, quality
+Ring of Cleansening Code, -186, 0
+Good Wine, -194, 50
+Elixir of the SOLID, -191, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -181, 0
+Backstage passes for Re:Factor, -186, 0
+Backstage passes for HAXX, -191, 0
+Duplicate Code, -193, 0
+Long Methods, -193, 0
+Ugly Variable Names, -193, 0
+
+-------- day 197 --------
+name, sellIn, quality
+Ring of Cleansening Code, -187, 0
+Good Wine, -195, 50
+Elixir of the SOLID, -192, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -182, 0
+Backstage passes for Re:Factor, -187, 0
+Backstage passes for HAXX, -192, 0
+Duplicate Code, -194, 0
+Long Methods, -194, 0
+Ugly Variable Names, -194, 0
+
+-------- day 198 --------
+name, sellIn, quality
+Ring of Cleansening Code, -188, 0
+Good Wine, -196, 50
+Elixir of the SOLID, -193, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -183, 0
+Backstage passes for Re:Factor, -188, 0
+Backstage passes for HAXX, -193, 0
+Duplicate Code, -195, 0
+Long Methods, -195, 0
+Ugly Variable Names, -195, 0
+
+-------- day 199 --------
+name, sellIn, quality
+Ring of Cleansening Code, -189, 0
+Good Wine, -197, 50
+Elixir of the SOLID, -194, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -184, 0
+Backstage passes for Re:Factor, -189, 0
+Backstage passes for HAXX, -194, 0
+Duplicate Code, -196, 0
+Long Methods, -196, 0
+Ugly Variable Names, -196, 0
+
+-------- day 200 --------
+name, sellIn, quality
+Ring of Cleansening Code, -190, 0
+Good Wine, -198, 50
+Elixir of the SOLID, -195, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -185, 0
+Backstage passes for Re:Factor, -190, 0
+Backstage passes for HAXX, -195, 0
+Duplicate Code, -197, 0
+Long Methods, -197, 0
+Ugly Variable Names, -197, 0
+
+-------- day 201 --------
+name, sellIn, quality
+Ring of Cleansening Code, -191, 0
+Good Wine, -199, 50
+Elixir of the SOLID, -196, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -186, 0
+Backstage passes for Re:Factor, -191, 0
+Backstage passes for HAXX, -196, 0
+Duplicate Code, -198, 0
+Long Methods, -198, 0
+Ugly Variable Names, -198, 0
+
+-------- day 202 --------
+name, sellIn, quality
+Ring of Cleansening Code, -192, 0
+Good Wine, -200, 50
+Elixir of the SOLID, -197, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -187, 0
+Backstage passes for Re:Factor, -192, 0
+Backstage passes for HAXX, -197, 0
+Duplicate Code, -199, 0
+Long Methods, -199, 0
+Ugly Variable Names, -199, 0
+
+-------- day 203 --------
+name, sellIn, quality
+Ring of Cleansening Code, -193, 0
+Good Wine, -201, 50
+Elixir of the SOLID, -198, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -188, 0
+Backstage passes for Re:Factor, -193, 0
+Backstage passes for HAXX, -198, 0
+Duplicate Code, -200, 0
+Long Methods, -200, 0
+Ugly Variable Names, -200, 0
+
+-------- day 204 --------
+name, sellIn, quality
+Ring of Cleansening Code, -194, 0
+Good Wine, -202, 50
+Elixir of the SOLID, -199, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -189, 0
+Backstage passes for Re:Factor, -194, 0
+Backstage passes for HAXX, -199, 0
+Duplicate Code, -201, 0
+Long Methods, -201, 0
+Ugly Variable Names, -201, 0
+
+-------- day 205 --------
+name, sellIn, quality
+Ring of Cleansening Code, -195, 0
+Good Wine, -203, 50
+Elixir of the SOLID, -200, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -190, 0
+Backstage passes for Re:Factor, -195, 0
+Backstage passes for HAXX, -200, 0
+Duplicate Code, -202, 0
+Long Methods, -202, 0
+Ugly Variable Names, -202, 0
+
+-------- day 206 --------
+name, sellIn, quality
+Ring of Cleansening Code, -196, 0
+Good Wine, -204, 50
+Elixir of the SOLID, -201, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -191, 0
+Backstage passes for Re:Factor, -196, 0
+Backstage passes for HAXX, -201, 0
+Duplicate Code, -203, 0
+Long Methods, -203, 0
+Ugly Variable Names, -203, 0
+
+-------- day 207 --------
+name, sellIn, quality
+Ring of Cleansening Code, -197, 0
+Good Wine, -205, 50
+Elixir of the SOLID, -202, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -192, 0
+Backstage passes for Re:Factor, -197, 0
+Backstage passes for HAXX, -202, 0
+Duplicate Code, -204, 0
+Long Methods, -204, 0
+Ugly Variable Names, -204, 0
+
+-------- day 208 --------
+name, sellIn, quality
+Ring of Cleansening Code, -198, 0
+Good Wine, -206, 50
+Elixir of the SOLID, -203, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -193, 0
+Backstage passes for Re:Factor, -198, 0
+Backstage passes for HAXX, -203, 0
+Duplicate Code, -205, 0
+Long Methods, -205, 0
+Ugly Variable Names, -205, 0
+
+-------- day 209 --------
+name, sellIn, quality
+Ring of Cleansening Code, -199, 0
+Good Wine, -207, 50
+Elixir of the SOLID, -204, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -194, 0
+Backstage passes for Re:Factor, -199, 0
+Backstage passes for HAXX, -204, 0
+Duplicate Code, -206, 0
+Long Methods, -206, 0
+Ugly Variable Names, -206, 0
+
+-------- day 210 --------
+name, sellIn, quality
+Ring of Cleansening Code, -200, 0
+Good Wine, -208, 50
+Elixir of the SOLID, -205, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -195, 0
+Backstage passes for Re:Factor, -200, 0
+Backstage passes for HAXX, -205, 0
+Duplicate Code, -207, 0
+Long Methods, -207, 0
+Ugly Variable Names, -207, 0
+
+-------- day 211 --------
+name, sellIn, quality
+Ring of Cleansening Code, -201, 0
+Good Wine, -209, 50
+Elixir of the SOLID, -206, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -196, 0
+Backstage passes for Re:Factor, -201, 0
+Backstage passes for HAXX, -206, 0
+Duplicate Code, -208, 0
+Long Methods, -208, 0
+Ugly Variable Names, -208, 0
+
+-------- day 212 --------
+name, sellIn, quality
+Ring of Cleansening Code, -202, 0
+Good Wine, -210, 50
+Elixir of the SOLID, -207, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -197, 0
+Backstage passes for Re:Factor, -202, 0
+Backstage passes for HAXX, -207, 0
+Duplicate Code, -209, 0
+Long Methods, -209, 0
+Ugly Variable Names, -209, 0
+
+-------- day 213 --------
+name, sellIn, quality
+Ring of Cleansening Code, -203, 0
+Good Wine, -211, 50
+Elixir of the SOLID, -208, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -198, 0
+Backstage passes for Re:Factor, -203, 0
+Backstage passes for HAXX, -208, 0
+Duplicate Code, -210, 0
+Long Methods, -210, 0
+Ugly Variable Names, -210, 0
+
+-------- day 214 --------
+name, sellIn, quality
+Ring of Cleansening Code, -204, 0
+Good Wine, -212, 50
+Elixir of the SOLID, -209, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -199, 0
+Backstage passes for Re:Factor, -204, 0
+Backstage passes for HAXX, -209, 0
+Duplicate Code, -211, 0
+Long Methods, -211, 0
+Ugly Variable Names, -211, 0
+
+-------- day 215 --------
+name, sellIn, quality
+Ring of Cleansening Code, -205, 0
+Good Wine, -213, 50
+Elixir of the SOLID, -210, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -200, 0
+Backstage passes for Re:Factor, -205, 0
+Backstage passes for HAXX, -210, 0
+Duplicate Code, -212, 0
+Long Methods, -212, 0
+Ugly Variable Names, -212, 0
+
+-------- day 216 --------
+name, sellIn, quality
+Ring of Cleansening Code, -206, 0
+Good Wine, -214, 50
+Elixir of the SOLID, -211, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -201, 0
+Backstage passes for Re:Factor, -206, 0
+Backstage passes for HAXX, -211, 0
+Duplicate Code, -213, 0
+Long Methods, -213, 0
+Ugly Variable Names, -213, 0
+
+-------- day 217 --------
+name, sellIn, quality
+Ring of Cleansening Code, -207, 0
+Good Wine, -215, 50
+Elixir of the SOLID, -212, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -202, 0
+Backstage passes for Re:Factor, -207, 0
+Backstage passes for HAXX, -212, 0
+Duplicate Code, -214, 0
+Long Methods, -214, 0
+Ugly Variable Names, -214, 0
+
+-------- day 218 --------
+name, sellIn, quality
+Ring of Cleansening Code, -208, 0
+Good Wine, -216, 50
+Elixir of the SOLID, -213, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -203, 0
+Backstage passes for Re:Factor, -208, 0
+Backstage passes for HAXX, -213, 0
+Duplicate Code, -215, 0
+Long Methods, -215, 0
+Ugly Variable Names, -215, 0
+
+-------- day 219 --------
+name, sellIn, quality
+Ring of Cleansening Code, -209, 0
+Good Wine, -217, 50
+Elixir of the SOLID, -214, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -204, 0
+Backstage passes for Re:Factor, -209, 0
+Backstage passes for HAXX, -214, 0
+Duplicate Code, -216, 0
+Long Methods, -216, 0
+Ugly Variable Names, -216, 0
+
+-------- day 220 --------
+name, sellIn, quality
+Ring of Cleansening Code, -210, 0
+Good Wine, -218, 50
+Elixir of the SOLID, -215, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -205, 0
+Backstage passes for Re:Factor, -210, 0
+Backstage passes for HAXX, -215, 0
+Duplicate Code, -217, 0
+Long Methods, -217, 0
+Ugly Variable Names, -217, 0
+
+-------- day 221 --------
+name, sellIn, quality
+Ring of Cleansening Code, -211, 0
+Good Wine, -219, 50
+Elixir of the SOLID, -216, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -206, 0
+Backstage passes for Re:Factor, -211, 0
+Backstage passes for HAXX, -216, 0
+Duplicate Code, -218, 0
+Long Methods, -218, 0
+Ugly Variable Names, -218, 0
+
+-------- day 222 --------
+name, sellIn, quality
+Ring of Cleansening Code, -212, 0
+Good Wine, -220, 50
+Elixir of the SOLID, -217, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -207, 0
+Backstage passes for Re:Factor, -212, 0
+Backstage passes for HAXX, -217, 0
+Duplicate Code, -219, 0
+Long Methods, -219, 0
+Ugly Variable Names, -219, 0
+
+-------- day 223 --------
+name, sellIn, quality
+Ring of Cleansening Code, -213, 0
+Good Wine, -221, 50
+Elixir of the SOLID, -218, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -208, 0
+Backstage passes for Re:Factor, -213, 0
+Backstage passes for HAXX, -218, 0
+Duplicate Code, -220, 0
+Long Methods, -220, 0
+Ugly Variable Names, -220, 0
+
+-------- day 224 --------
+name, sellIn, quality
+Ring of Cleansening Code, -214, 0
+Good Wine, -222, 50
+Elixir of the SOLID, -219, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -209, 0
+Backstage passes for Re:Factor, -214, 0
+Backstage passes for HAXX, -219, 0
+Duplicate Code, -221, 0
+Long Methods, -221, 0
+Ugly Variable Names, -221, 0
+
+-------- day 225 --------
+name, sellIn, quality
+Ring of Cleansening Code, -215, 0
+Good Wine, -223, 50
+Elixir of the SOLID, -220, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -210, 0
+Backstage passes for Re:Factor, -215, 0
+Backstage passes for HAXX, -220, 0
+Duplicate Code, -222, 0
+Long Methods, -222, 0
+Ugly Variable Names, -222, 0
+
+-------- day 226 --------
+name, sellIn, quality
+Ring of Cleansening Code, -216, 0
+Good Wine, -224, 50
+Elixir of the SOLID, -221, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -211, 0
+Backstage passes for Re:Factor, -216, 0
+Backstage passes for HAXX, -221, 0
+Duplicate Code, -223, 0
+Long Methods, -223, 0
+Ugly Variable Names, -223, 0
+
+-------- day 227 --------
+name, sellIn, quality
+Ring of Cleansening Code, -217, 0
+Good Wine, -225, 50
+Elixir of the SOLID, -222, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -212, 0
+Backstage passes for Re:Factor, -217, 0
+Backstage passes for HAXX, -222, 0
+Duplicate Code, -224, 0
+Long Methods, -224, 0
+Ugly Variable Names, -224, 0
+
+-------- day 228 --------
+name, sellIn, quality
+Ring of Cleansening Code, -218, 0
+Good Wine, -226, 50
+Elixir of the SOLID, -223, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -213, 0
+Backstage passes for Re:Factor, -218, 0
+Backstage passes for HAXX, -223, 0
+Duplicate Code, -225, 0
+Long Methods, -225, 0
+Ugly Variable Names, -225, 0
+
+-------- day 229 --------
+name, sellIn, quality
+Ring of Cleansening Code, -219, 0
+Good Wine, -227, 50
+Elixir of the SOLID, -224, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -214, 0
+Backstage passes for Re:Factor, -219, 0
+Backstage passes for HAXX, -224, 0
+Duplicate Code, -226, 0
+Long Methods, -226, 0
+Ugly Variable Names, -226, 0
+
+-------- day 230 --------
+name, sellIn, quality
+Ring of Cleansening Code, -220, 0
+Good Wine, -228, 50
+Elixir of the SOLID, -225, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -215, 0
+Backstage passes for Re:Factor, -220, 0
+Backstage passes for HAXX, -225, 0
+Duplicate Code, -227, 0
+Long Methods, -227, 0
+Ugly Variable Names, -227, 0
+
+-------- day 231 --------
+name, sellIn, quality
+Ring of Cleansening Code, -221, 0
+Good Wine, -229, 50
+Elixir of the SOLID, -226, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -216, 0
+Backstage passes for Re:Factor, -221, 0
+Backstage passes for HAXX, -226, 0
+Duplicate Code, -228, 0
+Long Methods, -228, 0
+Ugly Variable Names, -228, 0
+
+-------- day 232 --------
+name, sellIn, quality
+Ring of Cleansening Code, -222, 0
+Good Wine, -230, 50
+Elixir of the SOLID, -227, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -217, 0
+Backstage passes for Re:Factor, -222, 0
+Backstage passes for HAXX, -227, 0
+Duplicate Code, -229, 0
+Long Methods, -229, 0
+Ugly Variable Names, -229, 0
+
+-------- day 233 --------
+name, sellIn, quality
+Ring of Cleansening Code, -223, 0
+Good Wine, -231, 50
+Elixir of the SOLID, -228, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -218, 0
+Backstage passes for Re:Factor, -223, 0
+Backstage passes for HAXX, -228, 0
+Duplicate Code, -230, 0
+Long Methods, -230, 0
+Ugly Variable Names, -230, 0
+
+-------- day 234 --------
+name, sellIn, quality
+Ring of Cleansening Code, -224, 0
+Good Wine, -232, 50
+Elixir of the SOLID, -229, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -219, 0
+Backstage passes for Re:Factor, -224, 0
+Backstage passes for HAXX, -229, 0
+Duplicate Code, -231, 0
+Long Methods, -231, 0
+Ugly Variable Names, -231, 0
+
+-------- day 235 --------
+name, sellIn, quality
+Ring of Cleansening Code, -225, 0
+Good Wine, -233, 50
+Elixir of the SOLID, -230, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -220, 0
+Backstage passes for Re:Factor, -225, 0
+Backstage passes for HAXX, -230, 0
+Duplicate Code, -232, 0
+Long Methods, -232, 0
+Ugly Variable Names, -232, 0
+
+-------- day 236 --------
+name, sellIn, quality
+Ring of Cleansening Code, -226, 0
+Good Wine, -234, 50
+Elixir of the SOLID, -231, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -221, 0
+Backstage passes for Re:Factor, -226, 0
+Backstage passes for HAXX, -231, 0
+Duplicate Code, -233, 0
+Long Methods, -233, 0
+Ugly Variable Names, -233, 0
+
+-------- day 237 --------
+name, sellIn, quality
+Ring of Cleansening Code, -227, 0
+Good Wine, -235, 50
+Elixir of the SOLID, -232, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -222, 0
+Backstage passes for Re:Factor, -227, 0
+Backstage passes for HAXX, -232, 0
+Duplicate Code, -234, 0
+Long Methods, -234, 0
+Ugly Variable Names, -234, 0
+
+-------- day 238 --------
+name, sellIn, quality
+Ring of Cleansening Code, -228, 0
+Good Wine, -236, 50
+Elixir of the SOLID, -233, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -223, 0
+Backstage passes for Re:Factor, -228, 0
+Backstage passes for HAXX, -233, 0
+Duplicate Code, -235, 0
+Long Methods, -235, 0
+Ugly Variable Names, -235, 0
+
+-------- day 239 --------
+name, sellIn, quality
+Ring of Cleansening Code, -229, 0
+Good Wine, -237, 50
+Elixir of the SOLID, -234, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -224, 0
+Backstage passes for Re:Factor, -229, 0
+Backstage passes for HAXX, -234, 0
+Duplicate Code, -236, 0
+Long Methods, -236, 0
+Ugly Variable Names, -236, 0
+
+-------- day 240 --------
+name, sellIn, quality
+Ring of Cleansening Code, -230, 0
+Good Wine, -238, 50
+Elixir of the SOLID, -235, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -225, 0
+Backstage passes for Re:Factor, -230, 0
+Backstage passes for HAXX, -235, 0
+Duplicate Code, -237, 0
+Long Methods, -237, 0
+Ugly Variable Names, -237, 0
+
+-------- day 241 --------
+name, sellIn, quality
+Ring of Cleansening Code, -231, 0
+Good Wine, -239, 50
+Elixir of the SOLID, -236, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -226, 0
+Backstage passes for Re:Factor, -231, 0
+Backstage passes for HAXX, -236, 0
+Duplicate Code, -238, 0
+Long Methods, -238, 0
+Ugly Variable Names, -238, 0
+
+-------- day 242 --------
+name, sellIn, quality
+Ring of Cleansening Code, -232, 0
+Good Wine, -240, 50
+Elixir of the SOLID, -237, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -227, 0
+Backstage passes for Re:Factor, -232, 0
+Backstage passes for HAXX, -237, 0
+Duplicate Code, -239, 0
+Long Methods, -239, 0
+Ugly Variable Names, -239, 0
+
+-------- day 243 --------
+name, sellIn, quality
+Ring of Cleansening Code, -233, 0
+Good Wine, -241, 50
+Elixir of the SOLID, -238, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -228, 0
+Backstage passes for Re:Factor, -233, 0
+Backstage passes for HAXX, -238, 0
+Duplicate Code, -240, 0
+Long Methods, -240, 0
+Ugly Variable Names, -240, 0
+
+-------- day 244 --------
+name, sellIn, quality
+Ring of Cleansening Code, -234, 0
+Good Wine, -242, 50
+Elixir of the SOLID, -239, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -229, 0
+Backstage passes for Re:Factor, -234, 0
+Backstage passes for HAXX, -239, 0
+Duplicate Code, -241, 0
+Long Methods, -241, 0
+Ugly Variable Names, -241, 0
+
+-------- day 245 --------
+name, sellIn, quality
+Ring of Cleansening Code, -235, 0
+Good Wine, -243, 50
+Elixir of the SOLID, -240, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -230, 0
+Backstage passes for Re:Factor, -235, 0
+Backstage passes for HAXX, -240, 0
+Duplicate Code, -242, 0
+Long Methods, -242, 0
+Ugly Variable Names, -242, 0
+
+-------- day 246 --------
+name, sellIn, quality
+Ring of Cleansening Code, -236, 0
+Good Wine, -244, 50
+Elixir of the SOLID, -241, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -231, 0
+Backstage passes for Re:Factor, -236, 0
+Backstage passes for HAXX, -241, 0
+Duplicate Code, -243, 0
+Long Methods, -243, 0
+Ugly Variable Names, -243, 0
+
+-------- day 247 --------
+name, sellIn, quality
+Ring of Cleansening Code, -237, 0
+Good Wine, -245, 50
+Elixir of the SOLID, -242, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -232, 0
+Backstage passes for Re:Factor, -237, 0
+Backstage passes for HAXX, -242, 0
+Duplicate Code, -244, 0
+Long Methods, -244, 0
+Ugly Variable Names, -244, 0
+
+-------- day 248 --------
+name, sellIn, quality
+Ring of Cleansening Code, -238, 0
+Good Wine, -246, 50
+Elixir of the SOLID, -243, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -233, 0
+Backstage passes for Re:Factor, -238, 0
+Backstage passes for HAXX, -243, 0
+Duplicate Code, -245, 0
+Long Methods, -245, 0
+Ugly Variable Names, -245, 0
+
+-------- day 249 --------
+name, sellIn, quality
+Ring of Cleansening Code, -239, 0
+Good Wine, -247, 50
+Elixir of the SOLID, -244, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -234, 0
+Backstage passes for Re:Factor, -239, 0
+Backstage passes for HAXX, -244, 0
+Duplicate Code, -246, 0
+Long Methods, -246, 0
+Ugly Variable Names, -246, 0
+
+-------- day 250 --------
+name, sellIn, quality
+Ring of Cleansening Code, -240, 0
+Good Wine, -248, 50
+Elixir of the SOLID, -245, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -235, 0
+Backstage passes for Re:Factor, -240, 0
+Backstage passes for HAXX, -245, 0
+Duplicate Code, -247, 0
+Long Methods, -247, 0
+Ugly Variable Names, -247, 0
+
+-------- day 251 --------
+name, sellIn, quality
+Ring of Cleansening Code, -241, 0
+Good Wine, -249, 50
+Elixir of the SOLID, -246, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -236, 0
+Backstage passes for Re:Factor, -241, 0
+Backstage passes for HAXX, -246, 0
+Duplicate Code, -248, 0
+Long Methods, -248, 0
+Ugly Variable Names, -248, 0
+
+-------- day 252 --------
+name, sellIn, quality
+Ring of Cleansening Code, -242, 0
+Good Wine, -250, 50
+Elixir of the SOLID, -247, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -237, 0
+Backstage passes for Re:Factor, -242, 0
+Backstage passes for HAXX, -247, 0
+Duplicate Code, -249, 0
+Long Methods, -249, 0
+Ugly Variable Names, -249, 0
+
+-------- day 253 --------
+name, sellIn, quality
+Ring of Cleansening Code, -243, 0
+Good Wine, -251, 50
+Elixir of the SOLID, -248, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -238, 0
+Backstage passes for Re:Factor, -243, 0
+Backstage passes for HAXX, -248, 0
+Duplicate Code, -250, 0
+Long Methods, -250, 0
+Ugly Variable Names, -250, 0
+
+-------- day 254 --------
+name, sellIn, quality
+Ring of Cleansening Code, -244, 0
+Good Wine, -252, 50
+Elixir of the SOLID, -249, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -239, 0
+Backstage passes for Re:Factor, -244, 0
+Backstage passes for HAXX, -249, 0
+Duplicate Code, -251, 0
+Long Methods, -251, 0
+Ugly Variable Names, -251, 0
+
+-------- day 255 --------
+name, sellIn, quality
+Ring of Cleansening Code, -245, 0
+Good Wine, -253, 50
+Elixir of the SOLID, -250, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -240, 0
+Backstage passes for Re:Factor, -245, 0
+Backstage passes for HAXX, -250, 0
+Duplicate Code, -252, 0
+Long Methods, -252, 0
+Ugly Variable Names, -252, 0
+
+-------- day 256 --------
+name, sellIn, quality
+Ring of Cleansening Code, -246, 0
+Good Wine, -254, 50
+Elixir of the SOLID, -251, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -241, 0
+Backstage passes for Re:Factor, -246, 0
+Backstage passes for HAXX, -251, 0
+Duplicate Code, -253, 0
+Long Methods, -253, 0
+Ugly Variable Names, -253, 0
+
+-------- day 257 --------
+name, sellIn, quality
+Ring of Cleansening Code, -247, 0
+Good Wine, -255, 50
+Elixir of the SOLID, -252, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -242, 0
+Backstage passes for Re:Factor, -247, 0
+Backstage passes for HAXX, -252, 0
+Duplicate Code, -254, 0
+Long Methods, -254, 0
+Ugly Variable Names, -254, 0
+
+-------- day 258 --------
+name, sellIn, quality
+Ring of Cleansening Code, -248, 0
+Good Wine, -256, 50
+Elixir of the SOLID, -253, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -243, 0
+Backstage passes for Re:Factor, -248, 0
+Backstage passes for HAXX, -253, 0
+Duplicate Code, -255, 0
+Long Methods, -255, 0
+Ugly Variable Names, -255, 0
+
+-------- day 259 --------
+name, sellIn, quality
+Ring of Cleansening Code, -249, 0
+Good Wine, -257, 50
+Elixir of the SOLID, -254, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -244, 0
+Backstage passes for Re:Factor, -249, 0
+Backstage passes for HAXX, -254, 0
+Duplicate Code, -256, 0
+Long Methods, -256, 0
+Ugly Variable Names, -256, 0
+
+-------- day 260 --------
+name, sellIn, quality
+Ring of Cleansening Code, -250, 0
+Good Wine, -258, 50
+Elixir of the SOLID, -255, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -245, 0
+Backstage passes for Re:Factor, -250, 0
+Backstage passes for HAXX, -255, 0
+Duplicate Code, -257, 0
+Long Methods, -257, 0
+Ugly Variable Names, -257, 0
+
+-------- day 261 --------
+name, sellIn, quality
+Ring of Cleansening Code, -251, 0
+Good Wine, -259, 50
+Elixir of the SOLID, -256, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -246, 0
+Backstage passes for Re:Factor, -251, 0
+Backstage passes for HAXX, -256, 0
+Duplicate Code, -258, 0
+Long Methods, -258, 0
+Ugly Variable Names, -258, 0
+
+-------- day 262 --------
+name, sellIn, quality
+Ring of Cleansening Code, -252, 0
+Good Wine, -260, 50
+Elixir of the SOLID, -257, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -247, 0
+Backstage passes for Re:Factor, -252, 0
+Backstage passes for HAXX, -257, 0
+Duplicate Code, -259, 0
+Long Methods, -259, 0
+Ugly Variable Names, -259, 0
+
+-------- day 263 --------
+name, sellIn, quality
+Ring of Cleansening Code, -253, 0
+Good Wine, -261, 50
+Elixir of the SOLID, -258, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -248, 0
+Backstage passes for Re:Factor, -253, 0
+Backstage passes for HAXX, -258, 0
+Duplicate Code, -260, 0
+Long Methods, -260, 0
+Ugly Variable Names, -260, 0
+
+-------- day 264 --------
+name, sellIn, quality
+Ring of Cleansening Code, -254, 0
+Good Wine, -262, 50
+Elixir of the SOLID, -259, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -249, 0
+Backstage passes for Re:Factor, -254, 0
+Backstage passes for HAXX, -259, 0
+Duplicate Code, -261, 0
+Long Methods, -261, 0
+Ugly Variable Names, -261, 0
+
+-------- day 265 --------
+name, sellIn, quality
+Ring of Cleansening Code, -255, 0
+Good Wine, -263, 50
+Elixir of the SOLID, -260, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -250, 0
+Backstage passes for Re:Factor, -255, 0
+Backstage passes for HAXX, -260, 0
+Duplicate Code, -262, 0
+Long Methods, -262, 0
+Ugly Variable Names, -262, 0
+
+-------- day 266 --------
+name, sellIn, quality
+Ring of Cleansening Code, -256, 0
+Good Wine, -264, 50
+Elixir of the SOLID, -261, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -251, 0
+Backstage passes for Re:Factor, -256, 0
+Backstage passes for HAXX, -261, 0
+Duplicate Code, -263, 0
+Long Methods, -263, 0
+Ugly Variable Names, -263, 0
+
+-------- day 267 --------
+name, sellIn, quality
+Ring of Cleansening Code, -257, 0
+Good Wine, -265, 50
+Elixir of the SOLID, -262, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -252, 0
+Backstage passes for Re:Factor, -257, 0
+Backstage passes for HAXX, -262, 0
+Duplicate Code, -264, 0
+Long Methods, -264, 0
+Ugly Variable Names, -264, 0
+
+-------- day 268 --------
+name, sellIn, quality
+Ring of Cleansening Code, -258, 0
+Good Wine, -266, 50
+Elixir of the SOLID, -263, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -253, 0
+Backstage passes for Re:Factor, -258, 0
+Backstage passes for HAXX, -263, 0
+Duplicate Code, -265, 0
+Long Methods, -265, 0
+Ugly Variable Names, -265, 0
+
+-------- day 269 --------
+name, sellIn, quality
+Ring of Cleansening Code, -259, 0
+Good Wine, -267, 50
+Elixir of the SOLID, -264, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -254, 0
+Backstage passes for Re:Factor, -259, 0
+Backstage passes for HAXX, -264, 0
+Duplicate Code, -266, 0
+Long Methods, -266, 0
+Ugly Variable Names, -266, 0
+
+-------- day 270 --------
+name, sellIn, quality
+Ring of Cleansening Code, -260, 0
+Good Wine, -268, 50
+Elixir of the SOLID, -265, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -255, 0
+Backstage passes for Re:Factor, -260, 0
+Backstage passes for HAXX, -265, 0
+Duplicate Code, -267, 0
+Long Methods, -267, 0
+Ugly Variable Names, -267, 0
+
+-------- day 271 --------
+name, sellIn, quality
+Ring of Cleansening Code, -261, 0
+Good Wine, -269, 50
+Elixir of the SOLID, -266, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -256, 0
+Backstage passes for Re:Factor, -261, 0
+Backstage passes for HAXX, -266, 0
+Duplicate Code, -268, 0
+Long Methods, -268, 0
+Ugly Variable Names, -268, 0
+
+-------- day 272 --------
+name, sellIn, quality
+Ring of Cleansening Code, -262, 0
+Good Wine, -270, 50
+Elixir of the SOLID, -267, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -257, 0
+Backstage passes for Re:Factor, -262, 0
+Backstage passes for HAXX, -267, 0
+Duplicate Code, -269, 0
+Long Methods, -269, 0
+Ugly Variable Names, -269, 0
+
+-------- day 273 --------
+name, sellIn, quality
+Ring of Cleansening Code, -263, 0
+Good Wine, -271, 50
+Elixir of the SOLID, -268, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -258, 0
+Backstage passes for Re:Factor, -263, 0
+Backstage passes for HAXX, -268, 0
+Duplicate Code, -270, 0
+Long Methods, -270, 0
+Ugly Variable Names, -270, 0
+
+-------- day 274 --------
+name, sellIn, quality
+Ring of Cleansening Code, -264, 0
+Good Wine, -272, 50
+Elixir of the SOLID, -269, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -259, 0
+Backstage passes for Re:Factor, -264, 0
+Backstage passes for HAXX, -269, 0
+Duplicate Code, -271, 0
+Long Methods, -271, 0
+Ugly Variable Names, -271, 0
+
+-------- day 275 --------
+name, sellIn, quality
+Ring of Cleansening Code, -265, 0
+Good Wine, -273, 50
+Elixir of the SOLID, -270, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -260, 0
+Backstage passes for Re:Factor, -265, 0
+Backstage passes for HAXX, -270, 0
+Duplicate Code, -272, 0
+Long Methods, -272, 0
+Ugly Variable Names, -272, 0
+
+-------- day 276 --------
+name, sellIn, quality
+Ring of Cleansening Code, -266, 0
+Good Wine, -274, 50
+Elixir of the SOLID, -271, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -261, 0
+Backstage passes for Re:Factor, -266, 0
+Backstage passes for HAXX, -271, 0
+Duplicate Code, -273, 0
+Long Methods, -273, 0
+Ugly Variable Names, -273, 0
+
+-------- day 277 --------
+name, sellIn, quality
+Ring of Cleansening Code, -267, 0
+Good Wine, -275, 50
+Elixir of the SOLID, -272, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -262, 0
+Backstage passes for Re:Factor, -267, 0
+Backstage passes for HAXX, -272, 0
+Duplicate Code, -274, 0
+Long Methods, -274, 0
+Ugly Variable Names, -274, 0
+
+-------- day 278 --------
+name, sellIn, quality
+Ring of Cleansening Code, -268, 0
+Good Wine, -276, 50
+Elixir of the SOLID, -273, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -263, 0
+Backstage passes for Re:Factor, -268, 0
+Backstage passes for HAXX, -273, 0
+Duplicate Code, -275, 0
+Long Methods, -275, 0
+Ugly Variable Names, -275, 0
+
+-------- day 279 --------
+name, sellIn, quality
+Ring of Cleansening Code, -269, 0
+Good Wine, -277, 50
+Elixir of the SOLID, -274, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -264, 0
+Backstage passes for Re:Factor, -269, 0
+Backstage passes for HAXX, -274, 0
+Duplicate Code, -276, 0
+Long Methods, -276, 0
+Ugly Variable Names, -276, 0
+
+-------- day 280 --------
+name, sellIn, quality
+Ring of Cleansening Code, -270, 0
+Good Wine, -278, 50
+Elixir of the SOLID, -275, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -265, 0
+Backstage passes for Re:Factor, -270, 0
+Backstage passes for HAXX, -275, 0
+Duplicate Code, -277, 0
+Long Methods, -277, 0
+Ugly Variable Names, -277, 0
+
+-------- day 281 --------
+name, sellIn, quality
+Ring of Cleansening Code, -271, 0
+Good Wine, -279, 50
+Elixir of the SOLID, -276, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -266, 0
+Backstage passes for Re:Factor, -271, 0
+Backstage passes for HAXX, -276, 0
+Duplicate Code, -278, 0
+Long Methods, -278, 0
+Ugly Variable Names, -278, 0
+
+-------- day 282 --------
+name, sellIn, quality
+Ring of Cleansening Code, -272, 0
+Good Wine, -280, 50
+Elixir of the SOLID, -277, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -267, 0
+Backstage passes for Re:Factor, -272, 0
+Backstage passes for HAXX, -277, 0
+Duplicate Code, -279, 0
+Long Methods, -279, 0
+Ugly Variable Names, -279, 0
+
+-------- day 283 --------
+name, sellIn, quality
+Ring of Cleansening Code, -273, 0
+Good Wine, -281, 50
+Elixir of the SOLID, -278, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -268, 0
+Backstage passes for Re:Factor, -273, 0
+Backstage passes for HAXX, -278, 0
+Duplicate Code, -280, 0
+Long Methods, -280, 0
+Ugly Variable Names, -280, 0
+
+-------- day 284 --------
+name, sellIn, quality
+Ring of Cleansening Code, -274, 0
+Good Wine, -282, 50
+Elixir of the SOLID, -279, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -269, 0
+Backstage passes for Re:Factor, -274, 0
+Backstage passes for HAXX, -279, 0
+Duplicate Code, -281, 0
+Long Methods, -281, 0
+Ugly Variable Names, -281, 0
+
+-------- day 285 --------
+name, sellIn, quality
+Ring of Cleansening Code, -275, 0
+Good Wine, -283, 50
+Elixir of the SOLID, -280, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -270, 0
+Backstage passes for Re:Factor, -275, 0
+Backstage passes for HAXX, -280, 0
+Duplicate Code, -282, 0
+Long Methods, -282, 0
+Ugly Variable Names, -282, 0
+
+-------- day 286 --------
+name, sellIn, quality
+Ring of Cleansening Code, -276, 0
+Good Wine, -284, 50
+Elixir of the SOLID, -281, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -271, 0
+Backstage passes for Re:Factor, -276, 0
+Backstage passes for HAXX, -281, 0
+Duplicate Code, -283, 0
+Long Methods, -283, 0
+Ugly Variable Names, -283, 0
+
+-------- day 287 --------
+name, sellIn, quality
+Ring of Cleansening Code, -277, 0
+Good Wine, -285, 50
+Elixir of the SOLID, -282, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -272, 0
+Backstage passes for Re:Factor, -277, 0
+Backstage passes for HAXX, -282, 0
+Duplicate Code, -284, 0
+Long Methods, -284, 0
+Ugly Variable Names, -284, 0
+
+-------- day 288 --------
+name, sellIn, quality
+Ring of Cleansening Code, -278, 0
+Good Wine, -286, 50
+Elixir of the SOLID, -283, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -273, 0
+Backstage passes for Re:Factor, -278, 0
+Backstage passes for HAXX, -283, 0
+Duplicate Code, -285, 0
+Long Methods, -285, 0
+Ugly Variable Names, -285, 0
+
+-------- day 289 --------
+name, sellIn, quality
+Ring of Cleansening Code, -279, 0
+Good Wine, -287, 50
+Elixir of the SOLID, -284, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -274, 0
+Backstage passes for Re:Factor, -279, 0
+Backstage passes for HAXX, -284, 0
+Duplicate Code, -286, 0
+Long Methods, -286, 0
+Ugly Variable Names, -286, 0
+
+-------- day 290 --------
+name, sellIn, quality
+Ring of Cleansening Code, -280, 0
+Good Wine, -288, 50
+Elixir of the SOLID, -285, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -275, 0
+Backstage passes for Re:Factor, -280, 0
+Backstage passes for HAXX, -285, 0
+Duplicate Code, -287, 0
+Long Methods, -287, 0
+Ugly Variable Names, -287, 0
+
+-------- day 291 --------
+name, sellIn, quality
+Ring of Cleansening Code, -281, 0
+Good Wine, -289, 50
+Elixir of the SOLID, -286, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -276, 0
+Backstage passes for Re:Factor, -281, 0
+Backstage passes for HAXX, -286, 0
+Duplicate Code, -288, 0
+Long Methods, -288, 0
+Ugly Variable Names, -288, 0
+
+-------- day 292 --------
+name, sellIn, quality
+Ring of Cleansening Code, -282, 0
+Good Wine, -290, 50
+Elixir of the SOLID, -287, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -277, 0
+Backstage passes for Re:Factor, -282, 0
+Backstage passes for HAXX, -287, 0
+Duplicate Code, -289, 0
+Long Methods, -289, 0
+Ugly Variable Names, -289, 0
+
+-------- day 293 --------
+name, sellIn, quality
+Ring of Cleansening Code, -283, 0
+Good Wine, -291, 50
+Elixir of the SOLID, -288, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -278, 0
+Backstage passes for Re:Factor, -283, 0
+Backstage passes for HAXX, -288, 0
+Duplicate Code, -290, 0
+Long Methods, -290, 0
+Ugly Variable Names, -290, 0
+
+-------- day 294 --------
+name, sellIn, quality
+Ring of Cleansening Code, -284, 0
+Good Wine, -292, 50
+Elixir of the SOLID, -289, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -279, 0
+Backstage passes for Re:Factor, -284, 0
+Backstage passes for HAXX, -289, 0
+Duplicate Code, -291, 0
+Long Methods, -291, 0
+Ugly Variable Names, -291, 0
+
+-------- day 295 --------
+name, sellIn, quality
+Ring of Cleansening Code, -285, 0
+Good Wine, -293, 50
+Elixir of the SOLID, -290, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -280, 0
+Backstage passes for Re:Factor, -285, 0
+Backstage passes for HAXX, -290, 0
+Duplicate Code, -292, 0
+Long Methods, -292, 0
+Ugly Variable Names, -292, 0
+
+-------- day 296 --------
+name, sellIn, quality
+Ring of Cleansening Code, -286, 0
+Good Wine, -294, 50
+Elixir of the SOLID, -291, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -281, 0
+Backstage passes for Re:Factor, -286, 0
+Backstage passes for HAXX, -291, 0
+Duplicate Code, -293, 0
+Long Methods, -293, 0
+Ugly Variable Names, -293, 0
+
+-------- day 297 --------
+name, sellIn, quality
+Ring of Cleansening Code, -287, 0
+Good Wine, -295, 50
+Elixir of the SOLID, -292, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -282, 0
+Backstage passes for Re:Factor, -287, 0
+Backstage passes for HAXX, -292, 0
+Duplicate Code, -294, 0
+Long Methods, -294, 0
+Ugly Variable Names, -294, 0
+
+-------- day 298 --------
+name, sellIn, quality
+Ring of Cleansening Code, -288, 0
+Good Wine, -296, 50
+Elixir of the SOLID, -293, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -283, 0
+Backstage passes for Re:Factor, -288, 0
+Backstage passes for HAXX, -293, 0
+Duplicate Code, -295, 0
+Long Methods, -295, 0
+Ugly Variable Names, -295, 0
+
+-------- day 299 --------
+name, sellIn, quality
+Ring of Cleansening Code, -289, 0
+Good Wine, -297, 50
+Elixir of the SOLID, -294, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -284, 0
+Backstage passes for Re:Factor, -289, 0
+Backstage passes for HAXX, -294, 0
+Duplicate Code, -296, 0
+Long Methods, -296, 0
+Ugly Variable Names, -296, 0
+
+-------- day 300 --------
+name, sellIn, quality
+Ring of Cleansening Code, -290, 0
+Good Wine, -298, 50
+Elixir of the SOLID, -295, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -285, 0
+Backstage passes for Re:Factor, -290, 0
+Backstage passes for HAXX, -295, 0
+Duplicate Code, -297, 0
+Long Methods, -297, 0
+Ugly Variable Names, -297, 0
+
+-------- day 301 --------
+name, sellIn, quality
+Ring of Cleansening Code, -291, 0
+Good Wine, -299, 50
+Elixir of the SOLID, -296, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -286, 0
+Backstage passes for Re:Factor, -291, 0
+Backstage passes for HAXX, -296, 0
+Duplicate Code, -298, 0
+Long Methods, -298, 0
+Ugly Variable Names, -298, 0
+
+-------- day 302 --------
+name, sellIn, quality
+Ring of Cleansening Code, -292, 0
+Good Wine, -300, 50
+Elixir of the SOLID, -297, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -287, 0
+Backstage passes for Re:Factor, -292, 0
+Backstage passes for HAXX, -297, 0
+Duplicate Code, -299, 0
+Long Methods, -299, 0
+Ugly Variable Names, -299, 0
+
+-------- day 303 --------
+name, sellIn, quality
+Ring of Cleansening Code, -293, 0
+Good Wine, -301, 50
+Elixir of the SOLID, -298, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -288, 0
+Backstage passes for Re:Factor, -293, 0
+Backstage passes for HAXX, -298, 0
+Duplicate Code, -300, 0
+Long Methods, -300, 0
+Ugly Variable Names, -300, 0
+
+-------- day 304 --------
+name, sellIn, quality
+Ring of Cleansening Code, -294, 0
+Good Wine, -302, 50
+Elixir of the SOLID, -299, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -289, 0
+Backstage passes for Re:Factor, -294, 0
+Backstage passes for HAXX, -299, 0
+Duplicate Code, -301, 0
+Long Methods, -301, 0
+Ugly Variable Names, -301, 0
+
+-------- day 305 --------
+name, sellIn, quality
+Ring of Cleansening Code, -295, 0
+Good Wine, -303, 50
+Elixir of the SOLID, -300, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -290, 0
+Backstage passes for Re:Factor, -295, 0
+Backstage passes for HAXX, -300, 0
+Duplicate Code, -302, 0
+Long Methods, -302, 0
+Ugly Variable Names, -302, 0
+
+-------- day 306 --------
+name, sellIn, quality
+Ring of Cleansening Code, -296, 0
+Good Wine, -304, 50
+Elixir of the SOLID, -301, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -291, 0
+Backstage passes for Re:Factor, -296, 0
+Backstage passes for HAXX, -301, 0
+Duplicate Code, -303, 0
+Long Methods, -303, 0
+Ugly Variable Names, -303, 0
+
+-------- day 307 --------
+name, sellIn, quality
+Ring of Cleansening Code, -297, 0
+Good Wine, -305, 50
+Elixir of the SOLID, -302, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -292, 0
+Backstage passes for Re:Factor, -297, 0
+Backstage passes for HAXX, -302, 0
+Duplicate Code, -304, 0
+Long Methods, -304, 0
+Ugly Variable Names, -304, 0
+
+-------- day 308 --------
+name, sellIn, quality
+Ring of Cleansening Code, -298, 0
+Good Wine, -306, 50
+Elixir of the SOLID, -303, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -293, 0
+Backstage passes for Re:Factor, -298, 0
+Backstage passes for HAXX, -303, 0
+Duplicate Code, -305, 0
+Long Methods, -305, 0
+Ugly Variable Names, -305, 0
+
+-------- day 309 --------
+name, sellIn, quality
+Ring of Cleansening Code, -299, 0
+Good Wine, -307, 50
+Elixir of the SOLID, -304, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -294, 0
+Backstage passes for Re:Factor, -299, 0
+Backstage passes for HAXX, -304, 0
+Duplicate Code, -306, 0
+Long Methods, -306, 0
+Ugly Variable Names, -306, 0
+
+-------- day 310 --------
+name, sellIn, quality
+Ring of Cleansening Code, -300, 0
+Good Wine, -308, 50
+Elixir of the SOLID, -305, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -295, 0
+Backstage passes for Re:Factor, -300, 0
+Backstage passes for HAXX, -305, 0
+Duplicate Code, -307, 0
+Long Methods, -307, 0
+Ugly Variable Names, -307, 0
+
+-------- day 311 --------
+name, sellIn, quality
+Ring of Cleansening Code, -301, 0
+Good Wine, -309, 50
+Elixir of the SOLID, -306, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -296, 0
+Backstage passes for Re:Factor, -301, 0
+Backstage passes for HAXX, -306, 0
+Duplicate Code, -308, 0
+Long Methods, -308, 0
+Ugly Variable Names, -308, 0
+
+-------- day 312 --------
+name, sellIn, quality
+Ring of Cleansening Code, -302, 0
+Good Wine, -310, 50
+Elixir of the SOLID, -307, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -297, 0
+Backstage passes for Re:Factor, -302, 0
+Backstage passes for HAXX, -307, 0
+Duplicate Code, -309, 0
+Long Methods, -309, 0
+Ugly Variable Names, -309, 0
+
+-------- day 313 --------
+name, sellIn, quality
+Ring of Cleansening Code, -303, 0
+Good Wine, -311, 50
+Elixir of the SOLID, -308, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -298, 0
+Backstage passes for Re:Factor, -303, 0
+Backstage passes for HAXX, -308, 0
+Duplicate Code, -310, 0
+Long Methods, -310, 0
+Ugly Variable Names, -310, 0
+
+-------- day 314 --------
+name, sellIn, quality
+Ring of Cleansening Code, -304, 0
+Good Wine, -312, 50
+Elixir of the SOLID, -309, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -299, 0
+Backstage passes for Re:Factor, -304, 0
+Backstage passes for HAXX, -309, 0
+Duplicate Code, -311, 0
+Long Methods, -311, 0
+Ugly Variable Names, -311, 0
+
+-------- day 315 --------
+name, sellIn, quality
+Ring of Cleansening Code, -305, 0
+Good Wine, -313, 50
+Elixir of the SOLID, -310, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -300, 0
+Backstage passes for Re:Factor, -305, 0
+Backstage passes for HAXX, -310, 0
+Duplicate Code, -312, 0
+Long Methods, -312, 0
+Ugly Variable Names, -312, 0
+
+-------- day 316 --------
+name, sellIn, quality
+Ring of Cleansening Code, -306, 0
+Good Wine, -314, 50
+Elixir of the SOLID, -311, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -301, 0
+Backstage passes for Re:Factor, -306, 0
+Backstage passes for HAXX, -311, 0
+Duplicate Code, -313, 0
+Long Methods, -313, 0
+Ugly Variable Names, -313, 0
+
+-------- day 317 --------
+name, sellIn, quality
+Ring of Cleansening Code, -307, 0
+Good Wine, -315, 50
+Elixir of the SOLID, -312, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -302, 0
+Backstage passes for Re:Factor, -307, 0
+Backstage passes for HAXX, -312, 0
+Duplicate Code, -314, 0
+Long Methods, -314, 0
+Ugly Variable Names, -314, 0
+
+-------- day 318 --------
+name, sellIn, quality
+Ring of Cleansening Code, -308, 0
+Good Wine, -316, 50
+Elixir of the SOLID, -313, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -303, 0
+Backstage passes for Re:Factor, -308, 0
+Backstage passes for HAXX, -313, 0
+Duplicate Code, -315, 0
+Long Methods, -315, 0
+Ugly Variable Names, -315, 0
+
+-------- day 319 --------
+name, sellIn, quality
+Ring of Cleansening Code, -309, 0
+Good Wine, -317, 50
+Elixir of the SOLID, -314, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -304, 0
+Backstage passes for Re:Factor, -309, 0
+Backstage passes for HAXX, -314, 0
+Duplicate Code, -316, 0
+Long Methods, -316, 0
+Ugly Variable Names, -316, 0
+
+-------- day 320 --------
+name, sellIn, quality
+Ring of Cleansening Code, -310, 0
+Good Wine, -318, 50
+Elixir of the SOLID, -315, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -305, 0
+Backstage passes for Re:Factor, -310, 0
+Backstage passes for HAXX, -315, 0
+Duplicate Code, -317, 0
+Long Methods, -317, 0
+Ugly Variable Names, -317, 0
+
+-------- day 321 --------
+name, sellIn, quality
+Ring of Cleansening Code, -311, 0
+Good Wine, -319, 50
+Elixir of the SOLID, -316, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -306, 0
+Backstage passes for Re:Factor, -311, 0
+Backstage passes for HAXX, -316, 0
+Duplicate Code, -318, 0
+Long Methods, -318, 0
+Ugly Variable Names, -318, 0
+
+-------- day 322 --------
+name, sellIn, quality
+Ring of Cleansening Code, -312, 0
+Good Wine, -320, 50
+Elixir of the SOLID, -317, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -307, 0
+Backstage passes for Re:Factor, -312, 0
+Backstage passes for HAXX, -317, 0
+Duplicate Code, -319, 0
+Long Methods, -319, 0
+Ugly Variable Names, -319, 0
+
+-------- day 323 --------
+name, sellIn, quality
+Ring of Cleansening Code, -313, 0
+Good Wine, -321, 50
+Elixir of the SOLID, -318, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -308, 0
+Backstage passes for Re:Factor, -313, 0
+Backstage passes for HAXX, -318, 0
+Duplicate Code, -320, 0
+Long Methods, -320, 0
+Ugly Variable Names, -320, 0
+
+-------- day 324 --------
+name, sellIn, quality
+Ring of Cleansening Code, -314, 0
+Good Wine, -322, 50
+Elixir of the SOLID, -319, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -309, 0
+Backstage passes for Re:Factor, -314, 0
+Backstage passes for HAXX, -319, 0
+Duplicate Code, -321, 0
+Long Methods, -321, 0
+Ugly Variable Names, -321, 0
+
+-------- day 325 --------
+name, sellIn, quality
+Ring of Cleansening Code, -315, 0
+Good Wine, -323, 50
+Elixir of the SOLID, -320, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -310, 0
+Backstage passes for Re:Factor, -315, 0
+Backstage passes for HAXX, -320, 0
+Duplicate Code, -322, 0
+Long Methods, -322, 0
+Ugly Variable Names, -322, 0
+
+-------- day 326 --------
+name, sellIn, quality
+Ring of Cleansening Code, -316, 0
+Good Wine, -324, 50
+Elixir of the SOLID, -321, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -311, 0
+Backstage passes for Re:Factor, -316, 0
+Backstage passes for HAXX, -321, 0
+Duplicate Code, -323, 0
+Long Methods, -323, 0
+Ugly Variable Names, -323, 0
+
+-------- day 327 --------
+name, sellIn, quality
+Ring of Cleansening Code, -317, 0
+Good Wine, -325, 50
+Elixir of the SOLID, -322, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -312, 0
+Backstage passes for Re:Factor, -317, 0
+Backstage passes for HAXX, -322, 0
+Duplicate Code, -324, 0
+Long Methods, -324, 0
+Ugly Variable Names, -324, 0
+
+-------- day 328 --------
+name, sellIn, quality
+Ring of Cleansening Code, -318, 0
+Good Wine, -326, 50
+Elixir of the SOLID, -323, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -313, 0
+Backstage passes for Re:Factor, -318, 0
+Backstage passes for HAXX, -323, 0
+Duplicate Code, -325, 0
+Long Methods, -325, 0
+Ugly Variable Names, -325, 0
+
+-------- day 329 --------
+name, sellIn, quality
+Ring of Cleansening Code, -319, 0
+Good Wine, -327, 50
+Elixir of the SOLID, -324, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -314, 0
+Backstage passes for Re:Factor, -319, 0
+Backstage passes for HAXX, -324, 0
+Duplicate Code, -326, 0
+Long Methods, -326, 0
+Ugly Variable Names, -326, 0
+
+-------- day 330 --------
+name, sellIn, quality
+Ring of Cleansening Code, -320, 0
+Good Wine, -328, 50
+Elixir of the SOLID, -325, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -315, 0
+Backstage passes for Re:Factor, -320, 0
+Backstage passes for HAXX, -325, 0
+Duplicate Code, -327, 0
+Long Methods, -327, 0
+Ugly Variable Names, -327, 0
+
+-------- day 331 --------
+name, sellIn, quality
+Ring of Cleansening Code, -321, 0
+Good Wine, -329, 50
+Elixir of the SOLID, -326, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -316, 0
+Backstage passes for Re:Factor, -321, 0
+Backstage passes for HAXX, -326, 0
+Duplicate Code, -328, 0
+Long Methods, -328, 0
+Ugly Variable Names, -328, 0
+
+-------- day 332 --------
+name, sellIn, quality
+Ring of Cleansening Code, -322, 0
+Good Wine, -330, 50
+Elixir of the SOLID, -327, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -317, 0
+Backstage passes for Re:Factor, -322, 0
+Backstage passes for HAXX, -327, 0
+Duplicate Code, -329, 0
+Long Methods, -329, 0
+Ugly Variable Names, -329, 0
+
+-------- day 333 --------
+name, sellIn, quality
+Ring of Cleansening Code, -323, 0
+Good Wine, -331, 50
+Elixir of the SOLID, -328, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -318, 0
+Backstage passes for Re:Factor, -323, 0
+Backstage passes for HAXX, -328, 0
+Duplicate Code, -330, 0
+Long Methods, -330, 0
+Ugly Variable Names, -330, 0
+
+-------- day 334 --------
+name, sellIn, quality
+Ring of Cleansening Code, -324, 0
+Good Wine, -332, 50
+Elixir of the SOLID, -329, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -319, 0
+Backstage passes for Re:Factor, -324, 0
+Backstage passes for HAXX, -329, 0
+Duplicate Code, -331, 0
+Long Methods, -331, 0
+Ugly Variable Names, -331, 0
+
+-------- day 335 --------
+name, sellIn, quality
+Ring of Cleansening Code, -325, 0
+Good Wine, -333, 50
+Elixir of the SOLID, -330, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -320, 0
+Backstage passes for Re:Factor, -325, 0
+Backstage passes for HAXX, -330, 0
+Duplicate Code, -332, 0
+Long Methods, -332, 0
+Ugly Variable Names, -332, 0
+
+-------- day 336 --------
+name, sellIn, quality
+Ring of Cleansening Code, -326, 0
+Good Wine, -334, 50
+Elixir of the SOLID, -331, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -321, 0
+Backstage passes for Re:Factor, -326, 0
+Backstage passes for HAXX, -331, 0
+Duplicate Code, -333, 0
+Long Methods, -333, 0
+Ugly Variable Names, -333, 0
+
+-------- day 337 --------
+name, sellIn, quality
+Ring of Cleansening Code, -327, 0
+Good Wine, -335, 50
+Elixir of the SOLID, -332, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -322, 0
+Backstage passes for Re:Factor, -327, 0
+Backstage passes for HAXX, -332, 0
+Duplicate Code, -334, 0
+Long Methods, -334, 0
+Ugly Variable Names, -334, 0
+
+-------- day 338 --------
+name, sellIn, quality
+Ring of Cleansening Code, -328, 0
+Good Wine, -336, 50
+Elixir of the SOLID, -333, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -323, 0
+Backstage passes for Re:Factor, -328, 0
+Backstage passes for HAXX, -333, 0
+Duplicate Code, -335, 0
+Long Methods, -335, 0
+Ugly Variable Names, -335, 0
+
+-------- day 339 --------
+name, sellIn, quality
+Ring of Cleansening Code, -329, 0
+Good Wine, -337, 50
+Elixir of the SOLID, -334, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -324, 0
+Backstage passes for Re:Factor, -329, 0
+Backstage passes for HAXX, -334, 0
+Duplicate Code, -336, 0
+Long Methods, -336, 0
+Ugly Variable Names, -336, 0
+
+-------- day 340 --------
+name, sellIn, quality
+Ring of Cleansening Code, -330, 0
+Good Wine, -338, 50
+Elixir of the SOLID, -335, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -325, 0
+Backstage passes for Re:Factor, -330, 0
+Backstage passes for HAXX, -335, 0
+Duplicate Code, -337, 0
+Long Methods, -337, 0
+Ugly Variable Names, -337, 0
+
+-------- day 341 --------
+name, sellIn, quality
+Ring of Cleansening Code, -331, 0
+Good Wine, -339, 50
+Elixir of the SOLID, -336, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -326, 0
+Backstage passes for Re:Factor, -331, 0
+Backstage passes for HAXX, -336, 0
+Duplicate Code, -338, 0
+Long Methods, -338, 0
+Ugly Variable Names, -338, 0
+
+-------- day 342 --------
+name, sellIn, quality
+Ring of Cleansening Code, -332, 0
+Good Wine, -340, 50
+Elixir of the SOLID, -337, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -327, 0
+Backstage passes for Re:Factor, -332, 0
+Backstage passes for HAXX, -337, 0
+Duplicate Code, -339, 0
+Long Methods, -339, 0
+Ugly Variable Names, -339, 0
+
+-------- day 343 --------
+name, sellIn, quality
+Ring of Cleansening Code, -333, 0
+Good Wine, -341, 50
+Elixir of the SOLID, -338, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -328, 0
+Backstage passes for Re:Factor, -333, 0
+Backstage passes for HAXX, -338, 0
+Duplicate Code, -340, 0
+Long Methods, -340, 0
+Ugly Variable Names, -340, 0
+
+-------- day 344 --------
+name, sellIn, quality
+Ring of Cleansening Code, -334, 0
+Good Wine, -342, 50
+Elixir of the SOLID, -339, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -329, 0
+Backstage passes for Re:Factor, -334, 0
+Backstage passes for HAXX, -339, 0
+Duplicate Code, -341, 0
+Long Methods, -341, 0
+Ugly Variable Names, -341, 0
+
+-------- day 345 --------
+name, sellIn, quality
+Ring of Cleansening Code, -335, 0
+Good Wine, -343, 50
+Elixir of the SOLID, -340, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -330, 0
+Backstage passes for Re:Factor, -335, 0
+Backstage passes for HAXX, -340, 0
+Duplicate Code, -342, 0
+Long Methods, -342, 0
+Ugly Variable Names, -342, 0
+
+-------- day 346 --------
+name, sellIn, quality
+Ring of Cleansening Code, -336, 0
+Good Wine, -344, 50
+Elixir of the SOLID, -341, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -331, 0
+Backstage passes for Re:Factor, -336, 0
+Backstage passes for HAXX, -341, 0
+Duplicate Code, -343, 0
+Long Methods, -343, 0
+Ugly Variable Names, -343, 0
+
+-------- day 347 --------
+name, sellIn, quality
+Ring of Cleansening Code, -337, 0
+Good Wine, -345, 50
+Elixir of the SOLID, -342, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -332, 0
+Backstage passes for Re:Factor, -337, 0
+Backstage passes for HAXX, -342, 0
+Duplicate Code, -344, 0
+Long Methods, -344, 0
+Ugly Variable Names, -344, 0
+
+-------- day 348 --------
+name, sellIn, quality
+Ring of Cleansening Code, -338, 0
+Good Wine, -346, 50
+Elixir of the SOLID, -343, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -333, 0
+Backstage passes for Re:Factor, -338, 0
+Backstage passes for HAXX, -343, 0
+Duplicate Code, -345, 0
+Long Methods, -345, 0
+Ugly Variable Names, -345, 0
+
+-------- day 349 --------
+name, sellIn, quality
+Ring of Cleansening Code, -339, 0
+Good Wine, -347, 50
+Elixir of the SOLID, -344, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -334, 0
+Backstage passes for Re:Factor, -339, 0
+Backstage passes for HAXX, -344, 0
+Duplicate Code, -346, 0
+Long Methods, -346, 0
+Ugly Variable Names, -346, 0
+
+-------- day 350 --------
+name, sellIn, quality
+Ring of Cleansening Code, -340, 0
+Good Wine, -348, 50
+Elixir of the SOLID, -345, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -335, 0
+Backstage passes for Re:Factor, -340, 0
+Backstage passes for HAXX, -345, 0
+Duplicate Code, -347, 0
+Long Methods, -347, 0
+Ugly Variable Names, -347, 0
+
+-------- day 351 --------
+name, sellIn, quality
+Ring of Cleansening Code, -341, 0
+Good Wine, -349, 50
+Elixir of the SOLID, -346, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -336, 0
+Backstage passes for Re:Factor, -341, 0
+Backstage passes for HAXX, -346, 0
+Duplicate Code, -348, 0
+Long Methods, -348, 0
+Ugly Variable Names, -348, 0
+
+-------- day 352 --------
+name, sellIn, quality
+Ring of Cleansening Code, -342, 0
+Good Wine, -350, 50
+Elixir of the SOLID, -347, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -337, 0
+Backstage passes for Re:Factor, -342, 0
+Backstage passes for HAXX, -347, 0
+Duplicate Code, -349, 0
+Long Methods, -349, 0
+Ugly Variable Names, -349, 0
+
+-------- day 353 --------
+name, sellIn, quality
+Ring of Cleansening Code, -343, 0
+Good Wine, -351, 50
+Elixir of the SOLID, -348, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -338, 0
+Backstage passes for Re:Factor, -343, 0
+Backstage passes for HAXX, -348, 0
+Duplicate Code, -350, 0
+Long Methods, -350, 0
+Ugly Variable Names, -350, 0
+
+-------- day 354 --------
+name, sellIn, quality
+Ring of Cleansening Code, -344, 0
+Good Wine, -352, 50
+Elixir of the SOLID, -349, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -339, 0
+Backstage passes for Re:Factor, -344, 0
+Backstage passes for HAXX, -349, 0
+Duplicate Code, -351, 0
+Long Methods, -351, 0
+Ugly Variable Names, -351, 0
+
+-------- day 355 --------
+name, sellIn, quality
+Ring of Cleansening Code, -345, 0
+Good Wine, -353, 50
+Elixir of the SOLID, -350, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -340, 0
+Backstage passes for Re:Factor, -345, 0
+Backstage passes for HAXX, -350, 0
+Duplicate Code, -352, 0
+Long Methods, -352, 0
+Ugly Variable Names, -352, 0
+
+-------- day 356 --------
+name, sellIn, quality
+Ring of Cleansening Code, -346, 0
+Good Wine, -354, 50
+Elixir of the SOLID, -351, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -341, 0
+Backstage passes for Re:Factor, -346, 0
+Backstage passes for HAXX, -351, 0
+Duplicate Code, -353, 0
+Long Methods, -353, 0
+Ugly Variable Names, -353, 0
+
+-------- day 357 --------
+name, sellIn, quality
+Ring of Cleansening Code, -347, 0
+Good Wine, -355, 50
+Elixir of the SOLID, -352, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -342, 0
+Backstage passes for Re:Factor, -347, 0
+Backstage passes for HAXX, -352, 0
+Duplicate Code, -354, 0
+Long Methods, -354, 0
+Ugly Variable Names, -354, 0
+
+-------- day 358 --------
+name, sellIn, quality
+Ring of Cleansening Code, -348, 0
+Good Wine, -356, 50
+Elixir of the SOLID, -353, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -343, 0
+Backstage passes for Re:Factor, -348, 0
+Backstage passes for HAXX, -353, 0
+Duplicate Code, -355, 0
+Long Methods, -355, 0
+Ugly Variable Names, -355, 0
+
+-------- day 359 --------
+name, sellIn, quality
+Ring of Cleansening Code, -349, 0
+Good Wine, -357, 50
+Elixir of the SOLID, -354, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -344, 0
+Backstage passes for Re:Factor, -349, 0
+Backstage passes for HAXX, -354, 0
+Duplicate Code, -356, 0
+Long Methods, -356, 0
+Ugly Variable Names, -356, 0
+
+-------- day 360 --------
+name, sellIn, quality
+Ring of Cleansening Code, -350, 0
+Good Wine, -358, 50
+Elixir of the SOLID, -355, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -345, 0
+Backstage passes for Re:Factor, -350, 0
+Backstage passes for HAXX, -355, 0
+Duplicate Code, -357, 0
+Long Methods, -357, 0
+Ugly Variable Names, -357, 0
+
+-------- day 361 --------
+name, sellIn, quality
+Ring of Cleansening Code, -351, 0
+Good Wine, -359, 50
+Elixir of the SOLID, -356, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -346, 0
+Backstage passes for Re:Factor, -351, 0
+Backstage passes for HAXX, -356, 0
+Duplicate Code, -358, 0
+Long Methods, -358, 0
+Ugly Variable Names, -358, 0
+
+-------- day 362 --------
+name, sellIn, quality
+Ring of Cleansening Code, -352, 0
+Good Wine, -360, 50
+Elixir of the SOLID, -357, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -347, 0
+Backstage passes for Re:Factor, -352, 0
+Backstage passes for HAXX, -357, 0
+Duplicate Code, -359, 0
+Long Methods, -359, 0
+Ugly Variable Names, -359, 0
+
+-------- day 363 --------
+name, sellIn, quality
+Ring of Cleansening Code, -353, 0
+Good Wine, -361, 50
+Elixir of the SOLID, -358, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -348, 0
+Backstage passes for Re:Factor, -353, 0
+Backstage passes for HAXX, -358, 0
+Duplicate Code, -360, 0
+Long Methods, -360, 0
+Ugly Variable Names, -360, 0
+
+-------- day 364 --------
+name, sellIn, quality
+Ring of Cleansening Code, -354, 0
+Good Wine, -362, 50
+Elixir of the SOLID, -359, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -349, 0
+Backstage passes for Re:Factor, -354, 0
+Backstage passes for HAXX, -359, 0
+Duplicate Code, -361, 0
+Long Methods, -361, 0
+Ugly Variable Names, -361, 0
+
+-------- day 365 --------
+name, sellIn, quality
+Ring of Cleansening Code, -355, 0
+Good Wine, -363, 50
+Elixir of the SOLID, -360, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -350, 0
+Backstage passes for Re:Factor, -355, 0
+Backstage passes for HAXX, -360, 0
+Duplicate Code, -362, 0
+Long Methods, -362, 0
+Ugly Variable Names, -362, 0
+
+-------- day 366 --------
+name, sellIn, quality
+Ring of Cleansening Code, -356, 0
+Good Wine, -364, 50
+Elixir of the SOLID, -361, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -351, 0
+Backstage passes for Re:Factor, -356, 0
+Backstage passes for HAXX, -361, 0
+Duplicate Code, -363, 0
+Long Methods, -363, 0
+Ugly Variable Names, -363, 0
+
+-------- day 367 --------
+name, sellIn, quality
+Ring of Cleansening Code, -357, 0
+Good Wine, -365, 50
+Elixir of the SOLID, -362, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -352, 0
+Backstage passes for Re:Factor, -357, 0
+Backstage passes for HAXX, -362, 0
+Duplicate Code, -364, 0
+Long Methods, -364, 0
+Ugly Variable Names, -364, 0
+
+-------- day 368 --------
+name, sellIn, quality
+Ring of Cleansening Code, -358, 0
+Good Wine, -366, 50
+Elixir of the SOLID, -363, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -353, 0
+Backstage passes for Re:Factor, -358, 0
+Backstage passes for HAXX, -363, 0
+Duplicate Code, -365, 0
+Long Methods, -365, 0
+Ugly Variable Names, -365, 0
+
+-------- day 369 --------
+name, sellIn, quality
+Ring of Cleansening Code, -359, 0
+Good Wine, -367, 50
+Elixir of the SOLID, -364, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -354, 0
+Backstage passes for Re:Factor, -359, 0
+Backstage passes for HAXX, -364, 0
+Duplicate Code, -366, 0
+Long Methods, -366, 0
+Ugly Variable Names, -366, 0
+
+-------- day 370 --------
+name, sellIn, quality
+Ring of Cleansening Code, -360, 0
+Good Wine, -368, 50
+Elixir of the SOLID, -365, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -355, 0
+Backstage passes for Re:Factor, -360, 0
+Backstage passes for HAXX, -365, 0
+Duplicate Code, -367, 0
+Long Methods, -367, 0
+Ugly Variable Names, -367, 0
+
+-------- day 371 --------
+name, sellIn, quality
+Ring of Cleansening Code, -361, 0
+Good Wine, -369, 50
+Elixir of the SOLID, -366, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -356, 0
+Backstage passes for Re:Factor, -361, 0
+Backstage passes for HAXX, -366, 0
+Duplicate Code, -368, 0
+Long Methods, -368, 0
+Ugly Variable Names, -368, 0
+
+-------- day 372 --------
+name, sellIn, quality
+Ring of Cleansening Code, -362, 0
+Good Wine, -370, 50
+Elixir of the SOLID, -367, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -357, 0
+Backstage passes for Re:Factor, -362, 0
+Backstage passes for HAXX, -367, 0
+Duplicate Code, -369, 0
+Long Methods, -369, 0
+Ugly Variable Names, -369, 0
+
+-------- day 373 --------
+name, sellIn, quality
+Ring of Cleansening Code, -363, 0
+Good Wine, -371, 50
+Elixir of the SOLID, -368, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -358, 0
+Backstage passes for Re:Factor, -363, 0
+Backstage passes for HAXX, -368, 0
+Duplicate Code, -370, 0
+Long Methods, -370, 0
+Ugly Variable Names, -370, 0
+
+-------- day 374 --------
+name, sellIn, quality
+Ring of Cleansening Code, -364, 0
+Good Wine, -372, 50
+Elixir of the SOLID, -369, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -359, 0
+Backstage passes for Re:Factor, -364, 0
+Backstage passes for HAXX, -369, 0
+Duplicate Code, -371, 0
+Long Methods, -371, 0
+Ugly Variable Names, -371, 0
+
+-------- day 375 --------
+name, sellIn, quality
+Ring of Cleansening Code, -365, 0
+Good Wine, -373, 50
+Elixir of the SOLID, -370, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -360, 0
+Backstage passes for Re:Factor, -365, 0
+Backstage passes for HAXX, -370, 0
+Duplicate Code, -372, 0
+Long Methods, -372, 0
+Ugly Variable Names, -372, 0
+
+-------- day 376 --------
+name, sellIn, quality
+Ring of Cleansening Code, -366, 0
+Good Wine, -374, 50
+Elixir of the SOLID, -371, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -361, 0
+Backstage passes for Re:Factor, -366, 0
+Backstage passes for HAXX, -371, 0
+Duplicate Code, -373, 0
+Long Methods, -373, 0
+Ugly Variable Names, -373, 0
+
+-------- day 377 --------
+name, sellIn, quality
+Ring of Cleansening Code, -367, 0
+Good Wine, -375, 50
+Elixir of the SOLID, -372, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -362, 0
+Backstage passes for Re:Factor, -367, 0
+Backstage passes for HAXX, -372, 0
+Duplicate Code, -374, 0
+Long Methods, -374, 0
+Ugly Variable Names, -374, 0
+
+-------- day 378 --------
+name, sellIn, quality
+Ring of Cleansening Code, -368, 0
+Good Wine, -376, 50
+Elixir of the SOLID, -373, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -363, 0
+Backstage passes for Re:Factor, -368, 0
+Backstage passes for HAXX, -373, 0
+Duplicate Code, -375, 0
+Long Methods, -375, 0
+Ugly Variable Names, -375, 0
+
+-------- day 379 --------
+name, sellIn, quality
+Ring of Cleansening Code, -369, 0
+Good Wine, -377, 50
+Elixir of the SOLID, -374, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -364, 0
+Backstage passes for Re:Factor, -369, 0
+Backstage passes for HAXX, -374, 0
+Duplicate Code, -376, 0
+Long Methods, -376, 0
+Ugly Variable Names, -376, 0
+
+-------- day 380 --------
+name, sellIn, quality
+Ring of Cleansening Code, -370, 0
+Good Wine, -378, 50
+Elixir of the SOLID, -375, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -365, 0
+Backstage passes for Re:Factor, -370, 0
+Backstage passes for HAXX, -375, 0
+Duplicate Code, -377, 0
+Long Methods, -377, 0
+Ugly Variable Names, -377, 0
+
+-------- day 381 --------
+name, sellIn, quality
+Ring of Cleansening Code, -371, 0
+Good Wine, -379, 50
+Elixir of the SOLID, -376, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -366, 0
+Backstage passes for Re:Factor, -371, 0
+Backstage passes for HAXX, -376, 0
+Duplicate Code, -378, 0
+Long Methods, -378, 0
+Ugly Variable Names, -378, 0
+
+-------- day 382 --------
+name, sellIn, quality
+Ring of Cleansening Code, -372, 0
+Good Wine, -380, 50
+Elixir of the SOLID, -377, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -367, 0
+Backstage passes for Re:Factor, -372, 0
+Backstage passes for HAXX, -377, 0
+Duplicate Code, -379, 0
+Long Methods, -379, 0
+Ugly Variable Names, -379, 0
+
+-------- day 383 --------
+name, sellIn, quality
+Ring of Cleansening Code, -373, 0
+Good Wine, -381, 50
+Elixir of the SOLID, -378, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -368, 0
+Backstage passes for Re:Factor, -373, 0
+Backstage passes for HAXX, -378, 0
+Duplicate Code, -380, 0
+Long Methods, -380, 0
+Ugly Variable Names, -380, 0
+
+-------- day 384 --------
+name, sellIn, quality
+Ring of Cleansening Code, -374, 0
+Good Wine, -382, 50
+Elixir of the SOLID, -379, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -369, 0
+Backstage passes for Re:Factor, -374, 0
+Backstage passes for HAXX, -379, 0
+Duplicate Code, -381, 0
+Long Methods, -381, 0
+Ugly Variable Names, -381, 0
+
+-------- day 385 --------
+name, sellIn, quality
+Ring of Cleansening Code, -375, 0
+Good Wine, -383, 50
+Elixir of the SOLID, -380, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -370, 0
+Backstage passes for Re:Factor, -375, 0
+Backstage passes for HAXX, -380, 0
+Duplicate Code, -382, 0
+Long Methods, -382, 0
+Ugly Variable Names, -382, 0
+
+-------- day 386 --------
+name, sellIn, quality
+Ring of Cleansening Code, -376, 0
+Good Wine, -384, 50
+Elixir of the SOLID, -381, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -371, 0
+Backstage passes for Re:Factor, -376, 0
+Backstage passes for HAXX, -381, 0
+Duplicate Code, -383, 0
+Long Methods, -383, 0
+Ugly Variable Names, -383, 0
+
+-------- day 387 --------
+name, sellIn, quality
+Ring of Cleansening Code, -377, 0
+Good Wine, -385, 50
+Elixir of the SOLID, -382, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -372, 0
+Backstage passes for Re:Factor, -377, 0
+Backstage passes for HAXX, -382, 0
+Duplicate Code, -384, 0
+Long Methods, -384, 0
+Ugly Variable Names, -384, 0
+
+-------- day 388 --------
+name, sellIn, quality
+Ring of Cleansening Code, -378, 0
+Good Wine, -386, 50
+Elixir of the SOLID, -383, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -373, 0
+Backstage passes for Re:Factor, -378, 0
+Backstage passes for HAXX, -383, 0
+Duplicate Code, -385, 0
+Long Methods, -385, 0
+Ugly Variable Names, -385, 0
+
+-------- day 389 --------
+name, sellIn, quality
+Ring of Cleansening Code, -379, 0
+Good Wine, -387, 50
+Elixir of the SOLID, -384, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -374, 0
+Backstage passes for Re:Factor, -379, 0
+Backstage passes for HAXX, -384, 0
+Duplicate Code, -386, 0
+Long Methods, -386, 0
+Ugly Variable Names, -386, 0
+
+-------- day 390 --------
+name, sellIn, quality
+Ring of Cleansening Code, -380, 0
+Good Wine, -388, 50
+Elixir of the SOLID, -385, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -375, 0
+Backstage passes for Re:Factor, -380, 0
+Backstage passes for HAXX, -385, 0
+Duplicate Code, -387, 0
+Long Methods, -387, 0
+Ugly Variable Names, -387, 0
+
+-------- day 391 --------
+name, sellIn, quality
+Ring of Cleansening Code, -381, 0
+Good Wine, -389, 50
+Elixir of the SOLID, -386, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -376, 0
+Backstage passes for Re:Factor, -381, 0
+Backstage passes for HAXX, -386, 0
+Duplicate Code, -388, 0
+Long Methods, -388, 0
+Ugly Variable Names, -388, 0
+
+-------- day 392 --------
+name, sellIn, quality
+Ring of Cleansening Code, -382, 0
+Good Wine, -390, 50
+Elixir of the SOLID, -387, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -377, 0
+Backstage passes for Re:Factor, -382, 0
+Backstage passes for HAXX, -387, 0
+Duplicate Code, -389, 0
+Long Methods, -389, 0
+Ugly Variable Names, -389, 0
+
+-------- day 393 --------
+name, sellIn, quality
+Ring of Cleansening Code, -383, 0
+Good Wine, -391, 50
+Elixir of the SOLID, -388, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -378, 0
+Backstage passes for Re:Factor, -383, 0
+Backstage passes for HAXX, -388, 0
+Duplicate Code, -390, 0
+Long Methods, -390, 0
+Ugly Variable Names, -390, 0
+
+-------- day 394 --------
+name, sellIn, quality
+Ring of Cleansening Code, -384, 0
+Good Wine, -392, 50
+Elixir of the SOLID, -389, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -379, 0
+Backstage passes for Re:Factor, -384, 0
+Backstage passes for HAXX, -389, 0
+Duplicate Code, -391, 0
+Long Methods, -391, 0
+Ugly Variable Names, -391, 0
+
+-------- day 395 --------
+name, sellIn, quality
+Ring of Cleansening Code, -385, 0
+Good Wine, -393, 50
+Elixir of the SOLID, -390, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -380, 0
+Backstage passes for Re:Factor, -385, 0
+Backstage passes for HAXX, -390, 0
+Duplicate Code, -392, 0
+Long Methods, -392, 0
+Ugly Variable Names, -392, 0
+
+-------- day 396 --------
+name, sellIn, quality
+Ring of Cleansening Code, -386, 0
+Good Wine, -394, 50
+Elixir of the SOLID, -391, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -381, 0
+Backstage passes for Re:Factor, -386, 0
+Backstage passes for HAXX, -391, 0
+Duplicate Code, -393, 0
+Long Methods, -393, 0
+Ugly Variable Names, -393, 0
+
+-------- day 397 --------
+name, sellIn, quality
+Ring of Cleansening Code, -387, 0
+Good Wine, -395, 50
+Elixir of the SOLID, -392, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -382, 0
+Backstage passes for Re:Factor, -387, 0
+Backstage passes for HAXX, -392, 0
+Duplicate Code, -394, 0
+Long Methods, -394, 0
+Ugly Variable Names, -394, 0
+
+-------- day 398 --------
+name, sellIn, quality
+Ring of Cleansening Code, -388, 0
+Good Wine, -396, 50
+Elixir of the SOLID, -393, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -383, 0
+Backstage passes for Re:Factor, -388, 0
+Backstage passes for HAXX, -393, 0
+Duplicate Code, -395, 0
+Long Methods, -395, 0
+Ugly Variable Names, -395, 0
+
+-------- day 399 --------
+name, sellIn, quality
+Ring of Cleansening Code, -389, 0
+Good Wine, -397, 50
+Elixir of the SOLID, -394, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -384, 0
+Backstage passes for Re:Factor, -389, 0
+Backstage passes for HAXX, -394, 0
+Duplicate Code, -396, 0
+Long Methods, -396, 0
+Ugly Variable Names, -396, 0
+
+-------- day 400 --------
+name, sellIn, quality
+Ring of Cleansening Code, -390, 0
+Good Wine, -398, 50
+Elixir of the SOLID, -395, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -385, 0
+Backstage passes for Re:Factor, -390, 0
+Backstage passes for HAXX, -395, 0
+Duplicate Code, -397, 0
+Long Methods, -397, 0
+Ugly Variable Names, -397, 0
+
+-------- day 401 --------
+name, sellIn, quality
+Ring of Cleansening Code, -391, 0
+Good Wine, -399, 50
+Elixir of the SOLID, -396, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -386, 0
+Backstage passes for Re:Factor, -391, 0
+Backstage passes for HAXX, -396, 0
+Duplicate Code, -398, 0
+Long Methods, -398, 0
+Ugly Variable Names, -398, 0
+
+-------- day 402 --------
+name, sellIn, quality
+Ring of Cleansening Code, -392, 0
+Good Wine, -400, 50
+Elixir of the SOLID, -397, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -387, 0
+Backstage passes for Re:Factor, -392, 0
+Backstage passes for HAXX, -397, 0
+Duplicate Code, -399, 0
+Long Methods, -399, 0
+Ugly Variable Names, -399, 0
+
+-------- day 403 --------
+name, sellIn, quality
+Ring of Cleansening Code, -393, 0
+Good Wine, -401, 50
+Elixir of the SOLID, -398, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -388, 0
+Backstage passes for Re:Factor, -393, 0
+Backstage passes for HAXX, -398, 0
+Duplicate Code, -400, 0
+Long Methods, -400, 0
+Ugly Variable Names, -400, 0
+
+-------- day 404 --------
+name, sellIn, quality
+Ring of Cleansening Code, -394, 0
+Good Wine, -402, 50
+Elixir of the SOLID, -399, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -389, 0
+Backstage passes for Re:Factor, -394, 0
+Backstage passes for HAXX, -399, 0
+Duplicate Code, -401, 0
+Long Methods, -401, 0
+Ugly Variable Names, -401, 0
+
+-------- day 405 --------
+name, sellIn, quality
+Ring of Cleansening Code, -395, 0
+Good Wine, -403, 50
+Elixir of the SOLID, -400, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -390, 0
+Backstage passes for Re:Factor, -395, 0
+Backstage passes for HAXX, -400, 0
+Duplicate Code, -402, 0
+Long Methods, -402, 0
+Ugly Variable Names, -402, 0
+
+-------- day 406 --------
+name, sellIn, quality
+Ring of Cleansening Code, -396, 0
+Good Wine, -404, 50
+Elixir of the SOLID, -401, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -391, 0
+Backstage passes for Re:Factor, -396, 0
+Backstage passes for HAXX, -401, 0
+Duplicate Code, -403, 0
+Long Methods, -403, 0
+Ugly Variable Names, -403, 0
+
+-------- day 407 --------
+name, sellIn, quality
+Ring of Cleansening Code, -397, 0
+Good Wine, -405, 50
+Elixir of the SOLID, -402, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -392, 0
+Backstage passes for Re:Factor, -397, 0
+Backstage passes for HAXX, -402, 0
+Duplicate Code, -404, 0
+Long Methods, -404, 0
+Ugly Variable Names, -404, 0
+
+-------- day 408 --------
+name, sellIn, quality
+Ring of Cleansening Code, -398, 0
+Good Wine, -406, 50
+Elixir of the SOLID, -403, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -393, 0
+Backstage passes for Re:Factor, -398, 0
+Backstage passes for HAXX, -403, 0
+Duplicate Code, -405, 0
+Long Methods, -405, 0
+Ugly Variable Names, -405, 0
+
+-------- day 409 --------
+name, sellIn, quality
+Ring of Cleansening Code, -399, 0
+Good Wine, -407, 50
+Elixir of the SOLID, -404, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -394, 0
+Backstage passes for Re:Factor, -399, 0
+Backstage passes for HAXX, -404, 0
+Duplicate Code, -406, 0
+Long Methods, -406, 0
+Ugly Variable Names, -406, 0
+
+-------- day 410 --------
+name, sellIn, quality
+Ring of Cleansening Code, -400, 0
+Good Wine, -408, 50
+Elixir of the SOLID, -405, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -395, 0
+Backstage passes for Re:Factor, -400, 0
+Backstage passes for HAXX, -405, 0
+Duplicate Code, -407, 0
+Long Methods, -407, 0
+Ugly Variable Names, -407, 0
+
+-------- day 411 --------
+name, sellIn, quality
+Ring of Cleansening Code, -401, 0
+Good Wine, -409, 50
+Elixir of the SOLID, -406, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -396, 0
+Backstage passes for Re:Factor, -401, 0
+Backstage passes for HAXX, -406, 0
+Duplicate Code, -408, 0
+Long Methods, -408, 0
+Ugly Variable Names, -408, 0
+
+-------- day 412 --------
+name, sellIn, quality
+Ring of Cleansening Code, -402, 0
+Good Wine, -410, 50
+Elixir of the SOLID, -407, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -397, 0
+Backstage passes for Re:Factor, -402, 0
+Backstage passes for HAXX, -407, 0
+Duplicate Code, -409, 0
+Long Methods, -409, 0
+Ugly Variable Names, -409, 0
+
+-------- day 413 --------
+name, sellIn, quality
+Ring of Cleansening Code, -403, 0
+Good Wine, -411, 50
+Elixir of the SOLID, -408, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -398, 0
+Backstage passes for Re:Factor, -403, 0
+Backstage passes for HAXX, -408, 0
+Duplicate Code, -410, 0
+Long Methods, -410, 0
+Ugly Variable Names, -410, 0
+
+-------- day 414 --------
+name, sellIn, quality
+Ring of Cleansening Code, -404, 0
+Good Wine, -412, 50
+Elixir of the SOLID, -409, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -399, 0
+Backstage passes for Re:Factor, -404, 0
+Backstage passes for HAXX, -409, 0
+Duplicate Code, -411, 0
+Long Methods, -411, 0
+Ugly Variable Names, -411, 0
+
+-------- day 415 --------
+name, sellIn, quality
+Ring of Cleansening Code, -405, 0
+Good Wine, -413, 50
+Elixir of the SOLID, -410, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -400, 0
+Backstage passes for Re:Factor, -405, 0
+Backstage passes for HAXX, -410, 0
+Duplicate Code, -412, 0
+Long Methods, -412, 0
+Ugly Variable Names, -412, 0
+
+-------- day 416 --------
+name, sellIn, quality
+Ring of Cleansening Code, -406, 0
+Good Wine, -414, 50
+Elixir of the SOLID, -411, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -401, 0
+Backstage passes for Re:Factor, -406, 0
+Backstage passes for HAXX, -411, 0
+Duplicate Code, -413, 0
+Long Methods, -413, 0
+Ugly Variable Names, -413, 0
+
+-------- day 417 --------
+name, sellIn, quality
+Ring of Cleansening Code, -407, 0
+Good Wine, -415, 50
+Elixir of the SOLID, -412, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -402, 0
+Backstage passes for Re:Factor, -407, 0
+Backstage passes for HAXX, -412, 0
+Duplicate Code, -414, 0
+Long Methods, -414, 0
+Ugly Variable Names, -414, 0
+
+-------- day 418 --------
+name, sellIn, quality
+Ring of Cleansening Code, -408, 0
+Good Wine, -416, 50
+Elixir of the SOLID, -413, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -403, 0
+Backstage passes for Re:Factor, -408, 0
+Backstage passes for HAXX, -413, 0
+Duplicate Code, -415, 0
+Long Methods, -415, 0
+Ugly Variable Names, -415, 0
+
+-------- day 419 --------
+name, sellIn, quality
+Ring of Cleansening Code, -409, 0
+Good Wine, -417, 50
+Elixir of the SOLID, -414, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -404, 0
+Backstage passes for Re:Factor, -409, 0
+Backstage passes for HAXX, -414, 0
+Duplicate Code, -416, 0
+Long Methods, -416, 0
+Ugly Variable Names, -416, 0
+
+-------- day 420 --------
+name, sellIn, quality
+Ring of Cleansening Code, -410, 0
+Good Wine, -418, 50
+Elixir of the SOLID, -415, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -405, 0
+Backstage passes for Re:Factor, -410, 0
+Backstage passes for HAXX, -415, 0
+Duplicate Code, -417, 0
+Long Methods, -417, 0
+Ugly Variable Names, -417, 0
+
+-------- day 421 --------
+name, sellIn, quality
+Ring of Cleansening Code, -411, 0
+Good Wine, -419, 50
+Elixir of the SOLID, -416, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -406, 0
+Backstage passes for Re:Factor, -411, 0
+Backstage passes for HAXX, -416, 0
+Duplicate Code, -418, 0
+Long Methods, -418, 0
+Ugly Variable Names, -418, 0
+
+-------- day 422 --------
+name, sellIn, quality
+Ring of Cleansening Code, -412, 0
+Good Wine, -420, 50
+Elixir of the SOLID, -417, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -407, 0
+Backstage passes for Re:Factor, -412, 0
+Backstage passes for HAXX, -417, 0
+Duplicate Code, -419, 0
+Long Methods, -419, 0
+Ugly Variable Names, -419, 0
+
+-------- day 423 --------
+name, sellIn, quality
+Ring of Cleansening Code, -413, 0
+Good Wine, -421, 50
+Elixir of the SOLID, -418, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -408, 0
+Backstage passes for Re:Factor, -413, 0
+Backstage passes for HAXX, -418, 0
+Duplicate Code, -420, 0
+Long Methods, -420, 0
+Ugly Variable Names, -420, 0
+
+-------- day 424 --------
+name, sellIn, quality
+Ring of Cleansening Code, -414, 0
+Good Wine, -422, 50
+Elixir of the SOLID, -419, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -409, 0
+Backstage passes for Re:Factor, -414, 0
+Backstage passes for HAXX, -419, 0
+Duplicate Code, -421, 0
+Long Methods, -421, 0
+Ugly Variable Names, -421, 0
+
+-------- day 425 --------
+name, sellIn, quality
+Ring of Cleansening Code, -415, 0
+Good Wine, -423, 50
+Elixir of the SOLID, -420, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -410, 0
+Backstage passes for Re:Factor, -415, 0
+Backstage passes for HAXX, -420, 0
+Duplicate Code, -422, 0
+Long Methods, -422, 0
+Ugly Variable Names, -422, 0
+
+-------- day 426 --------
+name, sellIn, quality
+Ring of Cleansening Code, -416, 0
+Good Wine, -424, 50
+Elixir of the SOLID, -421, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -411, 0
+Backstage passes for Re:Factor, -416, 0
+Backstage passes for HAXX, -421, 0
+Duplicate Code, -423, 0
+Long Methods, -423, 0
+Ugly Variable Names, -423, 0
+
+-------- day 427 --------
+name, sellIn, quality
+Ring of Cleansening Code, -417, 0
+Good Wine, -425, 50
+Elixir of the SOLID, -422, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -412, 0
+Backstage passes for Re:Factor, -417, 0
+Backstage passes for HAXX, -422, 0
+Duplicate Code, -424, 0
+Long Methods, -424, 0
+Ugly Variable Names, -424, 0
+
+-------- day 428 --------
+name, sellIn, quality
+Ring of Cleansening Code, -418, 0
+Good Wine, -426, 50
+Elixir of the SOLID, -423, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -413, 0
+Backstage passes for Re:Factor, -418, 0
+Backstage passes for HAXX, -423, 0
+Duplicate Code, -425, 0
+Long Methods, -425, 0
+Ugly Variable Names, -425, 0
+
+-------- day 429 --------
+name, sellIn, quality
+Ring of Cleansening Code, -419, 0
+Good Wine, -427, 50
+Elixir of the SOLID, -424, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -414, 0
+Backstage passes for Re:Factor, -419, 0
+Backstage passes for HAXX, -424, 0
+Duplicate Code, -426, 0
+Long Methods, -426, 0
+Ugly Variable Names, -426, 0
+
+-------- day 430 --------
+name, sellIn, quality
+Ring of Cleansening Code, -420, 0
+Good Wine, -428, 50
+Elixir of the SOLID, -425, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -415, 0
+Backstage passes for Re:Factor, -420, 0
+Backstage passes for HAXX, -425, 0
+Duplicate Code, -427, 0
+Long Methods, -427, 0
+Ugly Variable Names, -427, 0
+
+-------- day 431 --------
+name, sellIn, quality
+Ring of Cleansening Code, -421, 0
+Good Wine, -429, 50
+Elixir of the SOLID, -426, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -416, 0
+Backstage passes for Re:Factor, -421, 0
+Backstage passes for HAXX, -426, 0
+Duplicate Code, -428, 0
+Long Methods, -428, 0
+Ugly Variable Names, -428, 0
+
+-------- day 432 --------
+name, sellIn, quality
+Ring of Cleansening Code, -422, 0
+Good Wine, -430, 50
+Elixir of the SOLID, -427, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -417, 0
+Backstage passes for Re:Factor, -422, 0
+Backstage passes for HAXX, -427, 0
+Duplicate Code, -429, 0
+Long Methods, -429, 0
+Ugly Variable Names, -429, 0
+
+-------- day 433 --------
+name, sellIn, quality
+Ring of Cleansening Code, -423, 0
+Good Wine, -431, 50
+Elixir of the SOLID, -428, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -418, 0
+Backstage passes for Re:Factor, -423, 0
+Backstage passes for HAXX, -428, 0
+Duplicate Code, -430, 0
+Long Methods, -430, 0
+Ugly Variable Names, -430, 0
+
+-------- day 434 --------
+name, sellIn, quality
+Ring of Cleansening Code, -424, 0
+Good Wine, -432, 50
+Elixir of the SOLID, -429, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -419, 0
+Backstage passes for Re:Factor, -424, 0
+Backstage passes for HAXX, -429, 0
+Duplicate Code, -431, 0
+Long Methods, -431, 0
+Ugly Variable Names, -431, 0
+
+-------- day 435 --------
+name, sellIn, quality
+Ring of Cleansening Code, -425, 0
+Good Wine, -433, 50
+Elixir of the SOLID, -430, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -420, 0
+Backstage passes for Re:Factor, -425, 0
+Backstage passes for HAXX, -430, 0
+Duplicate Code, -432, 0
+Long Methods, -432, 0
+Ugly Variable Names, -432, 0
+
+-------- day 436 --------
+name, sellIn, quality
+Ring of Cleansening Code, -426, 0
+Good Wine, -434, 50
+Elixir of the SOLID, -431, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -421, 0
+Backstage passes for Re:Factor, -426, 0
+Backstage passes for HAXX, -431, 0
+Duplicate Code, -433, 0
+Long Methods, -433, 0
+Ugly Variable Names, -433, 0
+
+-------- day 437 --------
+name, sellIn, quality
+Ring of Cleansening Code, -427, 0
+Good Wine, -435, 50
+Elixir of the SOLID, -432, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -422, 0
+Backstage passes for Re:Factor, -427, 0
+Backstage passes for HAXX, -432, 0
+Duplicate Code, -434, 0
+Long Methods, -434, 0
+Ugly Variable Names, -434, 0
+
+-------- day 438 --------
+name, sellIn, quality
+Ring of Cleansening Code, -428, 0
+Good Wine, -436, 50
+Elixir of the SOLID, -433, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -423, 0
+Backstage passes for Re:Factor, -428, 0
+Backstage passes for HAXX, -433, 0
+Duplicate Code, -435, 0
+Long Methods, -435, 0
+Ugly Variable Names, -435, 0
+
+-------- day 439 --------
+name, sellIn, quality
+Ring of Cleansening Code, -429, 0
+Good Wine, -437, 50
+Elixir of the SOLID, -434, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -424, 0
+Backstage passes for Re:Factor, -429, 0
+Backstage passes for HAXX, -434, 0
+Duplicate Code, -436, 0
+Long Methods, -436, 0
+Ugly Variable Names, -436, 0
+
+-------- day 440 --------
+name, sellIn, quality
+Ring of Cleansening Code, -430, 0
+Good Wine, -438, 50
+Elixir of the SOLID, -435, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -425, 0
+Backstage passes for Re:Factor, -430, 0
+Backstage passes for HAXX, -435, 0
+Duplicate Code, -437, 0
+Long Methods, -437, 0
+Ugly Variable Names, -437, 0
+
+-------- day 441 --------
+name, sellIn, quality
+Ring of Cleansening Code, -431, 0
+Good Wine, -439, 50
+Elixir of the SOLID, -436, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -426, 0
+Backstage passes for Re:Factor, -431, 0
+Backstage passes for HAXX, -436, 0
+Duplicate Code, -438, 0
+Long Methods, -438, 0
+Ugly Variable Names, -438, 0
+
+-------- day 442 --------
+name, sellIn, quality
+Ring of Cleansening Code, -432, 0
+Good Wine, -440, 50
+Elixir of the SOLID, -437, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -427, 0
+Backstage passes for Re:Factor, -432, 0
+Backstage passes for HAXX, -437, 0
+Duplicate Code, -439, 0
+Long Methods, -439, 0
+Ugly Variable Names, -439, 0
+
+-------- day 443 --------
+name, sellIn, quality
+Ring of Cleansening Code, -433, 0
+Good Wine, -441, 50
+Elixir of the SOLID, -438, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -428, 0
+Backstage passes for Re:Factor, -433, 0
+Backstage passes for HAXX, -438, 0
+Duplicate Code, -440, 0
+Long Methods, -440, 0
+Ugly Variable Names, -440, 0
+
+-------- day 444 --------
+name, sellIn, quality
+Ring of Cleansening Code, -434, 0
+Good Wine, -442, 50
+Elixir of the SOLID, -439, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -429, 0
+Backstage passes for Re:Factor, -434, 0
+Backstage passes for HAXX, -439, 0
+Duplicate Code, -441, 0
+Long Methods, -441, 0
+Ugly Variable Names, -441, 0
+
+-------- day 445 --------
+name, sellIn, quality
+Ring of Cleansening Code, -435, 0
+Good Wine, -443, 50
+Elixir of the SOLID, -440, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -430, 0
+Backstage passes for Re:Factor, -435, 0
+Backstage passes for HAXX, -440, 0
+Duplicate Code, -442, 0
+Long Methods, -442, 0
+Ugly Variable Names, -442, 0
+
+-------- day 446 --------
+name, sellIn, quality
+Ring of Cleansening Code, -436, 0
+Good Wine, -444, 50
+Elixir of the SOLID, -441, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -431, 0
+Backstage passes for Re:Factor, -436, 0
+Backstage passes for HAXX, -441, 0
+Duplicate Code, -443, 0
+Long Methods, -443, 0
+Ugly Variable Names, -443, 0
+
+-------- day 447 --------
+name, sellIn, quality
+Ring of Cleansening Code, -437, 0
+Good Wine, -445, 50
+Elixir of the SOLID, -442, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -432, 0
+Backstage passes for Re:Factor, -437, 0
+Backstage passes for HAXX, -442, 0
+Duplicate Code, -444, 0
+Long Methods, -444, 0
+Ugly Variable Names, -444, 0
+
+-------- day 448 --------
+name, sellIn, quality
+Ring of Cleansening Code, -438, 0
+Good Wine, -446, 50
+Elixir of the SOLID, -443, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -433, 0
+Backstage passes for Re:Factor, -438, 0
+Backstage passes for HAXX, -443, 0
+Duplicate Code, -445, 0
+Long Methods, -445, 0
+Ugly Variable Names, -445, 0
+
+-------- day 449 --------
+name, sellIn, quality
+Ring of Cleansening Code, -439, 0
+Good Wine, -447, 50
+Elixir of the SOLID, -444, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -434, 0
+Backstage passes for Re:Factor, -439, 0
+Backstage passes for HAXX, -444, 0
+Duplicate Code, -446, 0
+Long Methods, -446, 0
+Ugly Variable Names, -446, 0
+
+-------- day 450 --------
+name, sellIn, quality
+Ring of Cleansening Code, -440, 0
+Good Wine, -448, 50
+Elixir of the SOLID, -445, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -435, 0
+Backstage passes for Re:Factor, -440, 0
+Backstage passes for HAXX, -445, 0
+Duplicate Code, -447, 0
+Long Methods, -447, 0
+Ugly Variable Names, -447, 0
+
+-------- day 451 --------
+name, sellIn, quality
+Ring of Cleansening Code, -441, 0
+Good Wine, -449, 50
+Elixir of the SOLID, -446, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -436, 0
+Backstage passes for Re:Factor, -441, 0
+Backstage passes for HAXX, -446, 0
+Duplicate Code, -448, 0
+Long Methods, -448, 0
+Ugly Variable Names, -448, 0
+
+-------- day 452 --------
+name, sellIn, quality
+Ring of Cleansening Code, -442, 0
+Good Wine, -450, 50
+Elixir of the SOLID, -447, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -437, 0
+Backstage passes for Re:Factor, -442, 0
+Backstage passes for HAXX, -447, 0
+Duplicate Code, -449, 0
+Long Methods, -449, 0
+Ugly Variable Names, -449, 0
+
+-------- day 453 --------
+name, sellIn, quality
+Ring of Cleansening Code, -443, 0
+Good Wine, -451, 50
+Elixir of the SOLID, -448, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -438, 0
+Backstage passes for Re:Factor, -443, 0
+Backstage passes for HAXX, -448, 0
+Duplicate Code, -450, 0
+Long Methods, -450, 0
+Ugly Variable Names, -450, 0
+
+-------- day 454 --------
+name, sellIn, quality
+Ring of Cleansening Code, -444, 0
+Good Wine, -452, 50
+Elixir of the SOLID, -449, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -439, 0
+Backstage passes for Re:Factor, -444, 0
+Backstage passes for HAXX, -449, 0
+Duplicate Code, -451, 0
+Long Methods, -451, 0
+Ugly Variable Names, -451, 0
+
+-------- day 455 --------
+name, sellIn, quality
+Ring of Cleansening Code, -445, 0
+Good Wine, -453, 50
+Elixir of the SOLID, -450, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -440, 0
+Backstage passes for Re:Factor, -445, 0
+Backstage passes for HAXX, -450, 0
+Duplicate Code, -452, 0
+Long Methods, -452, 0
+Ugly Variable Names, -452, 0
+
+-------- day 456 --------
+name, sellIn, quality
+Ring of Cleansening Code, -446, 0
+Good Wine, -454, 50
+Elixir of the SOLID, -451, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -441, 0
+Backstage passes for Re:Factor, -446, 0
+Backstage passes for HAXX, -451, 0
+Duplicate Code, -453, 0
+Long Methods, -453, 0
+Ugly Variable Names, -453, 0
+
+-------- day 457 --------
+name, sellIn, quality
+Ring of Cleansening Code, -447, 0
+Good Wine, -455, 50
+Elixir of the SOLID, -452, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -442, 0
+Backstage passes for Re:Factor, -447, 0
+Backstage passes for HAXX, -452, 0
+Duplicate Code, -454, 0
+Long Methods, -454, 0
+Ugly Variable Names, -454, 0
+
+-------- day 458 --------
+name, sellIn, quality
+Ring of Cleansening Code, -448, 0
+Good Wine, -456, 50
+Elixir of the SOLID, -453, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -443, 0
+Backstage passes for Re:Factor, -448, 0
+Backstage passes for HAXX, -453, 0
+Duplicate Code, -455, 0
+Long Methods, -455, 0
+Ugly Variable Names, -455, 0
+
+-------- day 459 --------
+name, sellIn, quality
+Ring of Cleansening Code, -449, 0
+Good Wine, -457, 50
+Elixir of the SOLID, -454, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -444, 0
+Backstage passes for Re:Factor, -449, 0
+Backstage passes for HAXX, -454, 0
+Duplicate Code, -456, 0
+Long Methods, -456, 0
+Ugly Variable Names, -456, 0
+
+-------- day 460 --------
+name, sellIn, quality
+Ring of Cleansening Code, -450, 0
+Good Wine, -458, 50
+Elixir of the SOLID, -455, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -445, 0
+Backstage passes for Re:Factor, -450, 0
+Backstage passes for HAXX, -455, 0
+Duplicate Code, -457, 0
+Long Methods, -457, 0
+Ugly Variable Names, -457, 0
+
+-------- day 461 --------
+name, sellIn, quality
+Ring of Cleansening Code, -451, 0
+Good Wine, -459, 50
+Elixir of the SOLID, -456, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -446, 0
+Backstage passes for Re:Factor, -451, 0
+Backstage passes for HAXX, -456, 0
+Duplicate Code, -458, 0
+Long Methods, -458, 0
+Ugly Variable Names, -458, 0
+
+-------- day 462 --------
+name, sellIn, quality
+Ring of Cleansening Code, -452, 0
+Good Wine, -460, 50
+Elixir of the SOLID, -457, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -447, 0
+Backstage passes for Re:Factor, -452, 0
+Backstage passes for HAXX, -457, 0
+Duplicate Code, -459, 0
+Long Methods, -459, 0
+Ugly Variable Names, -459, 0
+
+-------- day 463 --------
+name, sellIn, quality
+Ring of Cleansening Code, -453, 0
+Good Wine, -461, 50
+Elixir of the SOLID, -458, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -448, 0
+Backstage passes for Re:Factor, -453, 0
+Backstage passes for HAXX, -458, 0
+Duplicate Code, -460, 0
+Long Methods, -460, 0
+Ugly Variable Names, -460, 0
+
+-------- day 464 --------
+name, sellIn, quality
+Ring of Cleansening Code, -454, 0
+Good Wine, -462, 50
+Elixir of the SOLID, -459, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -449, 0
+Backstage passes for Re:Factor, -454, 0
+Backstage passes for HAXX, -459, 0
+Duplicate Code, -461, 0
+Long Methods, -461, 0
+Ugly Variable Names, -461, 0
+
+-------- day 465 --------
+name, sellIn, quality
+Ring of Cleansening Code, -455, 0
+Good Wine, -463, 50
+Elixir of the SOLID, -460, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -450, 0
+Backstage passes for Re:Factor, -455, 0
+Backstage passes for HAXX, -460, 0
+Duplicate Code, -462, 0
+Long Methods, -462, 0
+Ugly Variable Names, -462, 0
+
+-------- day 466 --------
+name, sellIn, quality
+Ring of Cleansening Code, -456, 0
+Good Wine, -464, 50
+Elixir of the SOLID, -461, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -451, 0
+Backstage passes for Re:Factor, -456, 0
+Backstage passes for HAXX, -461, 0
+Duplicate Code, -463, 0
+Long Methods, -463, 0
+Ugly Variable Names, -463, 0
+
+-------- day 467 --------
+name, sellIn, quality
+Ring of Cleansening Code, -457, 0
+Good Wine, -465, 50
+Elixir of the SOLID, -462, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -452, 0
+Backstage passes for Re:Factor, -457, 0
+Backstage passes for HAXX, -462, 0
+Duplicate Code, -464, 0
+Long Methods, -464, 0
+Ugly Variable Names, -464, 0
+
+-------- day 468 --------
+name, sellIn, quality
+Ring of Cleansening Code, -458, 0
+Good Wine, -466, 50
+Elixir of the SOLID, -463, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -453, 0
+Backstage passes for Re:Factor, -458, 0
+Backstage passes for HAXX, -463, 0
+Duplicate Code, -465, 0
+Long Methods, -465, 0
+Ugly Variable Names, -465, 0
+
+-------- day 469 --------
+name, sellIn, quality
+Ring of Cleansening Code, -459, 0
+Good Wine, -467, 50
+Elixir of the SOLID, -464, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -454, 0
+Backstage passes for Re:Factor, -459, 0
+Backstage passes for HAXX, -464, 0
+Duplicate Code, -466, 0
+Long Methods, -466, 0
+Ugly Variable Names, -466, 0
+
+-------- day 470 --------
+name, sellIn, quality
+Ring of Cleansening Code, -460, 0
+Good Wine, -468, 50
+Elixir of the SOLID, -465, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -455, 0
+Backstage passes for Re:Factor, -460, 0
+Backstage passes for HAXX, -465, 0
+Duplicate Code, -467, 0
+Long Methods, -467, 0
+Ugly Variable Names, -467, 0
+
+-------- day 471 --------
+name, sellIn, quality
+Ring of Cleansening Code, -461, 0
+Good Wine, -469, 50
+Elixir of the SOLID, -466, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -456, 0
+Backstage passes for Re:Factor, -461, 0
+Backstage passes for HAXX, -466, 0
+Duplicate Code, -468, 0
+Long Methods, -468, 0
+Ugly Variable Names, -468, 0
+
+-------- day 472 --------
+name, sellIn, quality
+Ring of Cleansening Code, -462, 0
+Good Wine, -470, 50
+Elixir of the SOLID, -467, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -457, 0
+Backstage passes for Re:Factor, -462, 0
+Backstage passes for HAXX, -467, 0
+Duplicate Code, -469, 0
+Long Methods, -469, 0
+Ugly Variable Names, -469, 0
+
+-------- day 473 --------
+name, sellIn, quality
+Ring of Cleansening Code, -463, 0
+Good Wine, -471, 50
+Elixir of the SOLID, -468, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -458, 0
+Backstage passes for Re:Factor, -463, 0
+Backstage passes for HAXX, -468, 0
+Duplicate Code, -470, 0
+Long Methods, -470, 0
+Ugly Variable Names, -470, 0
+
+-------- day 474 --------
+name, sellIn, quality
+Ring of Cleansening Code, -464, 0
+Good Wine, -472, 50
+Elixir of the SOLID, -469, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -459, 0
+Backstage passes for Re:Factor, -464, 0
+Backstage passes for HAXX, -469, 0
+Duplicate Code, -471, 0
+Long Methods, -471, 0
+Ugly Variable Names, -471, 0
+
+-------- day 475 --------
+name, sellIn, quality
+Ring of Cleansening Code, -465, 0
+Good Wine, -473, 50
+Elixir of the SOLID, -470, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -460, 0
+Backstage passes for Re:Factor, -465, 0
+Backstage passes for HAXX, -470, 0
+Duplicate Code, -472, 0
+Long Methods, -472, 0
+Ugly Variable Names, -472, 0
+
+-------- day 476 --------
+name, sellIn, quality
+Ring of Cleansening Code, -466, 0
+Good Wine, -474, 50
+Elixir of the SOLID, -471, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -461, 0
+Backstage passes for Re:Factor, -466, 0
+Backstage passes for HAXX, -471, 0
+Duplicate Code, -473, 0
+Long Methods, -473, 0
+Ugly Variable Names, -473, 0
+
+-------- day 477 --------
+name, sellIn, quality
+Ring of Cleansening Code, -467, 0
+Good Wine, -475, 50
+Elixir of the SOLID, -472, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -462, 0
+Backstage passes for Re:Factor, -467, 0
+Backstage passes for HAXX, -472, 0
+Duplicate Code, -474, 0
+Long Methods, -474, 0
+Ugly Variable Names, -474, 0
+
+-------- day 478 --------
+name, sellIn, quality
+Ring of Cleansening Code, -468, 0
+Good Wine, -476, 50
+Elixir of the SOLID, -473, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -463, 0
+Backstage passes for Re:Factor, -468, 0
+Backstage passes for HAXX, -473, 0
+Duplicate Code, -475, 0
+Long Methods, -475, 0
+Ugly Variable Names, -475, 0
+
+-------- day 479 --------
+name, sellIn, quality
+Ring of Cleansening Code, -469, 0
+Good Wine, -477, 50
+Elixir of the SOLID, -474, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -464, 0
+Backstage passes for Re:Factor, -469, 0
+Backstage passes for HAXX, -474, 0
+Duplicate Code, -476, 0
+Long Methods, -476, 0
+Ugly Variable Names, -476, 0
+
+-------- day 480 --------
+name, sellIn, quality
+Ring of Cleansening Code, -470, 0
+Good Wine, -478, 50
+Elixir of the SOLID, -475, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -465, 0
+Backstage passes for Re:Factor, -470, 0
+Backstage passes for HAXX, -475, 0
+Duplicate Code, -477, 0
+Long Methods, -477, 0
+Ugly Variable Names, -477, 0
+
+-------- day 481 --------
+name, sellIn, quality
+Ring of Cleansening Code, -471, 0
+Good Wine, -479, 50
+Elixir of the SOLID, -476, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -466, 0
+Backstage passes for Re:Factor, -471, 0
+Backstage passes for HAXX, -476, 0
+Duplicate Code, -478, 0
+Long Methods, -478, 0
+Ugly Variable Names, -478, 0
+
+-------- day 482 --------
+name, sellIn, quality
+Ring of Cleansening Code, -472, 0
+Good Wine, -480, 50
+Elixir of the SOLID, -477, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -467, 0
+Backstage passes for Re:Factor, -472, 0
+Backstage passes for HAXX, -477, 0
+Duplicate Code, -479, 0
+Long Methods, -479, 0
+Ugly Variable Names, -479, 0
+
+-------- day 483 --------
+name, sellIn, quality
+Ring of Cleansening Code, -473, 0
+Good Wine, -481, 50
+Elixir of the SOLID, -478, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -468, 0
+Backstage passes for Re:Factor, -473, 0
+Backstage passes for HAXX, -478, 0
+Duplicate Code, -480, 0
+Long Methods, -480, 0
+Ugly Variable Names, -480, 0
+
+-------- day 484 --------
+name, sellIn, quality
+Ring of Cleansening Code, -474, 0
+Good Wine, -482, 50
+Elixir of the SOLID, -479, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -469, 0
+Backstage passes for Re:Factor, -474, 0
+Backstage passes for HAXX, -479, 0
+Duplicate Code, -481, 0
+Long Methods, -481, 0
+Ugly Variable Names, -481, 0
+
+-------- day 485 --------
+name, sellIn, quality
+Ring of Cleansening Code, -475, 0
+Good Wine, -483, 50
+Elixir of the SOLID, -480, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -470, 0
+Backstage passes for Re:Factor, -475, 0
+Backstage passes for HAXX, -480, 0
+Duplicate Code, -482, 0
+Long Methods, -482, 0
+Ugly Variable Names, -482, 0
+
+-------- day 486 --------
+name, sellIn, quality
+Ring of Cleansening Code, -476, 0
+Good Wine, -484, 50
+Elixir of the SOLID, -481, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -471, 0
+Backstage passes for Re:Factor, -476, 0
+Backstage passes for HAXX, -481, 0
+Duplicate Code, -483, 0
+Long Methods, -483, 0
+Ugly Variable Names, -483, 0
+
+-------- day 487 --------
+name, sellIn, quality
+Ring of Cleansening Code, -477, 0
+Good Wine, -485, 50
+Elixir of the SOLID, -482, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -472, 0
+Backstage passes for Re:Factor, -477, 0
+Backstage passes for HAXX, -482, 0
+Duplicate Code, -484, 0
+Long Methods, -484, 0
+Ugly Variable Names, -484, 0
+
+-------- day 488 --------
+name, sellIn, quality
+Ring of Cleansening Code, -478, 0
+Good Wine, -486, 50
+Elixir of the SOLID, -483, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -473, 0
+Backstage passes for Re:Factor, -478, 0
+Backstage passes for HAXX, -483, 0
+Duplicate Code, -485, 0
+Long Methods, -485, 0
+Ugly Variable Names, -485, 0
+
+-------- day 489 --------
+name, sellIn, quality
+Ring of Cleansening Code, -479, 0
+Good Wine, -487, 50
+Elixir of the SOLID, -484, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -474, 0
+Backstage passes for Re:Factor, -479, 0
+Backstage passes for HAXX, -484, 0
+Duplicate Code, -486, 0
+Long Methods, -486, 0
+Ugly Variable Names, -486, 0
+
+-------- day 490 --------
+name, sellIn, quality
+Ring of Cleansening Code, -480, 0
+Good Wine, -488, 50
+Elixir of the SOLID, -485, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -475, 0
+Backstage passes for Re:Factor, -480, 0
+Backstage passes for HAXX, -485, 0
+Duplicate Code, -487, 0
+Long Methods, -487, 0
+Ugly Variable Names, -487, 0
+
+-------- day 491 --------
+name, sellIn, quality
+Ring of Cleansening Code, -481, 0
+Good Wine, -489, 50
+Elixir of the SOLID, -486, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -476, 0
+Backstage passes for Re:Factor, -481, 0
+Backstage passes for HAXX, -486, 0
+Duplicate Code, -488, 0
+Long Methods, -488, 0
+Ugly Variable Names, -488, 0
+
+-------- day 492 --------
+name, sellIn, quality
+Ring of Cleansening Code, -482, 0
+Good Wine, -490, 50
+Elixir of the SOLID, -487, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -477, 0
+Backstage passes for Re:Factor, -482, 0
+Backstage passes for HAXX, -487, 0
+Duplicate Code, -489, 0
+Long Methods, -489, 0
+Ugly Variable Names, -489, 0
+
+-------- day 493 --------
+name, sellIn, quality
+Ring of Cleansening Code, -483, 0
+Good Wine, -491, 50
+Elixir of the SOLID, -488, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -478, 0
+Backstage passes for Re:Factor, -483, 0
+Backstage passes for HAXX, -488, 0
+Duplicate Code, -490, 0
+Long Methods, -490, 0
+Ugly Variable Names, -490, 0
+
+-------- day 494 --------
+name, sellIn, quality
+Ring of Cleansening Code, -484, 0
+Good Wine, -492, 50
+Elixir of the SOLID, -489, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -479, 0
+Backstage passes for Re:Factor, -484, 0
+Backstage passes for HAXX, -489, 0
+Duplicate Code, -491, 0
+Long Methods, -491, 0
+Ugly Variable Names, -491, 0
+
+-------- day 495 --------
+name, sellIn, quality
+Ring of Cleansening Code, -485, 0
+Good Wine, -493, 50
+Elixir of the SOLID, -490, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -480, 0
+Backstage passes for Re:Factor, -485, 0
+Backstage passes for HAXX, -490, 0
+Duplicate Code, -492, 0
+Long Methods, -492, 0
+Ugly Variable Names, -492, 0
+
+-------- day 496 --------
+name, sellIn, quality
+Ring of Cleansening Code, -486, 0
+Good Wine, -494, 50
+Elixir of the SOLID, -491, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -481, 0
+Backstage passes for Re:Factor, -486, 0
+Backstage passes for HAXX, -491, 0
+Duplicate Code, -493, 0
+Long Methods, -493, 0
+Ugly Variable Names, -493, 0
+
+-------- day 497 --------
+name, sellIn, quality
+Ring of Cleansening Code, -487, 0
+Good Wine, -495, 50
+Elixir of the SOLID, -492, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -482, 0
+Backstage passes for Re:Factor, -487, 0
+Backstage passes for HAXX, -492, 0
+Duplicate Code, -494, 0
+Long Methods, -494, 0
+Ugly Variable Names, -494, 0
+
+-------- day 498 --------
+name, sellIn, quality
+Ring of Cleansening Code, -488, 0
+Good Wine, -496, 50
+Elixir of the SOLID, -493, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -483, 0
+Backstage passes for Re:Factor, -488, 0
+Backstage passes for HAXX, -493, 0
+Duplicate Code, -495, 0
+Long Methods, -495, 0
+Ugly Variable Names, -495, 0
+
+-------- day 499 --------
+name, sellIn, quality
+Ring of Cleansening Code, -489, 0
+Good Wine, -497, 50
+Elixir of the SOLID, -494, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -484, 0
+Backstage passes for Re:Factor, -489, 0
+Backstage passes for HAXX, -494, 0
+Duplicate Code, -496, 0
+Long Methods, -496, 0
+Ugly Variable Names, -496, 0
+
+-------- day 500 --------
+name, sellIn, quality
+Ring of Cleansening Code, -490, 0
+Good Wine, -498, 50
+Elixir of the SOLID, -495, 0
+B-DAWG Keychain, 0, 80
+B-DAWG Keychain, -1, 80
+Backstage passes for Re:Factor, -485, 0
+Backstage passes for Re:Factor, -490, 0
+Backstage passes for HAXX, -495, 0
+Duplicate Code, -497, 0
+Long Methods, -497, 0
+Ugly Variable Names, -497, 0
+
