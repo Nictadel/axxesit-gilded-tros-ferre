@@ -12,13 +12,17 @@ describe('app should work with original data', () => {
     new Item('Backstage passes for Re:Factor', 10, 49),
     new Item('Backstage passes for HAXX', 5, 49),
     // these smelly items do not work properly yet
-    new Item('Duplicate Code', 3, 6),
-    new Item('Long Methods', 3, 6),
-    new Item('Ugly Variable Names', 3, 6),
+    new Item('Duplicate Code', 3, 12),
+    new Item('Long Methods', 3, 12),
+    new Item('Ugly Variable Names', 1, 12),
   ]
 
   const goodItems = items.slice(0, 8)
-  const app: GildedTros = new GildedTros(goodItems)
+
+  const smellyItems = items.slice(8)
+
+  const appGoodData: GildedTros = new GildedTros(goodItems)
+  const appSmellyData: GildedTros = new GildedTros(smellyItems)
 
   it.each([
     {
@@ -77,6 +81,46 @@ describe('app should work with original data', () => {
     goodItems.forEach((item, index) => {
       expect(item.toString()).toEqual(expected[index])
     })
-    app.updateQuality()
+    appGoodData.updateQuality()
+  })
+
+  it.each([
+    {
+      // Day 0 - Initial State
+      expected: [
+        'Duplicate Code, 3, 12',
+        'Long Methods, 3, 12',
+        'Ugly Variable Names, 1, 12',
+      ],
+    },
+    {
+      // Day 1
+      expected: [
+        'Duplicate Code, 2, 10',
+        'Long Methods, 2, 10',
+        'Ugly Variable Names, 0, 10',
+      ],
+    },
+    {
+      // Day 2
+      expected: [
+        'Duplicate Code, 1, 8',
+        'Long Methods, 1, 8',
+        'Ugly Variable Names, -1, 6',
+      ],
+    },
+    {
+      // Day 3
+      expected: [
+        'Duplicate Code, 0, 6',
+        'Long Methods, 0, 6',
+        'Ugly Variable Names, -2, 2',
+      ],
+    },
+  ])('update the smelly items correctly for day %#', ({ expected }) => {
+    smellyItems.forEach((item, index) => {
+      expect(item.toString()).toEqual(expected[index])
+    })
+    appSmellyData.updateQuality()
   })
 })
