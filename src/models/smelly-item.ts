@@ -7,7 +7,7 @@ export class SmellyItem extends InventoryItem {
     this.sellIn--
 
     this.quality = clamp(
-      this.sellIn <= SELL_IN_EXPIRED
+      this.sellIn < SELL_IN_EXPIRED
         ? this.quality - 4
         : this.quality - 2,
       MINIMUM_QUALITY,

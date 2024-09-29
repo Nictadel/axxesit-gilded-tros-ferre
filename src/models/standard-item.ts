@@ -7,7 +7,7 @@ export class StandardItem extends InventoryItem {
     this.sellIn--
 
     this.quality = clamp(
-      this.sellIn <= SELL_IN_EXPIRED
+      this.sellIn < SELL_IN_EXPIRED
         ? this.quality - 2
         : this.quality - 1,
       MINIMUM_QUALITY,

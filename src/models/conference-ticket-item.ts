@@ -6,17 +6,17 @@ export class ConferenceTicketItem extends InventoryItem {
   updateQuality(): void {
     this.sellIn--
 
-    if (this.sellIn <= 0) {
+    if (this.sellIn < 0) {
       this.quality = 0
       return
     }
 
-    if (this.sellIn <= 5) {
+    if (this.sellIn < 5) {
       this.quality = clamp(this.quality + 3, MINIMUM_QUALITY, MAXIMUM_QUALITY)
       return
     }
 
-    if (this.sellIn <= 10) {
+    if (this.sellIn < 10) {
       this.quality = clamp(this.quality + 2, MINIMUM_QUALITY, MAXIMUM_QUALITY)
       return
     }
