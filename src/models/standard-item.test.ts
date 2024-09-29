@@ -2,7 +2,7 @@ import { StandardItem } from './standard-item';
 import { MAXIMUM_QUALITY, MINIMUM_QUALITY } from '../constants';
 
 
-describe('Standard Item', () => {
+describe('StandardItem', () => {
   it('should decrease quality by 1 when sellIn is greater than 0', () => {
     const item = new StandardItem('Test Item', 10, 20);
     item.updateQuality();
@@ -15,10 +15,10 @@ describe('Standard Item', () => {
     expect(item.quality).toBe(18);
   });
 
-  it('should not decrease quality below 0', () => {
-    const item = new StandardItem('Test Item', 10, 0);
+  it('should not decrease quality below MINIMUM_QUALITY', () => {
+    const item = new StandardItem('Test Item', 10, MINIMUM_QUALITY);
     item.updateQuality();
-    expect(item.quality).toBe(0);
+    expect(item.quality).toBe(MINIMUM_QUALITY);
   });
 
   it('should decrease sellIn by 1', () => {
@@ -33,16 +33,14 @@ describe('Standard Item', () => {
     expect(item.sellIn).toBe(-3);
   });
 
-  it('should clamp quality to minimum quality when quality is below minimum', () => {
-    const item = new StandardItem('Test Item', 10, MINIMUM_QUALITY - 1);
+  it('should clamp initial invalid quality between MINIMUM_QUALITY and MAXIMUM_QUALITY', () => {
+    const item = new StandardItem('Test Item', 10, MINIMUM_QUALITY - 10);
     item.updateQuality();
     expect(item.quality).toBe(MINIMUM_QUALITY);
-  });
 
-  it('should clamp quality to maximum quality when quality is above maximum', () => {
-    const item = new StandardItem('Test Item', 10, MAXIMUM_QUALITY + 10);
-    item.updateQuality();
-    expect(item.quality).toBe(MAXIMUM_QUALITY);
+    const item2 = new StandardItem('Test Item', 10, MAXIMUM_QUALITY + 10);
+    item2.updateQuality();
+    expect(item2.quality).toBe(MAXIMUM_QUALITY);
   });
 });
 
