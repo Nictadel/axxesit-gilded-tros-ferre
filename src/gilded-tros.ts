@@ -1,7 +1,14 @@
-/* eslint-disable eqeqeq */
-// TODO: Remove this line when updating updateQuality method
-
 import type { Item } from './item'
+import { ConferenceTicketItem } from './models/conference-ticket-item'
+import { ImprovingItem } from './models/improving-item'
+import { LegendaryItem } from './models/legendary-item'
+import { SmellyItem } from './models/smelly-item'
+import { StandardItem } from './models/standard-item'
+
+const LEGENDARY_ITEM_NAMES = ['B-DAWG Keychain']
+const BACKSTAGE_PASS_ITEM_NAMES = ['Backstage passes for Re:Factor', 'Backstage passes for HAXX']
+const SMELLY_ITEM_NAMES = ['Duplicate Code', 'Long Methods', 'Ugly Variable Names']
+const IMPROVING_ITEM_NAMES = ['Good Wine']
 
 export class GildedTros {
   constructor(public items: Array<Item>) {
@@ -9,58 +16,26 @@ export class GildedTros {
   }
 
   public updateQuality(): void {
-    for (let i = 0; i < this.items.length; i++) {
-      if (this.items[i].name != 'Good Wine' && this.items[i].name != 'Backstage passes for Re:Factor'
-        && this.items[i].name != 'Backstage passes for HAXX') {
-        if (this.items[i].quality > 0) {
-          if (this.items[i].name != 'B-DAWG Keychain') {
-            this.items[i].quality = this.items[i].quality - 1
-          }
+    this.items
+      .map((item) => {
+        if (LEGENDARY_ITEM_NAMES.includes(item.name)) {
+          return new LegendaryItem(item)
         }
-      }
-      else {
-        if (this.items[i].quality < 50) {
-          this.items[i].quality = this.items[i].quality + 1
 
-          if (this.items[i].name == 'Backstage passes for Re:Factor') {
-            if (this.items[i].sellIn < 11) {
-              if (this.items[i].quality < 50) {
-                this.items[i].quality = this.items[i].quality + 1
-              }
-            }
-
-            if (this.items[i].sellIn < 6) {
-              if (this.items[i].quality < 50) {
-                this.items[i].quality = this.items[i].quality + 1
-              }
-            }
-          }
+        if (BACKSTAGE_PASS_ITEM_NAMES.includes(item.name)) {
+          return new ConferenceTicketItem(item)
         }
-      }
 
-      if (this.items[i].name != 'B-DAWG Keychain') {
-        this.items[i].sellIn = this.items[i].sellIn - 1
-      }
+        if (SMELLY_ITEM_NAMES.includes(item.name)) {
+          return new SmellyItem(item)
+        }
 
-      if (this.items[i].sellIn < 0) {
-        if (this.items[i].name != 'Good Wine') {
-          if (this.items[i].name != 'Backstage passes for Re:Factor' || this.items[i].name != 'Backstage passes for HAXX') {
-            if (this.items[i].quality > 0) {
-              if (this.items[i].name != 'B-DAWG Keychain') {
-                this.items[i].quality = this.items[i].quality - 1
-              }
-            }
-          }
-          else {
-            this.items[i].quality = this.items[i].quality - this.items[i].quality
-          }
+        if (IMPROVING_ITEM_NAMES.includes(item.name)) {
+          return new ImprovingItem(item)
         }
-        else {
-          if (this.items[i].quality < 50) {
-            this.items[i].quality = this.items[i].quality + 1
-          }
-        }
-      }
-    }
+
+        return new StandardItem(item)
+      })
+      .forEach(item => item.updateQuality())
   }
 }
