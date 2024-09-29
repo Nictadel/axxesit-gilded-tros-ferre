@@ -1,4 +1,4 @@
-import type {Config} from 'jest';
+import type { Config } from 'jest'
 
 const config: Config = {
   verbose: true,
@@ -9,8 +9,8 @@ const config: Config = {
   ],
   transform: {
     '^.+\\.(ts|tsx)?$': 'ts-jest',
-    "^.+\\.(js|jsx)$": "babel-jest",
-  }
-};
+    '^.+\\.(js|jsx)$': 'babel-jest',
+  },
+}
 
-export default config;
+export default config
